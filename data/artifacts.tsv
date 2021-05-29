@@ -1,0 +1,16 @@
+Name	ATK%	NADB	CADB	PDB	CDB	CR
+4-glad	0.18	0.35	0	0	0	0
+4-bc no active	0	0	0	0.25	0	0
+4-bc with active	0	0	0.5	0.25	0	0
+4-bs no cryo	0	0	0	0	0.15	0
+4-bs cryo	0	0	0	0	0.15	0.2
+4-bs no frozen	0	0	0	0	0.15	0.4
+4-bolide no shield	0	0	0	0	0	0
+4-bolide with shield	0	0	0.4	0.4	0	0
+4-pf 0 stack	0	0	0	0.25	0	0
+4-pf 1 stack	0.09	0	0	0.25	0	0
+4-pf 2 stacks	0.18	0	0	0.5	0	0
+2-glad-2-bs	0.18	0	0	0	0.15	0
+2-glad-2-bc	0.18	0	0	0.25	0	0
+2-bc-2-pf	0	0	0	0.5	0	0
+2-bc-2-bs	0	0	0	0.25	0.15	0
