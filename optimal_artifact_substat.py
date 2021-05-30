@@ -86,7 +86,7 @@ def main():
                         OD = mainstat['CD'] + 0.5
 
                         max_A, max_CR, max_CD = brute_force_optimize(B, O, F, OR, OD, N, sword_name)
-                        current_row.append('/'.join([str(max_A), str(max_CR), str(max_CD)]))
+                        current_row.append('[' + '/'.join([str(max_A), str(max_CR), str(max_CD)]) + ']')
 
                     all_results.append(current_row)
 
