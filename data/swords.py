@@ -1,4 +1,4 @@
-from utils.read import read_data_table
+from utils.io import read_data_table
 
 
 # For now, we simply put the swords data into nested dictionaries.

@@ -15,6 +15,8 @@ def read_data_table(filename):
             table[line[0]] = dict()
 
             for attribute, value in zip(attributes, line[1:]):
-                table[line[0]][attribute] = value
-
+                if attribute == 'Note':
+                    table[line[0]][attribute] = value
+                else:
+                    table[line[0]][attribute] = float(value)
         return table
