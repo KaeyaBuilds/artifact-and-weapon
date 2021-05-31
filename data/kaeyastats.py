@@ -15,7 +15,7 @@ class Kaeya:
         self.er = {str(i + 1): 0 for i in range(90)}
 
         # TODO: Actually provide data for every level.
-        self.hp['80'] = 10,30
+        self.hp['80'] = 10830
         self.atk['80'] = 208
         self.defense['80'] = 737
         self.er['80'] = 0.267

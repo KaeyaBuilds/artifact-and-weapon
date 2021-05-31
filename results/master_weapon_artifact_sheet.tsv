@@ -10259,861 +10259,861 @@ Prototype Rancour 4 stacks	2	4-no with active	ATK%/ATK%/CD	0/18/2	4	4722	11258	3
 Prototype Rancour 4 stacks	3	4-no with active	ATK%/ATK%/CD	0/18/2	4	4791	11423	3562	8493	11861	5768
 Prototype Rancour 4 stacks	4	4-no with active	ATK%/ATK%/CD	0/18/2	4	4860	11588	3613	8615	12032	5851
 Prototype Rancour 4 stacks	5	4-no with active	ATK%/ATK%/CD	0/18/2	4	4929	11752	3665	8738	12203	5934
-Primordial Jade Cutter	1	4-glad	ATK%/PHYS/ATK%	0/6/14	5	8252	16113	5763	10178	14216	5760
-Primordial Jade Cutter	2	4-glad	ATK%/PHYS/ATK%	0/6/14	5	8747	17078	6109	10788	15067	6105
-Primordial Jade Cutter	3	4-glad	ATK%/PHYS/ATK%	0/6/14	5	9241	18043	6454	11398	15919	6451
-Primordial Jade Cutter	4	4-glad	ATK%/PHYS/ATK%	0/6/14	5	9736	19009	6799	12008	16771	6796
-Primordial Jade Cutter	5	4-glad	ATK%/PHYS/ATK%	0/6/14	5	10230	19974	7145	12618	17623	7141
-Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	7375	17583	4023	9592	13397	5429
-Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	7844	18701	4279	10202	14249	5774
-Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	8313	19819	4535	10812	15101	6119
-Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	8782	20937	4791	11422	15952	6464
-Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	9250	22055	5046	12032	16804	6809
-Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	7375	22380	4023	14389	13397	5429
-Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	7844	23802	4279	15304	14249	5774
-Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	8313	25225	4535	16218	15101	6119
-Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	8782	26648	4791	17133	15952	6464
-Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	9250	28071	5046	18048	16804	6809
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	6369	15185	4627	11031	15407	6243
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	6774	16150	4921	11733	16386	6640
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	7179	17116	5215	12434	17366	7037
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	7584	18081	5509	13135	18345	7434
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	7989	19047	5803	13837	19325	7831
-Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	7334	17486	5328	12703	17742	7189
-Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	7801	18598	5667	13511	18870	7646
-Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	8267	19710	6005	14318	19998	8103
-Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	8733	20822	6344	15126	21126	8560
-Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	9199	21933	6683	15934	22254	9018
-Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	8428	20094	6123	14598	20388	8261
-Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	8964	21372	6512	15526	21684	8787
-Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	9500	22649	6901	16454	22980	9312
-Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	10036	23927	7290	17382	24276	9837
-Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	10572	25204	7680	18310	25573	10362
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	6369	15185	4023	9592	13397	5429
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	6774	16150	4279	10202	14249	5774
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	7179	17116	4535	10812	15101	6119
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	7584	18081	4791	11422	15952	6464
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	7989	19047	5046	12032	16804	6809
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	7978	19022	5633	13430	13397	5429
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	8486	20232	5991	14283	14249	5774
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	8993	21441	6349	15137	15101	6119
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	9500	22650	6707	15991	15952	6464
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	10007	23860	7065	16845	16804	6809
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	7375	17583	4023	9592	13397	5429
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	7844	18701	4279	10202	14249	5774
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	8313	19819	4535	10812	15101	6119
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	8782	20937	4791	11422	15952	6464
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	9250	22055	5046	12032	16804	6809
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	7600	18120	4146	9885	13806	5594
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	8069	19238	4402	10495	14658	5940
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	8538	20356	4658	11105	15510	6285
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	9007	21474	4913	11715	16362	6630
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	9476	22592	5169	12325	17213	6975
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	8893	21202	4269	10178	14216	5760
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	9426	22472	4525	10788	15067	6105
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	9958	23743	4781	11398	15919	6451
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	10491	25013	5036	12008	16771	6796
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	11024	26283	5292	12618	17623	7141
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6758	16113	4909	11705	16348	6624
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7163	17078	5204	12407	17327	7021
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7568	18043	5498	13108	18307	7418
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7973	19009	5792	13809	19286	7815
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	8378	19974	6086	14511	20266	8212
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7825	18657	4269	10178	14216	5760
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	8294	19775	4525	10788	15067	6105
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	8763	20893	4781	11398	15919	6451
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	9232	22011	5036	12008	16771	6796
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	9701	23129	5292	12618	17623	7141
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	8381	19981	4023	9592	13397	5429
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	8914	21252	4279	10202	14249	5774
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	9446	22522	4535	10812	15101	6119
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	9979	23793	4791	11422	15952	6464
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	10512	25063	5046	12032	16804	6809
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7375	17583	4627	11031	15407	6243
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7844	18701	4921	11733	16386	6640
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	8313	19819	5215	12434	17366	7037
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	8782	20937	5509	13135	18345	7434
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	9250	22055	5803	13837	19325	7831
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6758	16113	4269	10178	14216	6912
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	7163	17078	4525	10788	15067	7327
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	7568	18043	4781	11398	15919	7741
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	7973	19009	5036	12008	16771	8155
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	8378	19974	5292	12618	17623	8569
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	6369	15185	4627	11031	15407	7329
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	6774	16150	4921	11733	16386	7795
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	7179	17116	5215	12434	17366	8261
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	7584	18081	5509	13135	18345	8727
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	7989	19047	5803	13837	19325	9193
-Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	6369	15185	4023	9592	13397	6514
-Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	6774	16150	4279	10202	14249	6929
-Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	7179	17116	4535	10812	15101	7343
-Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	7584	18081	4791	11422	15952	7757
-Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	7989	19047	5046	12032	16804	8171
-Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6801	16216	4296	10243	14306	6957
-Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	7206	17181	4552	10853	15158	7371
-Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	7611	18147	4808	11463	16010	7785
-Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	8016	19112	5064	12073	16862	8199
-Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	8421	20077	5319	12683	17713	8613
-Primordial Jade Cutter	1	4-glad	ATK%/PHYS/CR	0/2/18	5	8738	17061	6103	10778	15052	6099
-Primordial Jade Cutter	2	4-glad	ATK%/PHYS/CR	0/2/18	5	9354	18263	6532	11537	16112	6529
-Primordial Jade Cutter	3	4-glad	ATK%/PHYS/CR	0/2/18	5	9969	19464	6962	12295	17172	6958
-Primordial Jade Cutter	4	4-glad	ATK%/PHYS/CR	0/2/18	5	10584	20665	7392	13054	18232	7388
-Primordial Jade Cutter	5	4-glad	ATK%/PHYS/CR	0/2/18	5	11199	21866	7821	13813	19292	7817
-Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/CR	0/2/18	5	7726	18419	4214	10048	14034	5687
-Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/CR	0/2/18	5	8309	19810	4533	10807	15094	6116
-Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/CR	0/2/18	5	8892	21201	4851	11566	16154	6546
-Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/CR	0/2/18	5	9476	22592	5169	12325	17214	6975
-Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/CR	0/2/18	5	10059	23983	5488	13084	18274	7405
-Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/CR	0/2/18	5	7726	23444	4214	15073	14034	5687
-Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/CR	0/2/18	5	8309	25214	4533	16211	15094	6116
-Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/CR	0/2/18	5	8892	26985	4851	17350	16154	6546
-Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/CR	0/2/18	5	9476	28755	5169	18488	17214	6975
-Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/CR	0/2/18	5	10059	30526	5488	19626	18274	7405
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	6672	15907	4847	11556	16139	6540
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	7176	17108	5213	12429	17358	7034
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	7680	18310	5579	13301	18577	7528
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	8183	19511	5945	14174	19796	8022
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	8687	20712	6311	15047	21015	8515
-Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	7632	18197	5544	13219	18462	7481
-Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	8209	19571	5963	14217	19857	8046
-Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	8785	20945	6382	15216	21251	8611
-Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	9361	22319	6801	16214	22645	9176
-Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	9938	23693	7219	17212	24039	9741
-Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	7632	18197	5544	13219	18462	7481
-Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	8209	19571	5963	14217	19857	8046
-Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	8785	20945	6382	15216	21251	8611
-Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	9361	22319	6801	16214	22645	9176
-Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	9938	23693	7219	17212	24039	9741
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	6672	15907	4214	10048	14034	5687
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	7176	17108	4533	10807	15094	6116
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	7680	18310	4851	11566	16154	6546
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	8183	19511	5169	12325	17214	6975
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	8687	20712	5488	13084	18274	7405
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	8358	19927	5900	14068	14034	5687
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	8989	21431	6346	15130	15094	6116
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	9620	22936	6792	16193	16154	6546
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	10251	24441	7237	17255	17214	6975
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	10883	25946	7683	18318	18274	7405
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	7726	18419	4214	10048	14034	5687
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	8309	19810	4533	10807	15094	6116
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	8892	21201	4851	11566	16154	6546
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	9476	22592	5169	12325	17214	6975
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	10059	23983	5488	13084	18274	7405
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	8006	19088	4367	10413	14543	5893
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	8589	20479	4686	11172	15603	6323
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	9173	21870	5004	11931	16663	6752
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	9756	23261	5322	12690	17723	7182
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	10340	24652	5641	13449	18783	7611
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	9416	22450	4520	10778	15052	6099
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	10079	24031	4839	11537	16112	6529
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	10742	25612	5157	12295	17172	6958
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	11405	27193	5475	13054	18232	7388
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	12068	28773	5794	13813	19292	7817
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	7156	17061	5198	12394	17310	7014
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	7660	18263	5564	13267	18529	7508
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	8164	19464	5931	14140	19748	8002
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	8668	20665	6297	15012	20967	8496
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	9171	21866	6663	15885	22186	8990
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	8286	19756	4520	10778	15052	6099
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	8870	21147	4839	11537	16112	6529
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	9453	22538	5157	12295	17172	6958
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	10037	23929	5475	13054	18232	7388
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	10620	25320	5794	13813	19292	7817
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	8779	20931	4214	10048	14034	5687
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	9442	22512	4533	10807	15094	6116
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	10105	24093	4851	11566	16154	6546
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	10768	25674	5169	12325	17214	6975
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	11431	27254	5488	13084	18274	7405
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	7726	18419	4847	11556	16139	6540
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	8309	19810	5213	12429	17358	7034
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	8892	21201	5579	13301	18577	7528
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	9476	22592	5945	14174	19796	8022
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	10059	23983	6311	15047	21015	8515
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	7156	17061	4520	10778	15052	7319
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	7660	18263	4839	11537	16112	7835
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	8164	19464	5157	12295	17172	8350
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	8668	20665	5475	13054	18232	8866
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	9171	21866	5794	13813	19292	9381
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	6672	15907	4847	11556	16139	7677
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	7176	17108	5213	12429	17358	8257
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	7680	18310	5579	13301	18577	8837
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	8183	19511	5945	14174	19796	9417
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	8687	20712	6311	15047	21015	9996
-Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/CR	0/2/18	5	6672	15907	4214	10048	14034	6824
-Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/CR	0/2/18	5	7176	17108	4533	10807	15094	7340
-Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/CR	0/2/18	5	7680	18310	4851	11566	16154	7855
-Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/CR	0/2/18	5	8183	19511	5169	12325	17214	8370
-Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/CR	0/2/18	5	8687	20712	5488	13084	18274	8886
-Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/CR	0/2/18	5	7210	17190	4554	10859	15166	7374
-Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/CR	0/2/18	5	7714	18391	4873	11618	16225	7890
-Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/CR	0/2/18	5	8217	19592	5191	12376	17285	8405
-Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/CR	0/2/18	5	8721	20793	5509	13135	18345	8921
-Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/CR	0/2/18	5	9225	21995	5828	13894	19405	9436
-Primordial Jade Cutter	1	4-glad	ATK%/PHYS/CD	0/11/9	5	8739	17063	6103	10779	15054	6100
-Primordial Jade Cutter	2	4-glad	ATK%/PHYS/CD	0/11/9	5	9355	18265	6533	11538	16114	6530
-Primordial Jade Cutter	3	4-glad	ATK%/PHYS/CD	0/11/9	5	9970	19466	6963	12297	17174	6959
-Primordial Jade Cutter	4	4-glad	ATK%/PHYS/CD	0/11/9	5	10585	20668	7393	13056	18234	7389
-Primordial Jade Cutter	5	4-glad	ATK%/PHYS/CD	0/11/9	5	11201	21869	7822	13815	19294	7818
-Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/CD	0/11/9	5	7726	18421	4215	10050	14036	5687
-Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/CD	0/11/9	5	8310	19813	4533	10809	15096	6117
-Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/CD	0/11/9	5	8893	21204	4852	11568	16156	6546
-Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/CD	0/11/9	5	9477	22595	5170	12326	17216	6976
-Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/CD	0/11/9	5	10060	23986	5488	13085	18276	7406
-Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/CD	0/11/9	5	7726	23446	4215	15075	14036	5687
-Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/CD	0/11/9	5	8310	25217	4533	16213	15096	6117
-Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/CD	0/11/9	5	8893	26988	4852	17352	16156	6546
-Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/CD	0/11/9	5	9477	28758	5170	18490	17216	6976
-Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/CD	0/11/9	5	10060	30529	5488	19628	18276	7406
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	6673	15909	4847	11557	16141	6541
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	7176	17110	5213	12430	17360	7035
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	7680	18312	5579	13303	18579	7528
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	8184	19513	5946	14176	19798	8022
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	8688	20715	6312	15048	21017	8516
-Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/CD	1/8/11	5	7633	18198	5545	13220	18464	7482
-Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	8231	19625	5980	14257	19912	8069
-Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	8809	21003	6400	15258	21310	8635
-Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	9387	22381	6820	16259	22708	9202
-Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	9965	23760	7239	17260	24106	9768
-Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/CD	3/3/14	5	8681	20698	6306	15036	21000	8509
-Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/CD	2/3/15	5	9333	22251	6780	16164	22576	9148
-Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/CD	1/3/16	5	10004	23851	7267	17327	24199	9806
-Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/CD	0/3/17	5	10694	25497	7769	18523	25870	10483
-Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/CD	0/3/17	5	11353	27067	8247	19663	27463	11128
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	6673	15909	4215	10050	14036	5687
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	7176	17110	4533	10809	15096	6117
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	7680	18312	4852	11568	16156	6546
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	8184	19513	5170	12326	17216	6976
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	8688	20715	5488	13085	18276	7406
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	8359	19929	5901	14070	14036	5687
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	8990	21434	6347	15132	15096	6117
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	9621	22939	6792	16195	16156	6546
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	10253	24444	7238	17257	17216	6976
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	10884	25949	7684	18320	18276	7406
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	7726	18421	4215	10050	14036	5687
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	8310	19813	4533	10809	15096	6117
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	8893	21204	4852	11568	16156	6546
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	9477	22595	5170	12326	17216	6976
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	10060	23986	5488	13085	18276	7406
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	8007	19090	4368	10414	14545	5894
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	8590	20481	4686	11173	15605	6323
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	9174	21872	5005	11932	16665	6753
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	9757	23263	5323	12691	17725	7182
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	10341	24654	5641	13450	18785	7612
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	9417	22453	4521	10779	15054	6100
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	10081	24034	4839	11538	16114	6530
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	10744	25615	5158	12297	17174	6959
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	11407	27196	5476	13056	18234	7389
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	12070	28777	5794	13815	19294	7818
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	7157	17063	5199	12396	17312	7015
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	7661	18265	5565	13269	18531	7509
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	8165	19466	5931	14141	19750	8003
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	8669	20668	6297	15014	20969	8497
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	9172	21869	6663	15887	22188	8991
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	8287	19758	4521	10779	15054	6100
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	8871	21149	4839	11538	16114	6530
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	9454	22540	5158	12297	17174	6959
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	10038	23932	5476	13056	18234	7389
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	10621	25323	5794	13815	19294	7818
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	8780	20934	4215	10050	14036	5687
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	9443	22515	4533	10809	15096	6117
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	10106	24096	4852	11568	16156	6546
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	10770	25677	5170	12326	17216	6976
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	11433	27258	5488	13085	18276	7406
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	7726	18421	4847	11557	16141	6541
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	8310	19813	5213	12430	17360	7035
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	8893	21204	5579	13303	18579	7528
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	9477	22595	5946	14176	19798	8022
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	10060	23986	6312	15048	21017	8516
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	7157	17063	4521	10779	15054	7320
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	7661	18265	4839	11538	16114	7836
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	8165	19466	5158	12297	17174	8351
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	8669	20668	5476	13056	18234	8867
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	9172	21869	5794	13815	19294	9382
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	6673	15909	4847	11557	16141	7678
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	7176	17110	5213	12430	17360	8258
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	7680	18312	5579	13303	18579	8838
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	8184	19513	5946	14176	19798	9418
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	8688	20715	6312	15048	21017	9998
-Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/CD	0/11/9	5	6673	15909	4215	10050	14036	6825
-Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/CD	0/11/9	5	7176	17110	4533	10809	15096	7340
-Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/CD	0/11/9	5	7680	18312	4852	11568	16156	7856
-Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/CD	0/11/9	5	8184	19513	5170	12326	17216	8371
-Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/CD	0/11/9	5	8688	20715	5488	13085	18276	8887
-Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/CD	0/11/9	5	7211	17191	4555	10860	15167	7375
-Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/CD	0/11/9	5	7714	18393	4873	11619	16227	7891
-Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/CD	0/11/9	5	8218	19594	5191	12378	17287	8406
-Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/CD	0/11/9	5	8722	20796	5510	13137	18347	8922
-Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/CD	0/11/9	5	9226	21997	5828	13896	19407	9437
-Primordial Jade Cutter	1	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5763	10178	7753	14922	20840	8445
-Primordial Jade Cutter	2	4-glad	ATK%/CRYO/ATK%	0/6/14	5	6109	10788	8217	15816	22089	8951
-Primordial Jade Cutter	3	4-glad	ATK%/CRYO/ATK%	0/6/14	5	6454	11398	8682	16710	23338	9457
-Primordial Jade Cutter	4	4-glad	ATK%/CRYO/ATK%	0/6/14	5	6799	12008	9146	17604	24586	9963
-Primordial Jade Cutter	5	4-glad	ATK%/CRYO/ATK%	0/6/14	5	7145	12618	9611	18498	25835	10469
-Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	5029	11991	5898	14063	19640	7959
-Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	5349	12753	6273	14957	20889	8465
-Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	5669	13515	6648	15851	22138	8971
-Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	5988	14278	7023	16745	23386	9477
-Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	6308	15040	7398	17639	24635	9983
-Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	5029	16787	5898	18859	19640	7959
-Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	5349	17854	6273	20058	20889	8465
-Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	5669	18922	6648	21257	22138	8971
-Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	5988	19989	7023	22456	23386	9477
-Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	6308	21056	7398	23655	24635	9983
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	4023	9592	6502	15502	21650	8773
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	4279	10202	6915	16487	23026	9331
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	4535	10812	7329	17473	24403	9888
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	4791	11422	7742	18458	25779	10446
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	5046	12032	8155	19444	27156	11004
-Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4633	11046	7487	17851	24931	10103
-Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4928	11748	7963	18986	26516	10745
-Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	5222	12451	8439	20121	28101	11387
-Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	5517	13153	8915	21256	29686	12029
-Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	5811	13855	9391	22391	31271	12672
-Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	5324	12694	8604	20513	28650	11609
-Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	5662	13501	9151	21817	30471	12347
-Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	6001	14308	9698	23122	32292	13085
-Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	6339	15115	10245	24426	34114	13824
-Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	6678	15922	10792	25730	35935	14562
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	4023	9592	5898	14063	19640	7959
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	4279	10202	6273	14957	20889	8465
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	4535	10812	6648	15851	22138	8971
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	4791	11422	7023	16745	23386	9477
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	5046	12032	7398	17639	24635	9983
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5633	13430	7508	17900	19640	7959
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5991	14283	7985	19038	20889	8465
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	6349	15137	8462	20176	22138	8971
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	6707	15991	8940	21314	23386	9477
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	7065	16845	9417	22452	24635	9983
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	5029	11991	5898	14063	19640	7959
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	5349	12753	6273	14957	20889	8465
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	5669	13515	6648	15851	22138	8971
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	5988	14278	7023	16745	23386	9477
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	6308	15040	7398	17639	24635	9983
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	5183	12357	6078	14492	20240	8202
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	5502	13119	6453	15386	21489	8708
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	5822	13882	6828	16280	22738	9214
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	6142	14644	7203	17174	23986	9720
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	6462	15406	7578	18068	25235	10226
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	6404	15268	6259	14922	20840	8445
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	6787	16183	6634	15816	22089	8951
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	7171	17097	7009	16710	23338	9457
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	7555	18012	7384	17604	24586	9963
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	7939	18927	7759	18498	25835	10469
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4269	10178	6899	16449	22973	9309
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4525	10788	7312	17434	24349	9867
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4781	11398	7726	18420	25725	10424
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5036	12008	8139	19405	27102	10982
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5292	12618	8552	20391	28478	11540
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5336	12723	6259	14922	20840	8445
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5656	13485	6634	15816	22089	8951
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5976	14248	7009	16710	23338	9457
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	6296	15010	7384	17604	24586	9963
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	6615	15772	7759	18498	25835	10469
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	6035	14389	5898	14063	19640	7959
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	6419	15304	6273	14957	20889	8465
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	6802	16218	6648	15851	22138	8971
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	7186	17133	7023	16745	23386	9477
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	7570	18048	7398	17639	24635	9983
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5029	11991	6502	15502	21650	8773
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5349	12753	6915	16487	23026	9331
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5669	13515	7329	17473	24403	9888
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5988	14278	7742	18458	25779	10446
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	6308	15040	8155	19444	27156	11004
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4269	10178	6259	14922	20840	9597
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4525	10788	6634	15816	22089	10172
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4781	11398	7009	16710	23338	10747
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	5036	12008	7384	17604	24586	11322
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	5292	12618	7759	18498	25835	11897
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	4023	9592	6502	15502	21650	9859
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	4279	10202	6915	16487	23026	10486
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	4535	10812	7329	17473	24403	11112
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	4791	11422	7742	18458	25779	11739
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	5046	12032	8155	19444	27156	12366
-Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	4023	9592	5898	14063	19640	9044
-Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	4279	10202	6273	14957	20889	9619
-Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	4535	10812	6648	15851	22138	10194
-Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	4791	11422	7023	16745	23386	10769
-Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	5046	12032	7398	17639	24635	11344
-Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4296	10243	6299	15017	20974	9658
-Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4552	10853	6674	15911	22222	10233
-Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4808	11463	7049	16805	23471	10808
-Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	5064	12073	7424	17699	24720	11383
-Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	5319	12683	7799	18593	25968	11958
-Primordial Jade Cutter	1	4-glad	ATK%/CRYO/CR	0/2/18	5	6103	10778	8209	15800	22067	8942
-Primordial Jade Cutter	2	4-glad	ATK%/CRYO/CR	0/2/18	5	6532	11537	8787	16913	23621	9572
-Primordial Jade Cutter	3	4-glad	ATK%/CRYO/CR	0/2/18	5	6962	12295	9365	18025	25175	10201
-Primordial Jade Cutter	4	4-glad	ATK%/CRYO/CR	0/2/18	5	7392	13054	9943	19138	26728	10831
-Primordial Jade Cutter	5	4-glad	ATK%/CRYO/CR	0/2/18	5	7821	13813	10521	20250	28282	11460
-Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/CR	0/2/18	5	5268	12561	6179	14731	20574	8337
-Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/CR	0/2/18	5	5666	13509	6645	15844	22128	8967
-Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/CR	0/2/18	5	6064	14458	7112	16956	23682	9596
-Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/CR	0/2/18	5	6462	15406	7579	18069	25235	10226
-Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/CR	0/2/18	5	6860	16355	8045	19181	26789	10855
-Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/CR	0/2/18	5	5268	17585	6179	19756	20574	8337
-Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/CR	0/2/18	5	5666	18913	6645	21248	22128	8967
-Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/CR	0/2/18	5	6064	20241	7112	22740	23682	9596
-Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/CR	0/2/18	5	6462	21569	7579	24232	25235	10226
-Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/CR	0/2/18	5	6860	22897	8045	25724	26789	10855
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	4214	10048	6811	16239	22679	9190
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	4533	10807	7325	17465	24392	9884
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	4851	11566	7840	18691	26105	10578
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	5169	12325	8354	19918	27818	11272
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	5488	13084	8868	21144	29530	11966
-Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4821	11495	7791	18576	25944	10513
-Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	5185	12363	8380	19979	27903	11307
-Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	5549	13231	8968	21382	29862	12101
-Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	5913	14099	9557	22784	31822	12895
-Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	6278	14967	10145	24187	33781	13689
-Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4821	11495	7791	18576	25944	10513
-Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	5185	12363	8380	19979	27903	11307
-Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	5549	13231	8968	21382	29862	12101
-Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	5913	14099	9557	22784	31822	12895
-Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	6278	14967	10145	24187	33781	13689
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	4214	10048	6179	14731	20574	8337
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	4533	10807	6645	15844	22128	8967
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	4851	11566	7112	16956	23682	9596
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	5169	12325	7579	18069	25235	10226
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	5488	13084	8045	19181	26789	10855
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	5900	14068	7865	18751	20574	8337
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	6346	15130	8459	20167	22128	8967
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	6792	16193	9053	21583	23682	9596
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	7237	17255	9646	22999	25235	10226
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	7683	18318	10240	24415	26789	10855
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	5268	12561	6179	14731	20574	8337
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	5666	13509	6645	15844	22128	8967
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	6064	14458	7112	16956	23682	9596
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	6462	15406	7579	18069	25235	10226
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	6860	16355	8045	19181	26789	10855
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	5459	13016	6403	15266	21321	8639
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	5857	13965	6869	16378	22874	9269
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	6255	14914	7336	17491	24428	9899
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	6653	15862	7803	18603	25982	10528
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	7051	16811	8269	19716	27536	11158
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	6781	16167	6627	15800	22067	8942
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	7258	17305	7094	16913	23621	9572
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	7736	18443	7560	18025	25175	10201
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	8213	19582	8027	19138	26728	10831
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	8691	20720	8494	20250	28282	11460
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4520	10778	7305	17417	24325	9857
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4839	11537	7820	18643	26038	10551
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	5157	12295	8334	19870	27751	11245
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	5475	13054	8848	21096	29463	11939
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	5794	13813	9363	22322	31176	12633
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	5651	13472	6627	15800	22067	8942
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	6048	14421	7094	16913	23621	9572
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	6446	15369	7560	18025	25175	10201
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	6844	16318	8027	19138	26728	10831
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	7242	17267	8494	20250	28282	11460
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	6322	15073	6179	14731	20574	8337
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	6799	16211	6645	15844	22128	8967
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	7277	17350	7112	16956	23682	9596
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	7754	18488	7579	18069	25235	10226
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	8232	19626	8045	19181	26789	10855
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	5268	12561	6811	16239	22679	9190
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	5666	13509	7325	17465	24392	9884
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	6064	14458	7840	18691	26105	10578
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	6462	15406	8354	19918	27818	11272
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	6860	16355	8868	21144	29530	11966
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4520	10778	6627	15800	22067	10162
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4839	11537	7094	16913	23621	10877
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	5157	12295	7560	18025	25175	11593
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	5475	13054	8027	19138	26728	12308
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	5794	13813	8494	20250	28282	13024
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	4214	10048	6811	16239	22679	10328
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	4533	10807	7325	17465	24392	11107
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	4851	11566	7840	18691	26105	11887
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	5169	12325	8354	19918	27818	12667
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	5488	13084	8868	21144	29530	13447
-Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/CR	0/2/18	5	4214	10048	6179	14731	20574	9474
-Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/CR	0/2/18	5	4533	10807	6645	15844	22128	10190
-Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/CR	0/2/18	5	4851	11566	7112	16956	23682	10905
-Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/CR	0/2/18	5	5169	12325	7579	18069	25235	11621
-Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/CR	0/2/18	5	5488	13084	8045	19181	26789	12337
-Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/CR	0/2/18	5	4554	10859	6677	15919	22233	10238
-Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/CR	0/2/18	5	4873	11618	7143	17032	23787	10954
-Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/CR	0/2/18	5	5191	12376	7610	18144	25341	11669
-Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/CR	0/2/18	5	5509	13135	8077	19257	26894	12385
-Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/CR	0/2/18	5	5828	13894	8543	20369	28448	13100
-Primordial Jade Cutter	1	4-glad	ATK%/CRYO/CD	0/11/9	5	6103	10779	8210	15802	22070	8943
-Primordial Jade Cutter	2	4-glad	ATK%/CRYO/CD	0/11/9	5	6533	11538	8788	16915	23624	9573
-Primordial Jade Cutter	3	4-glad	ATK%/CRYO/CD	0/11/9	5	6963	12297	9366	18027	25178	10202
-Primordial Jade Cutter	4	4-glad	ATK%/CRYO/CD	0/11/9	5	7393	13056	9945	19140	26731	10832
-Primordial Jade Cutter	5	4-glad	ATK%/CRYO/CD	0/11/9	5	7822	13815	10523	20253	28285	11462
-Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/CD	0/11/9	5	5269	12562	6179	14733	20577	8338
-Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/CD	0/11/9	5	5667	13511	6646	15846	22131	8968
-Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/CD	0/11/9	5	6065	14460	7113	16958	23684	9597
-Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/CD	0/11/9	5	6463	15408	7579	18071	25238	10227
-Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/CD	0/11/9	5	6861	16357	8046	19183	26792	10857
-Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/CD	0/11/9	5	5269	17587	6179	19758	20577	8338
-Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/CD	0/11/9	5	5667	18915	6646	21250	22131	8968
-Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/CD	0/11/9	5	6065	20244	7113	22742	23684	9597
-Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/CD	0/11/9	5	6463	21572	7579	24234	25238	10227
-Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/CD	0/11/9	5	6861	22900	8046	25726	26792	10857
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	4215	10050	6812	16240	22682	9191
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	4533	10809	7326	17467	24395	9885
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	4852	11568	7841	18693	26108	10579
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	5170	12326	8355	19920	27821	11273
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	5488	13085	8869	21146	29534	11968
-Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/CD	1/8/11	5	4822	11496	7792	18578	25946	10514
-Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	5200	12397	8403	20035	27981	11338
-Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	5565	13268	8993	21441	29946	12135
-Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	5930	14138	9583	22848	31910	12931
-Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	6295	15009	10173	24255	33875	13727
-Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/CD	3/3/14	5	5484	13075	8862	21129	29509	11958
-Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/CD	2/3/15	5	5895	14056	9527	22715	31724	12855
-Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/CD	1/3/16	5	6319	15067	10212	24348	34005	13780
-Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/CD	0/3/17	5	6756	16107	10917	26029	36353	14731
-Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/CD	0/3/17	5	7172	17099	11590	27632	38591	15638
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	4215	10050	6179	14733	20577	8338
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	4533	10809	6646	15846	22131	8968
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	4852	11568	7113	16958	23684	9597
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	5170	12326	7579	18071	25238	10227
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	5488	13085	8046	19183	26792	10857
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	5901	14070	7866	18753	20577	8338
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	6347	15132	8460	20169	22131	8968
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	6792	16195	9054	21585	23684	9597
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	7238	17257	9648	23002	25238	10227
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	7684	18320	10242	24418	26792	10857
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	5269	12562	6179	14733	20577	8338
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	5667	13511	6646	15846	22131	8968
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	6065	14460	7113	16958	23684	9597
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	6463	15408	7579	18071	25238	10227
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	6861	16357	8046	19183	26792	10857
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	5460	13018	6404	15267	21323	8640
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	5858	13967	6870	16380	22877	9270
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	6256	14915	7337	17493	24431	9900
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	6654	15864	7804	18605	25985	10530
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	7052	16813	8270	19718	27539	11159
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	6781	16169	6628	15802	22070	8943
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	7259	17307	7094	16915	23624	9573
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	7737	18445	7561	18027	25178	10202
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	8214	19584	8028	19140	26731	10832
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	8692	20722	8495	20253	28285	11462
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4521	10779	7306	17419	24328	9858
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4839	11538	7820	18645	26041	10552
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	5158	12297	8335	19872	27754	11246
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	5476	13056	8849	21098	29467	11940
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	5794	13815	9364	22325	31180	12635
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	5651	13474	6628	15802	22070	8943
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	6049	14422	7094	16915	23624	9573
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	6447	15371	7561	18027	25178	10202
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	6845	16320	8028	19140	26731	10832
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	7243	17268	8495	20253	28285	11462
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	6323	15075	6179	14733	20577	8338
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	6800	16213	6646	15846	22131	8968
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	7278	17352	7113	16958	23684	9597
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	7755	18490	7579	18071	25238	10227
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	8233	19628	8046	19183	26792	10857
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	5269	12562	6812	16240	22682	9191
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	5667	13511	7326	17467	24395	9885
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	6065	14460	7841	18693	26108	10579
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	6463	15408	8355	19920	27821	11273
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	6861	16357	8869	21146	29534	11968
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4521	10779	6628	15802	22070	10163
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4839	11538	7094	16915	23624	10879
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	5158	12297	7561	18027	25178	11594
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	5476	13056	8028	19140	26731	12310
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	5794	13815	8495	20253	28285	13025
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	4215	10050	6812	16240	22682	10329
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	4533	10809	7326	17467	24395	11109
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	4852	11568	7841	18693	26108	11889
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	5170	12326	8355	19920	27821	12669
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	5488	13085	8869	21146	29534	13449
-Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/CD	0/11/9	5	4215	10050	6179	14733	20577	9475
-Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/CD	0/11/9	5	4533	10809	6646	15846	22131	10191
-Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/CD	0/11/9	5	4852	11568	7113	16958	23684	10907
-Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/CD	0/11/9	5	5170	12326	7579	18071	25238	11622
-Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/CD	0/11/9	5	5488	13085	8046	19183	26792	12338
-Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/CD	0/11/9	5	4555	10860	6678	15921	22236	10239
-Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/CD	0/11/9	5	4873	11619	7144	17033	23790	10955
-Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/CD	0/11/9	5	5191	12378	7611	18146	25343	11671
-Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/CD	0/11/9	5	5510	13137	8078	19259	26897	12386
-Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/CD	0/11/9	5	5828	13896	8544	20371	28451	13102
-Primordial Jade Cutter	1	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6622	11695	6622	11695	16334	6619
-Primordial Jade Cutter	2	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6968	12305	6968	12305	17186	6964
-Primordial Jade Cutter	3	4-glad	ATK%/ATK%/ATK%	0/6/14	5	7313	12915	7313	12915	18038	7309
-Primordial Jade Cutter	4	4-glad	ATK%/ATK%/ATK%	0/6/14	5	7658	13525	7658	13525	18890	7654
-Primordial Jade Cutter	5	4-glad	ATK%/ATK%/ATK%	0/6/14	5	8004	14135	8004	14135	19741	7999
-Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5824	13887	4659	11109	15516	6287
-Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	6144	14649	4915	11719	16368	6632
-Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	6464	15412	5171	12329	17219	6977
-Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	6784	16174	5427	12939	18071	7323
-Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	7104	16936	5683	13549	18923	7668
-Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5824	19442	4659	16664	15516	6287
-Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	6144	20509	4915	17579	16368	6632
-Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	6464	21576	5171	18494	17219	6977
-Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	6784	22644	5427	19409	18071	7323
-Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	7104	23711	5683	20324	18923	7668
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4659	11109	5358	12776	17843	7230
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4915	11719	5653	13477	18823	7627
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	5171	12329	5947	14179	19802	8024
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	5427	12939	6241	14880	20782	8421
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	5683	13549	6535	15581	21761	8818
-Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5366	12793	6171	14712	20548	8326
-Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5660	13495	6509	15520	21676	8783
-Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5955	14198	6848	16327	22804	9240
-Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	6249	14900	7187	17135	23931	9697
-Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	6544	15602	7526	17943	25059	10155
-Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	6166	14701	7091	16906	23612	9568
-Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	6505	15508	7480	17835	24908	10093
-Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	6843	16315	7870	18763	26204	10619
-Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	7182	17122	8259	19691	27501	11144
-Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	7520	17929	8648	20619	28797	11669
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4659	11109	4659	11109	15516	6287
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4915	11719	4915	11719	16368	6632
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	5171	12329	5171	12329	17219	6977
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	5427	12939	5427	12939	18071	7323
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	5683	13549	5683	13549	18923	7668
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6523	15553	6523	15553	15516	6287
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6882	16407	6882	16407	16368	6632
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	7240	17261	7240	17261	17219	6977
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	7598	18115	7598	18115	18071	7323
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	7956	18969	7956	18969	18923	7668
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5824	13887	4659	11109	15516	6287
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	6144	14649	4915	11719	16368	6632
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	6464	15412	5171	12329	17219	6977
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	6784	16174	5427	12939	18071	7323
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	7104	16936	5683	13549	18923	7668
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	5978	14253	4782	11402	15925	6453
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	6298	15016	5038	12012	16777	6798
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	6618	15778	5294	12622	17629	7143
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	6937	16540	5550	13232	18480	7488
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	7257	17302	5806	13842	19332	7834
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	7358	17543	4905	11695	16334	6619
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	7742	18458	5161	12305	17186	6964
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	8126	19373	5417	12915	18038	7309
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	8509	20288	5673	13525	18890	7654
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	8893	21203	5928	14135	19741	7999
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4905	11695	5641	13450	18785	7612
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5161	12305	5935	14151	19764	8009
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5417	12915	6229	14853	20744	8406
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5673	13525	6524	15554	21723	8803
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5928	14135	6818	16255	22703	9199
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	6132	14619	4905	11695	16334	6619
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	6451	15382	5161	12305	17186	6964
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	6771	16144	5417	12915	18038	7309
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	7091	16906	5673	13525	18890	7654
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	7411	17669	5928	14135	19741	7999
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	6989	16664	4659	11109	15516	6287
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	7373	17579	4915	11719	16368	6632
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	7757	18494	5171	12329	17219	6977
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	8141	19409	5427	12939	18071	7323
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	8524	20324	5683	13549	18923	7668
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5824	13887	5358	12776	17843	7230
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	6144	14649	5653	13477	18823	7627
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	6464	15412	5947	14179	19802	8024
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	6784	16174	6241	14880	20782	8421
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	7104	16936	6535	15581	21761	8818
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4905	11695	4905	11695	16334	7943
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	5161	12305	5161	12305	17186	8357
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	5417	12915	5417	12915	18038	8771
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	5673	13525	5673	13525	18890	9185
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	5928	14135	5928	14135	19741	9599
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4659	11109	5358	12776	17843	8488
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4915	11719	5653	13477	18823	8954
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	5171	12329	5947	14179	19802	9420
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	5427	12939	6241	14880	20782	9886
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	5683	13549	6535	15581	21761	10352
-Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4659	11109	4659	11109	15516	7545
-Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4915	11719	4915	11719	16368	7959
-Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	5171	12329	5171	12329	17219	8373
-Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	5427	12939	5427	12939	18071	8787
-Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	5683	13549	5683	13549	18923	9201
-Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	4933	11761	4933	11761	16425	7987
-Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	5188	12370	5188	12370	17277	8401
-Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	5444	12980	5444	12980	18129	8815
-Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	5700	13590	5700	13590	18980	9229
-Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	5956	14200	5956	14200	19832	9644
-Primordial Jade Cutter	1	4-glad	ATK%/ATK%/CR	0/2/18	5	7172	12665	7172	12665	17689	7168
-Primordial Jade Cutter	2	4-glad	ATK%/ATK%/CR	0/2/18	5	7601	13424	7601	13424	18749	7597
-Primordial Jade Cutter	3	4-glad	ATK%/ATK%/CR	0/2/18	5	8031	14183	8031	14183	19809	8027
-Primordial Jade Cutter	4	4-glad	ATK%/ATK%/CR	0/2/18	5	8461	14942	8461	14942	20868	8456
-Primordial Jade Cutter	5	4-glad	ATK%/ATK%/CR	0/2/18	5	8890	15701	8890	15701	21928	8886
-Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/CR	0/2/18	5	6258	14920	5006	11936	16671	6755
-Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/CR	0/2/18	5	6656	15869	5325	12695	17730	7185
-Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/CR	0/2/18	5	7054	16818	5643	13454	18790	7614
-Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/CR	0/2/18	5	7452	17766	5961	14213	19850	8044
-Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/CR	0/2/18	5	7849	18715	6279	14972	20910	8473
-Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/CR	0/2/18	5	6258	20889	5006	17905	16671	6755
-Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/CR	0/2/18	5	6656	22217	5325	19043	17730	7185
-Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/CR	0/2/18	5	7054	23545	5643	20181	18790	7614
-Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/CR	0/2/18	5	7452	24873	5961	21319	19850	8044
-Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/CR	0/2/18	5	7849	26201	6279	22458	20910	8473
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	5006	11936	5757	13727	19171	7768
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	5325	12695	6123	14599	20390	8262
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	5643	13454	6489	15472	21609	8756
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	5961	14213	6855	16345	22828	9250
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	6279	14972	7221	17218	24047	9744
-Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5727	13654	6586	15702	21931	8887
-Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	6091	14522	7005	16701	23325	9452
-Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	6455	15390	7423	17699	24719	10017
-Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	6819	16259	7842	18697	26113	10582
-Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	7183	17127	8261	19696	27508	11147
-Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5727	13654	6586	15702	21931	8887
-Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	6091	14522	7005	16701	23325	9452
-Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	6455	15390	7423	17699	24719	10017
-Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	6819	16259	7842	18697	26113	10582
-Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	7183	17127	8261	19696	27508	11147
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	5006	11936	5006	11936	16671	6755
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	5325	12695	5325	12695	17730	7185
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	5643	13454	5643	13454	18790	7614
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	5961	14213	5961	14213	19850	8044
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	6279	14972	6279	14972	20910	8473
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	7009	16711	7009	16711	16671	6755
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	7455	17773	7455	17773	17730	7185
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	7900	18836	7900	18836	18790	7614
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	8346	19898	8346	19898	19850	8044
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	8791	20961	8791	20961	20910	8473
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	6258	14920	5006	11936	16671	6755
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	6656	15869	5325	12695	17730	7185
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	7054	16818	5643	13454	18790	7614
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	7452	17766	5961	14213	19850	8044
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	7849	18715	6279	14972	20910	8473
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	6449	15376	5159	12301	17180	6961
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	6847	16325	5477	13060	18240	7391
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	7245	17273	5796	13819	19299	7820
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	7643	18222	6114	14577	20359	8250
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	8041	19170	6432	15336	21419	8679
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	7968	18998	5312	12665	17689	7168
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	8446	20137	5630	13424	18749	7597
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	8923	21275	5949	14183	19809	8027
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	9401	22413	6267	14942	20868	8456
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	9878	23552	6585	15701	21928	8886
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5312	12665	6109	14565	20342	8243
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5630	13424	6475	15438	21561	8737
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5949	14183	6841	16311	22780	9231
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	6267	14942	7207	17183	23999	9725
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	6585	15701	7573	18056	25218	10219
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	6640	15832	5312	12665	17689	7168
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	7038	16780	5630	13424	18749	7597
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	7436	17729	5949	14183	19809	8027
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	7834	18678	6267	14942	20868	8456
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	8232	19626	6585	15701	21928	8886
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	7510	17905	5006	11936	16671	6755
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	7987	19043	5325	12695	17730	7185
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	8465	20181	5643	13454	18790	7614
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	8942	21319	5961	14213	19850	8044
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	9419	22458	6279	14972	20910	8473
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	6258	14920	5757	13727	19171	7768
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	6656	15869	6123	14599	20390	8262
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	7054	16818	6489	15472	21609	8756
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	7452	17766	6855	16345	22828	9250
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	7849	18715	7221	17218	24047	9744
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5312	12665	5312	12665	17689	8601
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5630	13424	5630	13424	18749	9117
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5949	14183	5949	14183	19809	9632
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	6267	14942	6267	14942	20868	10148
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	6585	15701	6585	15701	21928	10663
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	5006	11936	5757	13727	19171	9120
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	5325	12695	6123	14599	20390	9699
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	5643	13454	6489	15472	21609	10279
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	5961	14213	6855	16345	22828	10859
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	6279	14972	7221	17218	24047	11439
-Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/CR	0/2/18	5	5006	11936	5006	11936	16671	8106
-Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/CR	0/2/18	5	5325	12695	5325	12695	17730	8622
-Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/CR	0/2/18	5	5643	13454	5643	13454	18790	9137
-Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/CR	0/2/18	5	5961	14213	5961	14213	19850	9652
-Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/CR	0/2/18	5	6279	14972	6279	14972	20910	10168
-Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/CR	0/2/18	5	5346	12746	5346	12746	17802	8656
-Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/CR	0/2/18	5	5664	13505	5664	13505	18862	9172
-Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/CR	0/2/18	5	5983	14264	5983	14264	19922	9687
-Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/CR	0/2/18	5	6301	15023	6301	15023	20982	10203
-Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/CR	0/2/18	5	6619	15782	6619	15782	22041	10718
-Primordial Jade Cutter	1	4-glad	ATK%/ATK%/CD	0/11/9	5	7172	12667	7172	12667	17691	7169
-Primordial Jade Cutter	2	4-glad	ATK%/ATK%/CD	0/11/9	5	7602	13426	7602	13426	18751	7598
-Primordial Jade Cutter	3	4-glad	ATK%/ATK%/CD	0/11/9	5	8032	14185	8032	14185	19811	8028
-Primordial Jade Cutter	4	4-glad	ATK%/ATK%/CD	0/11/9	5	8462	14944	8462	14944	20871	8457
-Primordial Jade Cutter	5	4-glad	ATK%/ATK%/CD	0/11/9	5	8891	15703	8891	15703	21931	8887
-Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/CD	0/11/9	5	6259	14922	5007	11938	16672	6756
-Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/CD	0/11/9	5	6657	15871	5325	12697	17732	7185
-Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/CD	0/11/9	5	7055	16819	5644	13455	18792	7615
-Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/CD	0/11/9	5	7452	17768	5962	14214	19852	8044
-Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/CD	0/11/9	5	7850	18717	6280	14973	20912	8474
-Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/CD	0/11/9	5	6259	20891	5007	17907	16672	6756
-Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/CD	0/11/9	5	6657	22219	5325	19045	17732	7185
-Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/CD	0/11/9	5	7055	23547	5644	20183	18792	7615
-Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/CD	0/11/9	5	7452	24876	5962	21322	19852	8044
-Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/CD	0/11/9	5	7850	26204	6280	22460	20912	8474
-Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	5007	11938	5758	13728	19173	7769
-Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	5325	12697	6124	14601	20392	8263
-Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	5644	13455	6490	15474	21611	8757
-Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	5962	14214	6856	16347	22830	9251
-Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	6280	14973	7222	17219	24049	9745
-Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5743	13692	6604	15746	21992	8911
-Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	6108	14563	7024	16747	23390	9478
-Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	6473	15433	7444	17748	24788	10045
-Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	6838	16304	7864	18750	26186	10611
-Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	7203	17174	8284	19751	27584	11178
-Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6542	15599	7524	17939	25054	10152
-Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6958	16590	8002	19079	26646	10798
-Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	7374	17582	8481	20219	28239	11443
-Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	7790	18574	8959	21360	29832	12088
-Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	8206	19565	9437	22500	31425	12734
-Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	5007	11938	5007	11938	16672	6756
-Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	5325	12697	5325	12697	17732	7185
-Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	5644	13455	5644	13455	18792	7615
-Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	5962	14214	5962	14214	19852	8044
-Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	6280	14973	6280	14973	20912	8474
-Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	7010	16713	7010	16713	16672	6756
-Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	7455	17775	7455	17775	17732	7185
-Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	7901	18838	7901	18838	18792	7615
-Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	8347	19900	8347	19900	19852	8044
-Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	8792	20963	8792	20963	20912	8474
-Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	6259	14922	5007	11938	16672	6756
-Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	6657	15871	5325	12697	17732	7185
-Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	7055	16819	5644	13455	18792	7615
-Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	7452	17768	5962	14214	19852	8044
-Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	7850	18717	6280	14973	20912	8474
-Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	6450	15378	5160	12302	17182	6962
-Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	6848	16327	5478	13061	18242	7392
-Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	7246	17275	5796	13820	19302	7821
-Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	7644	18224	6115	14579	20362	8251
-Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	8042	19173	6433	15338	21422	8680
-Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	7969	19000	5313	12667	17691	7169
-Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	8447	20139	5631	13426	18751	7598
-Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	8924	21277	5949	14185	19811	8028
-Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	9402	22416	6268	14944	20871	8457
-Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	9879	23554	6586	15703	21931	8887
-Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5313	12667	6110	14567	20345	8244
-Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5631	13426	6476	15440	21564	8738
-Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5949	14185	6842	16312	22783	9232
-Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	6268	14944	7208	17185	24002	9726
-Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	6586	15703	7574	18058	25221	10220
-Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	6641	15834	5313	12667	17691	7169
-Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	7039	16782	5631	13426	18751	7598
-Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	7437	17731	5949	14185	19811	8028
-Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	7835	18680	6268	14944	20871	8457
-Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	8233	19628	6586	15703	21931	8887
-Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	7510	17907	5007	11938	16672	6756
-Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	7988	19045	5325	12697	17732	7185
-Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	8466	20183	5644	13455	18792	7615
-Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	8943	21322	5962	14214	19852	8044
-Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	9421	22460	6280	14973	20912	8474
-Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	6259	14922	5758	13728	19173	7769
-Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	6657	15871	6124	14601	20392	8263
-Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	7055	16819	6490	15474	21611	8757
-Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	7452	17768	6856	16347	22830	9251
-Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	7850	18717	7222	17219	24049	9745
-Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5313	12667	5313	12667	17691	8602
-Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5631	13426	5631	13426	18751	9118
-Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5949	14185	5949	14185	19811	9633
-Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	6268	14944	6268	14944	20871	10149
-Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	6586	15703	6586	15703	21931	10664
-Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	5007	11938	5758	13728	19173	9121
-Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	5325	12697	6124	14601	20392	9700
-Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	5644	13455	6490	15474	21611	10280
-Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	5962	14214	6856	16347	22830	10860
-Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	6280	14973	7222	17219	24049	11440
-Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/CD	0/11/9	5	5007	11938	5007	11938	16672	8107
-Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/CD	0/11/9	5	5325	12697	5325	12697	17732	8623
-Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/CD	0/11/9	5	5644	13455	5644	13455	18792	9138
-Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/CD	0/11/9	5	5962	14214	5962	14214	19852	9653
-Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/CD	0/11/9	5	6280	14973	6280	14973	20912	10169
-Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/CD	0/11/9	5	5347	12748	5347	12748	17804	8657
-Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/CD	0/11/9	5	5665	13507	5665	13507	18864	9173
-Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/CD	0/11/9	5	5983	14266	5983	14266	19924	9688
-Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/CD	0/11/9	5	6302	15025	6302	15025	20984	10204
-Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/CD	0/11/9	5	6620	15784	6620	15784	22044	10719
+Primordial Jade Cutter	1	4-glad	ATK%/PHYS/ATK%	0/6/14	5	7419	14486	5182	9151	12781	5179
+Primordial Jade Cutter	2	4-glad	ATK%/PHYS/ATK%	0/6/14	5	7667	14969	5354	9456	13207	5351
+Primordial Jade Cutter	3	4-glad	ATK%/PHYS/ATK%	0/6/14	5	7914	15452	5527	9761	13632	5524
+Primordial Jade Cutter	4	4-glad	ATK%/PHYS/ATK%	0/6/14	5	8161	15934	5700	10066	14058	5697
+Primordial Jade Cutter	5	4-glad	ATK%/PHYS/ATK%	0/6/14	5	8408	16417	5872	10371	14484	5869
+Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	6585	15700	3592	8565	11962	4847
+Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	6819	16259	3720	8870	12388	5020
+Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	7054	16818	3848	9175	12814	5192
+Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	7288	17377	3976	9480	13240	5365
+Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/ATK%	0/6/14	5	7523	17936	4104	9785	13666	5537
+Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	6585	19983	3592	12848	11962	4847
+Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	6819	20694	3720	13305	12388	5020
+Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	7054	21406	3848	13763	12814	5192
+Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	7288	22117	3976	14220	13240	5365
+Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/ATK%	0/6/14	5	7523	22828	4104	14677	13666	5537
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	5687	13559	4131	9850	13757	5574
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	5889	14041	4278	10200	14246	5773
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	6092	14524	4425	10551	14736	5971
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	6294	15007	4572	10902	15226	6170
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/ATK%	0/6/14	5	6497	15490	4719	11253	15716	6368
+Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	6549	15614	4757	11343	15842	6419
+Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	6782	16169	4927	11746	16406	6648
+Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	7015	16725	5096	12150	16970	6876
+Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	7248	17281	5265	12554	17534	7105
+Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/ATK%	0/3/17	5	7481	17837	5435	12958	18098	7333
+Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	7525	17942	5467	13034	18204	7377
+Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	7793	18581	5662	13498	18852	7639
+Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	8061	19220	5856	13962	19500	7902
+Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	8329	19859	6051	14426	20149	8164
+Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/ATK%	0/0/20	5	8597	20497	6245	14891	20797	8427
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	5687	13559	3592	8565	11962	4847
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	5889	14041	3720	8870	12388	5020
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	6092	14524	3848	9175	12814	5192
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	6294	15007	3976	9480	13240	5365
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/ATK%	0/6/14	5	6497	15490	4104	9785	13666	5537
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	7124	16985	5029	11991	11962	4847
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	7378	17590	5208	12418	12388	5020
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	7631	18194	5387	12845	12814	5192
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	7885	18799	5567	13272	13240	5365
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/ATK%	0/6/14	5	8138	19404	5746	13699	13666	5537
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	6585	15700	3592	8565	11962	4847
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	6819	16259	3720	8870	12388	5020
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	7054	16818	3848	9175	12814	5192
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	7288	17377	3976	9480	13240	5365
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/ATK%	0/6/14	5	7523	17936	4104	9785	13666	5537
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	6810	16237	3715	8858	12371	5013
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	7045	16796	3843	9163	12797	5186
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	7279	17355	3971	9468	13223	5358
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	7514	17914	4099	9773	13649	5531
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/ATK%	0/6/14	5	7748	18473	4227	10078	14075	5703
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	7995	19062	3838	9151	12781	5179
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	8262	19697	3966	9456	13207	5351
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	8528	20332	4094	9761	13632	5524
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	8794	20968	4222	10066	14058	5697
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/ATK%	0/6/14	5	9061	21603	4350	10371	14484	5869
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6076	14486	4414	10524	14698	5956
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6278	14969	4561	10874	15188	6154
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6481	15452	4708	11225	15677	6353
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6683	15934	4855	11576	16167	6551
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6886	16417	5002	11926	16657	6750
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7036	16774	3838	9151	12781	5179
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7270	17333	3966	9456	13207	5351
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7504	17892	4094	9761	13632	5524
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7739	18451	4222	10066	14058	5697
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/ATK%	0/6/14	5	7973	19010	4350	10371	14484	5869
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	7483	17841	3592	8565	11962	4847
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	7750	18477	3720	8870	12388	5020
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	8016	19112	3848	9175	12814	5192
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	8282	19747	3976	9480	13240	5365
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/ATK%	0/6/14	5	8549	20382	4104	9785	13666	5537
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6585	15700	4131	9850	13757	5574
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	6819	16259	4278	10200	14246	5773
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7054	16818	4425	10551	14736	5971
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7288	17377	4572	10902	15226	6170
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/ATK%	0/6/14	5	7523	17936	4719	11253	15716	6368
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6076	14486	3838	9151	12781	6215
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6278	14969	3966	9456	13207	6422
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6481	15452	4094	9761	13632	6629
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6683	15934	4222	10066	14058	6836
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/ATK%	0/6/14	5	6886	16417	4350	10371	14484	7043
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	5687	13559	4131	9850	13757	6544
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	5889	14041	4278	10200	14246	6777
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	6092	14524	4425	10551	14736	7010
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	6294	15007	4572	10902	15226	7243
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/ATK%	0/6/14	5	6497	15490	4719	11253	15716	7476
+Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	5687	13559	3592	8565	11962	5817
+Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	5889	14041	3720	8870	12388	6024
+Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	6092	14524	3848	9175	12814	6231
+Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	6294	15007	3976	9480	13240	6438
+Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/ATK%	0/6/14	5	6497	15490	4104	9785	13666	6645
+Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6119	14589	3865	9216	12872	6259
+Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6322	15072	3993	9521	13297	6466
+Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6524	15555	4121	9826	13723	6673
+Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6727	16037	4249	10131	14149	6880
+Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/ATK%	0/6/14	5	6929	16520	4377	10436	14575	7087
+Primordial Jade Cutter	1	4-glad	ATK%/PHYS/CR	0/2/18	5	7702	15038	5379	9499	13267	5376
+Primordial Jade Cutter	2	4-glad	ATK%/PHYS/CR	0/2/18	5	8009	15638	5594	9879	13797	5591
+Primordial Jade Cutter	3	4-glad	ATK%/PHYS/CR	0/2/18	5	8317	16239	5808	10258	14327	5805
+Primordial Jade Cutter	4	4-glad	ATK%/PHYS/CR	0/2/18	5	8625	16840	6023	10638	14857	6020
+Primordial Jade Cutter	5	4-glad	ATK%/PHYS/CR	0/2/18	5	8932	17440	6238	11017	15387	6235
+Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/CR	0/2/18	5	6743	16076	3678	8770	12249	4963
+Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/CR	0/2/18	5	7034	16771	3837	9149	12779	5178
+Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/CR	0/2/18	5	7326	17467	3997	9529	13309	5393
+Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/CR	0/2/18	5	7618	18162	4156	9908	13838	5607
+Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/CR	0/2/18	5	7910	18858	4315	10288	14368	5822
+Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/CR	0/2/18	5	6743	20461	3678	13155	12249	4963
+Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/CR	0/2/18	5	7034	21346	3837	13724	12779	5178
+Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/CR	0/2/18	5	7326	22232	3997	14294	13309	5393
+Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/CR	0/2/18	5	7618	23117	4156	14863	13838	5607
+Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/CR	0/2/18	5	7910	24002	4315	15432	14368	5822
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	5823	13883	4230	10086	14086	5708
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	6075	14484	4413	10522	14695	5955
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	6327	15085	4596	10958	15305	6202
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	6579	15685	4779	11395	15914	6449
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/CR	0/2/18	5	6831	16286	4962	11831	16524	6696
+Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	6661	15882	4839	11537	16114	6529
+Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	6949	16569	5048	12037	16811	6812
+Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	7238	17256	5258	12536	17508	7094
+Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	7526	17943	5467	13035	18205	7377
+Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/CR	0/0/20	5	7814	18630	5676	13534	18902	7659
+Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	6661	15882	4839	11537	16114	6529
+Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	6949	16569	5048	12037	16811	6812
+Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	7238	17256	5258	12536	17508	7094
+Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	7526	17943	5467	13035	18205	7377
+Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/CR	0/0/20	5	7814	18630	5676	13534	18902	7659
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	5823	13883	3678	8770	12249	4963
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	6075	14484	3837	9149	12779	5178
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	6327	15085	3997	9529	13309	5393
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	6579	15685	4156	9908	13838	5607
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/CR	0/2/18	5	6831	16286	4315	10288	14368	5822
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	7294	17392	5150	12278	12249	4963
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	7610	18144	5373	12809	12779	5178
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	7926	18896	5595	13341	13309	5393
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	8241	19649	5818	13872	13838	5607
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/CR	0/2/18	5	8557	20401	6041	14403	14368	5822
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	6743	16076	3678	8770	12249	4963
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	7034	16771	3837	9149	12779	5178
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	7326	17467	3997	9529	13309	5393
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	7618	18162	4156	9908	13838	5607
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/CR	0/2/18	5	7910	18858	4315	10288	14368	5822
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	7023	16744	3831	9135	12758	5170
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	7315	17440	3990	9514	13288	5384
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	7606	18135	4149	9894	13818	5599
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	7898	18831	4309	10273	14348	5814
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/CR	0/2/18	5	8190	19526	4468	10652	14878	6029
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	8299	19787	3984	9499	13267	5376
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	8631	20578	4143	9879	13797	5591
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	8962	21368	4302	10258	14327	5805
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	9294	22159	4462	10638	14857	6020
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/CR	0/2/18	5	9625	22949	4621	11017	15387	6235
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	6307	15038	4582	10924	15257	6182
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	6559	15638	4765	11361	15867	6429
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	6811	16239	4948	11797	16476	6676
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	7063	16840	5131	12233	17085	6923
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/CR	0/2/18	5	7315	17440	5314	12670	17695	7170
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	7303	17413	3984	9499	13267	5376
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	7595	18108	4143	9879	13797	5591
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	7887	18804	4302	10258	14327	5805
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	8178	19499	4462	10638	14857	6020
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/CR	0/2/18	5	8470	20195	4621	11017	15387	6235
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	7662	18269	3678	8770	12249	4963
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	7994	19059	3837	9149	12779	5178
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	8325	19849	3997	9529	13309	5393
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	8657	20640	4156	9908	13838	5607
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/CR	0/2/18	5	8988	21430	4315	10288	14368	5822
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	6743	16076	4230	10086	14086	5708
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	7034	16771	4413	10522	14695	5955
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	7326	17467	4596	10958	15305	6202
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	7618	18162	4779	11395	15914	6449
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/CR	0/2/18	5	7910	18858	4962	11831	16524	6696
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	6307	15038	3984	9499	13267	6451
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	6559	15638	4143	9879	13797	6709
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	6811	16239	4302	10258	14327	6967
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	7063	16840	4462	10638	14857	7224
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/CR	0/2/18	5	7315	17440	4621	11017	15387	7482
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	5823	13883	4230	10086	14086	6701
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	6075	14484	4413	10522	14695	6990
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	6327	15085	4596	10958	15305	7280
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	6579	15685	4779	11395	15914	7570
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/CR	0/2/18	5	6831	16286	4962	11831	16524	7860
+Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/CR	0/2/18	5	5823	13883	3678	8770	12249	5956
+Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/CR	0/2/18	5	6075	14484	3837	9149	12779	6214
+Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/CR	0/2/18	5	6327	15085	3997	9529	13309	6471
+Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/CR	0/2/18	5	6579	15685	4156	9908	13838	6729
+Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/CR	0/2/18	5	6831	16286	4315	10288	14368	6987
+Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/CR	0/2/18	5	6361	15166	4018	9580	13380	6506
+Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/CR	0/2/18	5	6613	15766	4177	9960	13910	6764
+Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/CR	0/2/18	5	6865	16367	4336	10339	14440	7022
+Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/CR	0/2/18	5	7117	16968	4496	10719	14970	7279
+Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/CR	0/2/18	5	7369	17568	4655	11098	15500	7537
+Primordial Jade Cutter	1	4-glad	ATK%/PHYS/CD	0/11/9	5	7703	15039	5379	9500	13269	5376
+Primordial Jade Cutter	2	4-glad	ATK%/PHYS/CD	0/11/9	5	8010	15640	5594	9880	13799	5591
+Primordial Jade Cutter	3	4-glad	ATK%/PHYS/CD	0/11/9	5	8318	16241	5809	10259	14329	5806
+Primordial Jade Cutter	4	4-glad	ATK%/PHYS/CD	0/11/9	5	8626	16841	6024	10639	14859	6021
+Primordial Jade Cutter	5	4-glad	ATK%/PHYS/CD	0/11/9	5	8933	17442	6239	11018	15388	6236
+Primordial Jade Cutter	1	4-bc no active	ATK%/PHYS/CD	0/11/9	5	6743	16078	3679	8771	12250	4964
+Primordial Jade Cutter	2	4-bc no active	ATK%/PHYS/CD	0/11/9	5	7035	16773	3838	9151	12780	5179
+Primordial Jade Cutter	3	4-bc no active	ATK%/PHYS/CD	0/11/9	5	7327	17469	3997	9530	13310	5393
+Primordial Jade Cutter	4	4-bc no active	ATK%/PHYS/CD	0/11/9	5	7619	18165	4156	9909	13840	5608
+Primordial Jade Cutter	5	4-bc no active	ATK%/PHYS/CD	0/11/9	5	7910	18860	4315	10289	14370	5823
+Primordial Jade Cutter	1	4-bc with active	ATK%/PHYS/CD	0/11/9	5	6743	20464	3679	13157	12250	4964
+Primordial Jade Cutter	2	4-bc with active	ATK%/PHYS/CD	0/11/9	5	7035	21349	3838	13726	12780	5179
+Primordial Jade Cutter	3	4-bc with active	ATK%/PHYS/CD	0/11/9	5	7327	22234	3997	14295	13310	5393
+Primordial Jade Cutter	4	4-bc with active	ATK%/PHYS/CD	0/11/9	5	7619	23120	4156	14864	13840	5608
+Primordial Jade Cutter	5	4-bc with active	ATK%/PHYS/CD	0/11/9	5	7910	24005	4315	15434	14370	5823
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	5824	13885	4231	10087	14088	5708
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	6076	14486	4414	10523	14697	5955
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	6328	15086	4597	10960	15307	6202
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	6580	15687	4780	11396	15916	6449
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/PHYS/CD	0/11/9	5	6831	16288	4963	11832	16526	6696
+Primordial Jade Cutter	1	4-bs cryo	ATK%/PHYS/CD	1/8/11	5	6681	15929	4853	11572	16161	6549
+Primordial Jade Cutter	2	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	6969	16615	5062	12070	16858	6831
+Primordial Jade Cutter	3	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	7258	17304	5272	12571	17557	7114
+Primordial Jade Cutter	4	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	7547	17993	5482	13071	18256	7397
+Primordial Jade Cutter	5	4-bs cryo	ATK%/PHYS/CD	0/8/12	5	7836	18682	5692	13572	18955	7681
+Primordial Jade Cutter	1	4-bs frozen	ATK%/PHYS/CD	3/3/14	5	7639	18214	5550	13232	18480	7488
+Primordial Jade Cutter	2	4-bs frozen	ATK%/PHYS/CD	2/3/15	5	7952	18960	5777	13774	19237	7795
+Primordial Jade Cutter	3	4-bs frozen	ATK%/PHYS/CD	1/3/16	5	8272	19722	6009	14327	20010	8108
+Primordial Jade Cutter	4	4-bs frozen	ATK%/PHYS/CD	0/3/17	5	8597	20498	6246	14891	20797	8427
+Primordial Jade Cutter	5	4-bs frozen	ATK%/PHYS/CD	0/3/17	5	8927	21283	6485	15461	21594	8750
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	5824	13885	3679	8771	12250	4964
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	6076	14486	3838	9151	12780	5179
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	6328	15086	3997	9530	13310	5393
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	6580	15687	4156	9909	13840	5608
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/PHYS/CD	0/11/9	5	6831	16288	4315	10289	14370	5823
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	7295	17394	5150	12280	12250	4964
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	7611	18146	5373	12811	12780	5179
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	7927	18899	5596	13342	13310	5393
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	8242	19651	5819	13873	13840	5608
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/PHYS/CD	0/11/9	5	8558	20404	6042	14405	14370	5823
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	6743	16078	3679	8771	12250	4964
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	7035	16773	3838	9151	12780	5179
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	7327	17469	3997	9530	13310	5393
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	7619	18165	4156	9909	13840	5608
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/PHYS/CD	0/11/9	5	7910	18860	4315	10289	14370	5823
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	7024	16746	3832	9136	12759	5170
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	7316	17442	3991	9515	13289	5385
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	7607	18137	4150	9895	13819	5600
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	7899	18833	4309	10274	14349	5814
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/PHYS/CD	0/11/9	5	8191	19528	4468	10654	14879	6029
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	8300	19790	3985	9500	13269	5376
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	8632	20580	4144	9880	13799	5591
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	8963	21371	4303	10259	14329	5806
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	9295	22161	4462	10639	14859	6021
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/PHYS/CD	0/11/9	5	9627	22951	4621	11018	15388	6236
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	6308	15039	4582	10925	15259	6183
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	6560	15640	4765	11362	15868	6430
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	6812	16241	4948	11798	16478	6677
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	7064	16841	5131	12235	17087	6924
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/PHYS/CD	0/11/9	5	7316	17442	5314	12671	17697	7171
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	7304	17414	3985	9500	13269	5376
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	7596	18110	4144	9880	13799	5591
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	7888	18806	4303	10259	14329	5806
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	8179	19501	4462	10639	14859	6021
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/PHYS/CD	0/11/9	5	8471	20197	4621	11018	15388	6236
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	7663	18271	3679	8771	12250	4964
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	7995	19061	3838	9151	12780	5179
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	8326	19852	3997	9530	13310	5393
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	8658	20642	4156	9909	13840	5608
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/PHYS/CD	0/11/9	5	8989	21432	4315	10289	14370	5823
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	6743	16078	4231	10087	14088	5708
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	7035	16773	4414	10523	14697	5955
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	7327	17469	4597	10960	15307	6202
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	7619	18165	4780	11396	15916	6449
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/PHYS/CD	0/11/9	5	7910	18860	4963	11832	16526	6696
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	6308	15039	3985	9500	13269	6452
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	6560	15640	4144	9880	13799	6710
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	6812	16241	4303	10259	14329	6967
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	7064	16841	4462	10639	14859	7225
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/PHYS/CD	0/11/9	5	7316	17442	4621	11018	15388	7483
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	5824	13885	4231	10087	14088	6701
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	6076	14486	4414	10523	14697	6991
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	6328	15086	4597	10960	15307	7281
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	6580	15687	4780	11396	15916	7571
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/PHYS/CD	0/11/9	5	6831	16288	4963	11832	16526	7861
+Primordial Jade Cutter	1	4-no no active	ATK%/PHYS/CD	0/11/9	5	5824	13885	3679	8771	12250	5957
+Primordial Jade Cutter	2	4-no no active	ATK%/PHYS/CD	0/11/9	5	6076	14486	3838	9151	12780	6214
+Primordial Jade Cutter	3	4-no no active	ATK%/PHYS/CD	0/11/9	5	6328	15086	3997	9530	13310	6472
+Primordial Jade Cutter	4	4-no no active	ATK%/PHYS/CD	0/11/9	5	6580	15687	4156	9909	13840	6730
+Primordial Jade Cutter	5	4-no no active	ATK%/PHYS/CD	0/11/9	5	6831	16288	4315	10289	14370	6988
+Primordial Jade Cutter	1	4-no with active	ATK%/PHYS/CD	0/11/9	5	6362	15168	4019	9581	13382	6507
+Primordial Jade Cutter	2	4-no with active	ATK%/PHYS/CD	0/11/9	5	6614	15768	4178	9961	13912	6765
+Primordial Jade Cutter	3	4-no with active	ATK%/PHYS/CD	0/11/9	5	6866	16369	4337	10340	14442	7022
+Primordial Jade Cutter	4	4-no with active	ATK%/PHYS/CD	0/11/9	5	7118	16970	4496	10720	14972	7280
+Primordial Jade Cutter	5	4-no with active	ATK%/PHYS/CD	0/11/9	5	7369	17570	4655	11099	15502	7538
+Primordial Jade Cutter	1	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5182	9151	6970	13416	18737	7592
+Primordial Jade Cutter	2	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5354	9456	7203	13863	19361	7845
+Primordial Jade Cutter	3	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5527	9761	7435	14310	19985	8098
+Primordial Jade Cutter	4	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5700	10066	7667	14757	20610	8351
+Primordial Jade Cutter	5	4-glad	ATK%/CRYO/ATK%	0/6/14	5	5872	10371	7899	15204	21234	8604
+Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	4490	10706	5266	12557	17537	7106
+Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	4650	11088	5454	13004	18161	7359
+Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	4810	11469	5641	13451	18786	7612
+Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	4970	11850	5829	13898	19410	7865
+Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/ATK%	0/6/14	5	5130	12231	6016	14345	20034	8118
+Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	4490	14989	5266	16839	17537	7106
+Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	4650	15523	5454	17439	18161	7359
+Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	4810	16056	5641	18038	18786	7612
+Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	4970	16590	5829	18638	19410	7865
+Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/ATK%	0/6/14	5	5130	17124	6016	19237	20034	8118
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	3592	8565	5805	13841	19331	7833
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	3720	8870	6012	14334	20020	8112
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	3848	9175	6219	14827	20708	8391
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	3976	9480	6425	15320	21396	8670
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/ATK%	0/6/14	5	4104	9785	6632	15812	22084	8949
+Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4137	9863	6685	15939	22261	9021
+Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4284	10214	6923	16507	23054	9342
+Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4431	10565	7161	17074	23846	9663
+Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4579	10917	7399	17641	24639	9984
+Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/ATK%	0/3/17	5	4726	11268	7637	18209	25431	10305
+Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	4754	11334	7682	18316	25581	10366
+Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	4923	11738	7956	18968	26492	10735
+Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	5092	12141	8229	19620	27403	11104
+Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	5261	12545	8503	20273	28313	11473
+Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/ATK%	0/0/20	5	5431	12948	8776	20925	29224	11842
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	3592	8565	5266	12557	17537	7106
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	3720	8870	5454	13004	18161	7359
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	3848	9175	5641	13451	18786	7612
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	3976	9480	5829	13898	19410	7865
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/ATK%	0/6/14	5	4104	9785	6016	14345	20034	8118
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5029	11991	6704	15983	17537	7106
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5208	12418	6942	16552	18161	7359
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5387	12845	7181	17121	18786	7612
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5567	13272	7420	17690	19410	7865
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/ATK%	0/6/14	5	5746	13699	7658	18259	20034	8118
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	4490	10706	5266	12557	17537	7106
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	4650	11088	5454	13004	18161	7359
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	4810	11469	5641	13451	18786	7612
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	4970	11850	5829	13898	19410	7865
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/ATK%	0/6/14	5	5130	12231	6016	14345	20034	8118
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	4644	11073	5447	12986	18137	7349
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	4804	11454	5634	13433	18761	7602
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	4964	11835	5822	13880	19385	7855
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	5124	12216	6009	14327	20010	8108
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/ATK%	0/6/14	5	5284	12597	6197	14774	20634	8361
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	5757	13727	5627	13416	18737	7592
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	5949	14184	5814	13863	19361	7845
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	6141	14642	6002	14310	19985	8098
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	6333	15099	6189	14757	20610	8351
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/ATK%	0/6/14	5	6525	15556	6377	15204	21234	8604
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	3838	9151	6203	14788	20654	8369
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	3966	9456	6409	15281	21342	8648
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4094	9761	6616	15774	22030	8927
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4222	10066	6823	16267	22719	9206
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4350	10371	7029	16759	23407	9485
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	4798	11439	5627	13416	18737	7592
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	4958	11820	5814	13863	19361	7845
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5117	12201	6002	14310	19985	8098
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5277	12582	6189	14757	20610	8351
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/ATK%	0/6/14	5	5437	12964	6377	15204	21234	8604
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	5389	12848	5266	12557	17537	7106
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	5580	13305	5454	13004	18161	7359
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	5772	13763	5641	13451	18786	7612
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	5964	14220	5829	13898	19410	7865
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/ATK%	0/6/14	5	6156	14677	6016	14345	20034	8118
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4490	10706	5805	13841	19331	7833
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4650	11088	6012	14334	20020	8112
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4810	11469	6219	14827	20708	8391
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	4970	11850	6425	15320	21396	8670
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/ATK%	0/6/14	5	5130	12231	6632	15812	22084	8949
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	3838	9151	5627	13416	18737	8628
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	3966	9456	5814	13863	19361	8916
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4094	9761	6002	14310	19985	9203
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4222	10066	6189	14757	20610	9491
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/ATK%	0/6/14	5	4350	10371	6377	15204	21234	9778
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	3592	8565	5805	13841	19331	8803
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	3720	8870	6012	14334	20020	9116
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	3848	9175	6219	14827	20708	9430
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	3976	9480	6425	15320	21396	9743
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/ATK%	0/6/14	5	4104	9785	6632	15812	22084	10056
+Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	3592	8565	5266	12557	17537	8076
+Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	3720	8870	5454	13004	18161	8363
+Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	3848	9175	5641	13451	18786	8651
+Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	3976	9480	5829	13898	19410	8938
+Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/ATK%	0/6/14	5	4104	9785	6016	14345	20034	9226
+Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	3865	9216	5667	13511	18870	8690
+Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	3993	9521	5854	13958	19494	8977
+Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4121	9826	6042	14405	20119	9265
+Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4249	10131	6229	14852	20743	9552
+Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/ATK%	0/6/14	5	4377	10436	6417	15299	21367	9840
+Primordial Jade Cutter	1	4-glad	ATK%/CRYO/CR	0/2/18	5	5379	9499	7236	13926	19450	7881
+Primordial Jade Cutter	2	4-glad	ATK%/CRYO/CR	0/2/18	5	5594	9879	7525	14482	20227	8196
+Primordial Jade Cutter	3	4-glad	ATK%/CRYO/CR	0/2/18	5	5808	10258	7814	15039	21003	8511
+Primordial Jade Cutter	4	4-glad	ATK%/CRYO/CR	0/2/18	5	6023	10638	8103	15595	21780	8826
+Primordial Jade Cutter	5	4-glad	ATK%/CRYO/CR	0/2/18	5	6238	11017	8392	16151	22557	9141
+Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/CR	0/2/18	5	4598	10963	5393	12857	17957	7276
+Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/CR	0/2/18	5	4797	11437	5626	13413	18734	7591
+Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/CR	0/2/18	5	4996	11911	5859	13970	19511	7906
+Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/CR	0/2/18	5	5195	12386	6093	14526	20287	8221
+Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/CR	0/2/18	5	5394	12860	6326	15082	21064	8536
+Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/CR	0/2/18	5	4598	15348	5393	17242	17957	7276
+Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/CR	0/2/18	5	4797	16012	5626	17988	18734	7591
+Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/CR	0/2/18	5	4996	16676	5859	18734	19511	7906
+Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/CR	0/2/18	5	5195	17340	6093	19480	20287	8221
+Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/CR	0/2/18	5	5394	18004	6326	20226	21064	8536
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	3678	8770	5944	14173	19794	8021
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	3837	9149	6202	14786	20651	8368
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	3997	9529	6459	15399	21507	8715
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	4156	9908	6716	16012	22363	9062
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/CR	0/2/18	5	4315	10288	6973	16625	23220	9409
+Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4208	10032	6800	16213	22643	9175
+Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4390	10466	7094	16914	23623	9572
+Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4572	10901	7388	17616	24602	9969
+Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4754	11335	7683	18317	25582	10366
+Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/CR	0/0/20	5	4936	11769	7977	19018	26562	10763
+Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4208	10032	6800	16213	22643	9175
+Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4390	10466	7094	16914	23623	9572
+Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4572	10901	7388	17616	24602	9969
+Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4754	11335	7683	18317	25582	10366
+Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/CR	0/0/20	5	4936	11769	7977	19018	26562	10763
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	3678	8770	5393	12857	17957	7276
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	3837	9149	5626	13413	18734	7591
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	3997	9529	5859	13970	19511	7906
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	4156	9908	6093	14526	20287	8221
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/CR	0/2/18	5	4315	10288	6326	15082	21064	8536
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	5150	12278	6864	16365	17957	7276
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	5373	12809	7161	17073	18734	7591
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	5595	13341	7458	17781	19511	7906
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	5818	13872	7755	18489	20287	8221
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/CR	0/2/18	5	6041	14403	8052	19197	21064	8536
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	4598	10963	5393	12857	17957	7276
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	4797	11437	5626	13413	18734	7591
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	4996	11911	5859	13970	19511	7906
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	5195	12386	6093	14526	20287	8221
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/CR	0/2/18	5	5394	12860	6326	15082	21064	8536
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	4789	11418	5617	13392	18703	7579
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	4988	11893	5850	13948	19480	7894
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	5187	12367	6083	14504	20257	8208
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	5386	12841	6317	15060	21034	8523
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/CR	0/2/18	5	5585	13316	6550	15617	21811	8838
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	5976	14249	5841	13926	19450	7881
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	6215	14818	6074	14482	20227	8196
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	6454	15387	6308	15039	21003	8511
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	6693	15957	6541	15595	21780	8826
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/CR	0/2/18	5	6931	16526	6774	16151	22557	9141
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	3984	9499	6439	15351	21440	8688
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4143	9879	6696	15964	22296	9035
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4302	10258	6953	16577	23153	9382
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4462	10638	7210	17191	24009	9729
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/CR	0/2/18	5	4621	11017	7467	17804	24865	10076
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	4980	11874	5841	13926	19450	7881
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	5179	12348	6074	14482	20227	8196
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	5378	12823	6308	15039	21003	8511
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	5577	13297	6541	15595	21780	8826
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/CR	0/2/18	5	5776	13771	6774	16151	22557	9141
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	5518	13155	5393	12857	17957	7276
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	5756	13724	5626	13413	18734	7591
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	5995	14294	5859	13970	19511	7906
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	6234	14863	6093	14526	20287	8221
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/CR	0/2/18	5	6473	15432	6326	15082	21064	8536
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	4598	10963	5944	14173	19794	8021
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	4797	11437	6202	14786	20651	8368
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	4996	11911	6459	15399	21507	8715
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	5195	12386	6716	16012	22363	9062
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/CR	0/2/18	5	5394	12860	6973	16625	23220	9409
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	3984	9499	5841	13926	19450	8957
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4143	9879	6074	14482	20227	9314
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4302	10258	6308	15039	21003	9672
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4462	10638	6541	15595	21780	10030
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/CR	0/2/18	5	4621	11017	6774	16151	22557	10388
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	3678	8770	5944	14173	19794	9014
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	3837	9149	6202	14786	20651	9404
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	3997	9529	6459	15399	21507	9794
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	4156	9908	6716	16012	22363	10184
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/CR	0/2/18	5	4315	10288	6973	16625	23220	10573
+Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/CR	0/2/18	5	3678	8770	5393	12857	17957	8269
+Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/CR	0/2/18	5	3837	9149	5626	13413	18734	8627
+Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/CR	0/2/18	5	3997	9529	5859	13970	19511	8985
+Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/CR	0/2/18	5	4156	9908	6093	14526	20287	9342
+Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/CR	0/2/18	5	4315	10288	6326	15082	21064	9700
+Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/CR	0/2/18	5	4018	9580	5891	14045	19616	9033
+Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/CR	0/2/18	5	4177	9960	6124	14601	20392	9391
+Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/CR	0/2/18	5	4336	10339	6357	15157	21169	9748
+Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/CR	0/2/18	5	4496	10719	6591	15714	21946	10106
+Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/CR	0/2/18	5	4655	11098	6824	16270	22723	10464
+Primordial Jade Cutter	1	4-glad	ATK%/CRYO/CD	0/11/9	5	5379	9500	7236	13928	19452	7882
+Primordial Jade Cutter	2	4-glad	ATK%/CRYO/CD	0/11/9	5	5594	9880	7525	14484	20229	8197
+Primordial Jade Cutter	3	4-glad	ATK%/CRYO/CD	0/11/9	5	5809	10259	7814	15040	21006	8512
+Primordial Jade Cutter	4	4-glad	ATK%/CRYO/CD	0/11/9	5	6024	10639	8104	15597	21783	8827
+Primordial Jade Cutter	5	4-glad	ATK%/CRYO/CD	0/11/9	5	6239	11018	8393	16153	22560	9142
+Primordial Jade Cutter	1	4-bc no active	ATK%/CRYO/CD	0/11/9	5	4598	10964	5393	12859	17959	7277
+Primordial Jade Cutter	2	4-bc no active	ATK%/CRYO/CD	0/11/9	5	4797	11438	5627	13415	18736	7592
+Primordial Jade Cutter	3	4-bc no active	ATK%/CRYO/CD	0/11/9	5	4996	11913	5860	13971	19513	7907
+Primordial Jade Cutter	4	4-bc no active	ATK%/CRYO/CD	0/11/9	5	5195	12387	6093	14528	20290	8222
+Primordial Jade Cutter	5	4-bc no active	ATK%/CRYO/CD	0/11/9	5	5394	12861	6327	15084	21067	8537
+Primordial Jade Cutter	1	4-bc with active	ATK%/CRYO/CD	0/11/9	5	4598	15350	5393	17244	17959	7277
+Primordial Jade Cutter	2	4-bc with active	ATK%/CRYO/CD	0/11/9	5	4797	16014	5627	17990	18736	7592
+Primordial Jade Cutter	3	4-bc with active	ATK%/CRYO/CD	0/11/9	5	4996	16678	5860	18736	19513	7907
+Primordial Jade Cutter	4	4-bc with active	ATK%/CRYO/CD	0/11/9	5	5195	17342	6093	19483	20290	8222
+Primordial Jade Cutter	5	4-bc with active	ATK%/CRYO/CD	0/11/9	5	5394	18006	6327	20229	21067	8537
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	3679	8771	5945	14174	19796	8022
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	3838	9151	6202	14788	20653	8369
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	3997	9530	6459	15401	21509	8716
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	4156	9909	6717	16014	22366	9063
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/CRYO/CD	0/11/9	5	4315	10289	6974	16627	23222	9410
+Primordial Jade Cutter	1	4-bs cryo	ATK%/CRYO/CD	1/8/11	5	4220	10062	6820	16261	22710	9203
+Primordial Jade Cutter	2	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	4402	10496	7114	16961	23689	9599
+Primordial Jade Cutter	3	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	4585	10931	7409	17665	24671	9997
+Primordial Jade Cutter	4	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	4767	11366	7704	18368	25653	10395
+Primordial Jade Cutter	5	4-bs cryo	ATK%/CRYO/CD	0/8/12	5	4950	11801	7999	19071	26636	10793
+Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/CD	3/3/14	5	4826	11506	7799	18594	25968	10523
+Primordial Jade Cutter	2	4-bs frozen	ATK%/CRYO/CD	2/3/15	5	5023	11977	8118	19356	27033	10954
+Primordial Jade Cutter	3	4-bs frozen	ATK%/CRYO/CD	1/3/16	5	5225	12458	8444	20133	28118	11394
+Primordial Jade Cutter	4	4-bs frozen	ATK%/CRYO/CD	0/3/17	5	5431	12949	8777	20925	29225	11842
+Primordial Jade Cutter	5	4-bs frozen	ATK%/CRYO/CD	0/3/17	5	5639	13444	9113	21727	30344	12296
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	3679	8771	5393	12859	17959	7277
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	3838	9151	5627	13415	18736	7592
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	3997	9530	5860	13971	19513	7907
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	4156	9909	6093	14528	20290	8222
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/CRYO/CD	0/11/9	5	4315	10289	6327	15084	21067	8537
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	5150	12280	6865	16367	17959	7277
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	5373	12811	7162	17075	18736	7592
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	5596	13342	7459	17783	19513	7907
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	5819	13873	7756	18492	20290	8222
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/CRYO/CD	0/11/9	5	6042	14405	8053	19200	21067	8537
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	4598	10964	5393	12859	17959	7277
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	4797	11438	5627	13415	18736	7592
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	4996	11913	5860	13971	19513	7907
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	5195	12387	6093	14528	20290	8222
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/CRYO/CD	0/11/9	5	5394	12861	6327	15084	21067	8537
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	4790	11420	5617	13393	18705	7580
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	4989	11894	5851	13949	19482	7895
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	5188	12368	6084	14506	20259	8209
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	5387	12843	6317	15062	21036	8524
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/CRYO/CD	0/11/9	5	5585	13317	6551	15618	21813	8839
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	5977	14251	5842	13928	19452	7882
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	6216	14820	6075	14484	20229	8197
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	6455	15389	6308	15040	21006	8512
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	6693	15958	6542	15597	21783	8827
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/CRYO/CD	0/11/9	5	6932	16528	6775	16153	22560	9142
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	3985	9500	6439	15353	21442	8689
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4144	9880	6697	15966	22299	9036
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4303	10259	6954	16579	23155	9383
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4462	10639	7211	17193	24012	9730
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/CRYO/CD	0/11/9	5	4621	11018	7468	17806	24868	10077
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	4981	11876	5842	13928	19452	7882
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	5180	12350	6075	14484	20229	8197
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	5379	12824	6308	15040	21006	8512
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	5578	13299	6542	15597	21783	8827
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/CRYO/CD	0/11/9	5	5777	13773	6775	16153	22560	9142
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	5518	13157	5393	12859	17959	7277
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	5757	13726	5627	13415	18736	7592
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	5996	14295	5860	13971	19513	7907
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	6235	14864	6093	14528	20290	8222
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/CRYO/CD	0/11/9	5	6473	15434	6327	15084	21067	8537
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	4598	10964	5945	14174	19796	8022
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	4797	11438	6202	14788	20653	8369
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	4996	11913	6459	15401	21509	8716
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	5195	12387	6717	16014	22366	9063
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/CRYO/CD	0/11/9	5	5394	12861	6974	16627	23222	9410
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	3985	9500	5842	13928	19452	8958
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4144	9880	6075	14484	20229	9315
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4303	10259	6308	15040	21006	9673
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4462	10639	6542	15597	21783	10031
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/CRYO/CD	0/11/9	5	4621	11018	6775	16153	22560	10389
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	3679	8771	5945	14174	19796	9015
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	3838	9151	6202	14788	20653	9405
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	3997	9530	6459	15401	21509	9795
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	4156	9909	6717	16014	22366	10185
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/CRYO/CD	0/11/9	5	4315	10289	6974	16627	23222	10575
+Primordial Jade Cutter	1	4-no no active	ATK%/CRYO/CD	0/11/9	5	3679	8771	5393	12859	17959	8270
+Primordial Jade Cutter	2	4-no no active	ATK%/CRYO/CD	0/11/9	5	3838	9151	5627	13415	18736	8628
+Primordial Jade Cutter	3	4-no no active	ATK%/CRYO/CD	0/11/9	5	3997	9530	5860	13971	19513	8986
+Primordial Jade Cutter	4	4-no no active	ATK%/CRYO/CD	0/11/9	5	4156	9909	6093	14528	20290	9343
+Primordial Jade Cutter	5	4-no no active	ATK%/CRYO/CD	0/11/9	5	4315	10289	6327	15084	21067	9701
+Primordial Jade Cutter	1	4-no with active	ATK%/CRYO/CD	0/11/9	5	4019	9581	5891	14046	19618	9034
+Primordial Jade Cutter	2	4-no with active	ATK%/CRYO/CD	0/11/9	5	4178	9961	6125	14603	20395	9392
+Primordial Jade Cutter	3	4-no with active	ATK%/CRYO/CD	0/11/9	5	4337	10340	6358	15159	21172	9750
+Primordial Jade Cutter	4	4-no with active	ATK%/CRYO/CD	0/11/9	5	4496	10720	6591	15715	21949	10107
+Primordial Jade Cutter	5	4-no with active	ATK%/CRYO/CD	0/11/9	5	4655	11099	6825	16272	22726	10465
+Primordial Jade Cutter	1	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6041	10668	6041	10668	14899	6037
+Primordial Jade Cutter	2	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6213	10973	6213	10973	15325	6210
+Primordial Jade Cutter	3	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6386	11278	6386	11278	15751	6383
+Primordial Jade Cutter	4	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6559	11583	6559	11583	16177	6555
+Primordial Jade Cutter	5	4-glad	ATK%/ATK%/ATK%	0/6/14	5	6731	11888	6731	11888	16603	6728
+Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5286	12603	4229	10082	14081	5706
+Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5446	12984	4356	10387	14507	5878
+Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5606	13365	4484	10692	14933	6051
+Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5765	13746	4612	10997	15359	6223
+Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/ATK%	0/6/14	5	5925	14127	4740	11302	15785	6396
+Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5286	17644	4229	15123	14081	5706
+Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5446	18178	4356	15581	14507	5878
+Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5606	18711	4484	16038	14933	6051
+Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5765	19245	4612	16496	15359	6223
+Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/ATK%	0/6/14	5	5925	19779	4740	16953	15785	6396
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4229	10082	4863	11594	16193	6562
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4356	10387	5010	11945	16683	6760
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4484	10692	5157	12296	17173	6959
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4612	10997	5304	12646	17663	7157
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/ATK%	0/6/14	5	4740	11302	5451	12997	18152	7356
+Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	4869	11610	5600	13352	18647	7556
+Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5017	11961	5769	13755	19211	7785
+Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5164	12312	5939	14159	19775	8013
+Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5311	12664	6108	14563	20339	8242
+Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/ATK%	0/3/17	5	5459	13015	6277	14967	20903	8470
+Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	5596	13342	6435	15343	21429	8683
+Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	5765	13745	6630	15807	22077	8946
+Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	5934	14149	6824	16271	22725	9208
+Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	6104	14552	7019	16735	23373	9471
+Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/ATK%	0/0/20	5	6273	14956	7214	17199	24021	9734
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4229	10082	4229	10082	14081	5706
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4356	10387	4356	10387	14507	5878
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4484	10692	4484	10692	14933	6051
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4612	10997	4612	10997	15359	6223
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/ATK%	0/6/14	5	4740	11302	4740	11302	15785	6396
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	5920	14115	5920	14115	14081	5706
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6099	14542	6099	14542	14507	5878
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6278	14969	6278	14969	14933	6051
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6457	15396	6457	15396	15359	6223
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/ATK%	0/6/14	5	6636	15823	6636	15823	15785	6396
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5286	12603	4229	10082	14081	5706
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5446	12984	4356	10387	14507	5878
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5606	13365	4484	10692	14933	6051
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5765	13746	4612	10997	15359	6223
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/ATK%	0/6/14	5	5925	14127	4740	11302	15785	6396
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	5439	12969	4351	10375	14490	5872
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	5599	13350	4479	10680	14916	6044
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	5759	13731	4607	10985	15342	6217
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	5919	14112	4735	11290	15768	6389
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/ATK%	0/6/14	5	6079	14494	4863	11595	16194	6562
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	6712	16002	4474	10668	14899	6037
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	6904	16460	4602	10973	15325	6210
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	7095	16917	4730	11278	15751	6383
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	7287	17375	4858	11583	16177	6555
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/ATK%	0/6/14	5	7479	17832	4986	11888	16603	6728
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4474	10668	5146	12268	17134	6943
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4602	10973	5293	12619	17624	7142
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4730	11278	5440	12970	18114	7340
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4858	11583	5587	13320	18604	7538
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/ATK%	0/6/14	5	4986	11888	5734	13671	19093	7737
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	5593	13335	4474	10668	14899	6037
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	5753	13716	4602	10973	15325	6210
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	5913	14098	4730	11278	15751	6383
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	6073	14479	4858	11583	16177	6555
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/ATK%	0/6/14	5	6233	14860	4986	11888	16603	6728
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	6343	15123	4229	10082	14081	5706
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	6535	15581	4356	10387	14507	5878
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	6727	16038	4484	10692	14933	6051
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	6919	16496	4612	10997	15359	6223
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/ATK%	0/6/14	5	7111	16953	4740	11302	15785	6396
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5286	12603	4863	11594	16193	6562
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5446	12984	5010	11945	16683	6760
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5606	13365	5157	12296	17173	6959
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5765	13746	5304	12646	17663	7157
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/ATK%	0/6/14	5	5925	14127	5451	12997	18152	7356
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4474	10668	4474	10668	14899	7245
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4602	10973	4602	10973	15325	7452
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4730	11278	4730	11278	15751	7659
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4858	11583	4858	11583	16177	7866
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/ATK%	0/6/14	5	4986	11888	4986	11888	16603	8073
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4229	10082	4863	11594	16193	7703
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4356	10387	5010	11945	16683	7936
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4484	10692	5157	12296	17173	8169
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4612	10997	5304	12646	17663	8402
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/ATK%	0/6/14	5	4740	11302	5451	12997	18152	8635
+Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4229	10082	4229	10082	14081	6847
+Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4356	10387	4356	10387	14507	7054
+Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4484	10692	4484	10692	14933	7261
+Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4612	10997	4612	10997	15359	7468
+Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/ATK%	0/6/14	5	4740	11302	4740	11302	15785	7675
+Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	4502	10733	4502	10733	14990	7289
+Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	4630	11038	4630	11038	15416	7496
+Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	4757	11343	4757	11343	15842	7703
+Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	4885	11648	4885	11648	16268	7910
+Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/ATK%	0/6/14	5	5013	11953	5013	11953	16694	8118
+Primordial Jade Cutter	1	4-glad	ATK%/ATK%/CR	0/2/18	5	6448	11387	6448	11387	15903	6444
+Primordial Jade Cutter	2	4-glad	ATK%/ATK%/CR	0/2/18	5	6662	11766	6662	11766	16433	6659
+Primordial Jade Cutter	3	4-glad	ATK%/ATK%/CR	0/2/18	5	6877	12146	6877	12146	16963	6874
+Primordial Jade Cutter	4	4-glad	ATK%/ATK%/CR	0/2/18	5	7092	12525	7092	12525	17493	7088
+Primordial Jade Cutter	5	4-glad	ATK%/ATK%/CR	0/2/18	5	7307	12905	7307	12905	18023	7303
+Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/CR	0/2/18	5	5588	13322	4470	10658	14885	6032
+Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/CR	0/2/18	5	5787	13797	4629	11037	15415	6246
+Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/CR	0/2/18	5	5986	14271	4788	11417	15945	6461
+Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/CR	0/2/18	5	6185	14745	4948	11796	16475	6676
+Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/CR	0/2/18	5	6383	15220	5107	12176	17005	6891
+Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/CR	0/2/18	5	5588	18652	4470	15987	14885	6032
+Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/CR	0/2/18	5	5787	19316	4629	16556	15415	6246
+Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/CR	0/2/18	5	5986	19980	4788	17125	15945	6461
+Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/CR	0/2/18	5	6185	20644	4948	17694	16475	6676
+Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/CR	0/2/18	5	6383	21308	5107	18264	17005	6891
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	4470	10658	5141	12257	17118	6936
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	4629	11037	5324	12693	17727	7183
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	4788	11417	5507	13129	18337	7430
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	4948	11796	5690	13566	18946	7677
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/CR	0/2/18	5	5107	12176	5873	14002	19556	7924
+Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5113	12192	5881	14021	19582	7935
+Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5296	12626	6090	14520	20279	8217
+Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5478	13060	6299	15019	20976	8500
+Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5660	13494	6509	15518	21673	8782
+Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/CR	0/0/20	5	5842	13928	6718	16017	22370	9065
+Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5113	12192	5881	14021	19582	7935
+Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5296	12626	6090	14520	20279	8217
+Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5478	13060	6299	15019	20976	8500
+Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5660	13494	6509	15518	21673	8782
+Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/CR	0/0/20	5	5842	13928	6718	16017	22370	9065
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	4470	10658	4470	10658	14885	6032
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	4629	11037	4629	11037	15415	6246
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	4788	11417	4788	11417	15945	6461
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	4948	11796	4948	11796	16475	6676
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/CR	0/2/18	5	5107	12176	5107	12176	17005	6891
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	6258	14921	6258	14921	14885	6032
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	6481	15452	6481	15452	15415	6246
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	6704	15984	6704	15984	15945	6461
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	6927	16515	6927	16515	16475	6676
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/CR	0/2/18	5	7150	17046	7150	17046	17005	6891
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	5588	13322	4470	10658	14885	6032
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	5787	13797	4629	11037	15415	6246
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	5986	14271	4788	11417	15945	6461
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	6185	14745	4948	11796	16475	6676
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/CR	0/2/18	5	6383	15220	5107	12176	17005	6891
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	5779	13778	4623	11022	15394	6238
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	5978	14252	4782	11402	15924	6453
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	6177	14727	4941	11781	16454	6667
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	6376	15201	5100	12161	16984	6882
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/CR	0/2/18	5	6575	15675	5260	12540	17514	7097
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	7164	17081	4776	11387	15903	6444
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	7403	17650	4935	11766	16433	6659
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	7642	18219	5094	12146	16963	6874
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	7880	18788	5253	12525	17493	7088
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/CR	0/2/18	5	8119	19357	5412	12905	18023	7303
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	4776	11387	5492	13095	18289	7411
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	4935	11766	5675	13531	18898	7658
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5094	12146	5858	13968	19508	7905
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5253	12525	6041	14404	20117	8152
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/CR	0/2/18	5	5412	12905	6224	14840	20727	8399
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	5970	14234	4776	11387	15903	6444
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	6169	14708	4935	11766	16433	6659
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	6368	15182	5094	12146	16963	6874
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	6567	15657	5253	12525	17493	7088
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/CR	0/2/18	5	6766	16131	5412	12905	18023	7303
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	6705	15987	4470	10658	14885	6032
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	6944	16556	4629	11037	15415	6246
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	7183	17125	4788	11417	15945	6461
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	7422	17694	4948	11796	16475	6676
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/CR	0/2/18	5	7660	18264	5107	12176	17005	6891
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	5588	13322	5141	12257	17118	6936
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	5787	13797	5324	12693	17727	7183
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	5986	14271	5507	13129	18337	7430
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	6185	14745	5690	13566	18946	7677
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/CR	0/2/18	5	6383	15220	5873	14002	19556	7924
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	4776	11387	4776	11387	15903	7733
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	4935	11766	4935	11766	16433	7991
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5094	12146	5094	12146	16963	8249
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5253	12525	5253	12525	17493	8506
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/CR	0/2/18	5	5412	12905	5412	12905	18023	8764
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	4470	10658	5141	12257	17118	8143
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	4629	11037	5324	12693	17727	8433
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	4788	11417	5507	13129	18337	8723
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	4948	11796	5690	13566	18946	9013
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/CR	0/2/18	5	5107	12176	5873	14002	19556	9302
+Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/CR	0/2/18	5	4470	10658	4470	10658	14885	7238
+Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/CR	0/2/18	5	4629	11037	4629	11037	15415	7496
+Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/CR	0/2/18	5	4788	11417	4788	11417	15945	7753
+Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/CR	0/2/18	5	4948	11796	4948	11796	16475	8011
+Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/CR	0/2/18	5	5107	12176	5107	12176	17005	8269
+Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/CR	0/2/18	5	4810	11468	4810	11468	16017	7788
+Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/CR	0/2/18	5	4969	11847	4969	11847	16547	8046
+Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/CR	0/2/18	5	5128	12227	5128	12227	17076	8304
+Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/CR	0/2/18	5	5287	12606	5287	12606	17606	8561
+Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/CR	0/2/18	5	5446	12986	5446	12986	18136	8819
+Primordial Jade Cutter	1	4-glad	ATK%/ATK%/CD	0/11/9	5	6448	11388	6448	11388	15905	6445
+Primordial Jade Cutter	2	4-glad	ATK%/ATK%/CD	0/11/9	5	6663	11768	6663	11768	16435	6660
+Primordial Jade Cutter	3	4-glad	ATK%/ATK%/CD	0/11/9	5	6878	12147	6878	12147	16965	6875
+Primordial Jade Cutter	4	4-glad	ATK%/ATK%/CD	0/11/9	5	7093	12527	7093	12527	17495	7089
+Primordial Jade Cutter	5	4-glad	ATK%/ATK%/CD	0/11/9	5	7308	12906	7308	12906	18025	7304
+Primordial Jade Cutter	1	4-bc no active	ATK%/ATK%/CD	0/11/9	5	5588	13324	4471	10659	14887	6032
+Primordial Jade Cutter	2	4-bc no active	ATK%/ATK%/CD	0/11/9	5	5787	13798	4630	11038	15417	6247
+Primordial Jade Cutter	3	4-bc no active	ATK%/ATK%/CD	0/11/9	5	5986	14273	4789	11418	15947	6462
+Primordial Jade Cutter	4	4-bc no active	ATK%/ATK%/CD	0/11/9	5	6185	14747	4948	11797	16477	6677
+Primordial Jade Cutter	5	4-bc no active	ATK%/ATK%/CD	0/11/9	5	6384	15221	5107	12177	17007	6891
+Primordial Jade Cutter	1	4-bc with active	ATK%/ATK%/CD	0/11/9	5	5588	18654	4471	15989	14887	6032
+Primordial Jade Cutter	2	4-bc with active	ATK%/ATK%/CD	0/11/9	5	5787	19318	4630	16558	15417	6247
+Primordial Jade Cutter	3	4-bc with active	ATK%/ATK%/CD	0/11/9	5	5986	19982	4789	17127	15947	6462
+Primordial Jade Cutter	4	4-bc with active	ATK%/ATK%/CD	0/11/9	5	6185	20646	4948	17696	16477	6677
+Primordial Jade Cutter	5	4-bc with active	ATK%/ATK%/CD	0/11/9	5	6384	21310	5107	18266	17007	6891
+Primordial Jade Cutter	1	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	4471	10659	5141	12258	17120	6937
+Primordial Jade Cutter	2	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	4630	11038	5324	12694	17729	7184
+Primordial Jade Cutter	3	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	4789	11418	5507	13131	18339	7431
+Primordial Jade Cutter	4	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	4948	11797	5690	13567	18948	7678
+Primordial Jade Cutter	5	4-bs no cryo	ATK%/ATK%/CD	0/11/9	5	5107	12177	5873	14004	19558	7925
+Primordial Jade Cutter	1	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5128	12226	5897	14060	19636	7957
+Primordial Jade Cutter	2	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5310	12661	6107	14560	20336	8240
+Primordial Jade Cutter	3	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5493	13096	6317	15061	21035	8524
+Primordial Jade Cutter	4	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5675	13532	6527	15561	21734	8807
+Primordial Jade Cutter	5	4-bs cryo	ATK%/ATK%/CD	0/8/12	5	5858	13967	6737	16062	22433	9090
+Primordial Jade Cutter	1	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	5842	13928	6718	16017	22370	9065
+Primordial Jade Cutter	2	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6050	14424	6957	16588	23167	9388
+Primordial Jade Cutter	3	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6258	14920	7196	17158	23963	9710
+Primordial Jade Cutter	4	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6466	15416	7436	17728	24759	10033
+Primordial Jade Cutter	5	4-bs frozen	ATK%/ATK%/CD	0/3/17	5	6674	15911	7675	18298	25556	10356
+Primordial Jade Cutter	1	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	4471	10659	4471	10659	14887	6032
+Primordial Jade Cutter	2	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	4630	11038	4630	11038	15417	6247
+Primordial Jade Cutter	3	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	4789	11418	4789	11418	15947	6462
+Primordial Jade Cutter	4	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	4948	11797	4948	11797	16477	6677
+Primordial Jade Cutter	5	4-bolide no shield	ATK%/ATK%/CD	0/11/9	5	5107	12177	5107	12177	17007	6891
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	6259	14923	6259	14923	14887	6032
+Primordial Jade Cutter	2	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	6482	15454	6482	15454	15417	6247
+Primordial Jade Cutter	3	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	6705	15985	6705	15985	15947	6462
+Primordial Jade Cutter	4	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	6927	16517	6927	16517	16477	6677
+Primordial Jade Cutter	5	4-bolide with shield	ATK%/ATK%/CD	0/11/9	5	7150	17048	7150	17048	17007	6891
+Primordial Jade Cutter	1	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	5588	13324	4471	10659	14887	6032
+Primordial Jade Cutter	2	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	5787	13798	4630	11038	15417	6247
+Primordial Jade Cutter	3	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	5986	14273	4789	11418	15947	6462
+Primordial Jade Cutter	4	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	6185	14747	4948	11797	16477	6677
+Primordial Jade Cutter	5	4-pf 0 stack	ATK%/ATK%/CD	0/11/9	5	6384	15221	5107	12177	17007	6891
+Primordial Jade Cutter	1	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	5779	13780	4623	11024	15396	6239
+Primordial Jade Cutter	2	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	5978	14254	4783	11403	15926	6453
+Primordial Jade Cutter	3	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	6177	14728	4942	11783	16456	6668
+Primordial Jade Cutter	4	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	6376	15203	5101	12162	16986	6883
+Primordial Jade Cutter	5	4-pf 1 stack	ATK%/ATK%/CD	0/11/9	5	6575	15677	5260	12542	17516	7098
+Primordial Jade Cutter	1	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	7165	17083	4776	11388	15905	6445
+Primordial Jade Cutter	2	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	7404	17652	4936	11768	16435	6660
+Primordial Jade Cutter	3	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	7642	18221	5095	12147	16965	6875
+Primordial Jade Cutter	4	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	7881	18790	5254	12527	17495	7089
+Primordial Jade Cutter	5	4-pf 2 stacks	ATK%/ATK%/CD	0/11/9	5	8120	19359	5413	12906	18025	7304
+Primordial Jade Cutter	1	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	4776	11388	5493	13097	18291	7412
+Primordial Jade Cutter	2	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	4936	11768	5676	13533	18901	7659
+Primordial Jade Cutter	3	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5095	12147	5859	13969	19510	7906
+Primordial Jade Cutter	4	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5254	12527	6042	14406	20120	8153
+Primordial Jade Cutter	5	2-glad-2-bs	ATK%/ATK%/CD	0/11/9	5	5413	12906	6225	14842	20729	8400
+Primordial Jade Cutter	1	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	5971	14235	4776	11388	15905	6445
+Primordial Jade Cutter	2	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	6170	14710	4936	11768	16435	6660
+Primordial Jade Cutter	3	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	6369	15184	5095	12147	16965	6875
+Primordial Jade Cutter	4	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	6568	15658	5254	12527	17495	7089
+Primordial Jade Cutter	5	2-glad-2-bc	ATK%/ATK%/CD	0/11/9	5	6767	16133	5413	12906	18025	7304
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	6706	15989	4471	10659	14887	6032
+Primordial Jade Cutter	2	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	6945	16558	4630	11038	15417	6247
+Primordial Jade Cutter	3	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	7184	17127	4789	11418	15947	6462
+Primordial Jade Cutter	4	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	7422	17696	4948	11797	16477	6677
+Primordial Jade Cutter	5	2-bc-2-pf	ATK%/ATK%/CD	0/11/9	5	7661	18266	5107	12177	17007	6891
+Primordial Jade Cutter	1	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	5588	13324	5141	12258	17120	6937
+Primordial Jade Cutter	2	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	5787	13798	5324	12694	17729	7184
+Primordial Jade Cutter	3	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	5986	14273	5507	13131	18339	7431
+Primordial Jade Cutter	4	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	6185	14747	5690	13567	18948	7678
+Primordial Jade Cutter	5	2-bc-2-bs	ATK%/ATK%/CD	0/11/9	5	6384	15221	5873	14004	19558	7925
+Primordial Jade Cutter	1	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	4776	11388	4776	11388	15905	7734
+Primordial Jade Cutter	2	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	4936	11768	4936	11768	16435	7992
+Primordial Jade Cutter	3	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5095	12147	5095	12147	16965	8250
+Primordial Jade Cutter	4	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5254	12527	5254	12527	17495	8507
+Primordial Jade Cutter	5	2-glad-2-no	ATK%/ATK%/CD	0/11/9	5	5413	12906	5413	12906	18025	8765
+Primordial Jade Cutter	1	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	4471	10659	5141	12258	17120	8144
+Primordial Jade Cutter	2	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	4630	11038	5324	12694	17729	8434
+Primordial Jade Cutter	3	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	4789	11418	5507	13131	18339	8724
+Primordial Jade Cutter	4	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	4948	11797	5690	13567	18948	9014
+Primordial Jade Cutter	5	2-bs-2-no	ATK%/ATK%/CD	0/11/9	5	5107	12177	5873	14004	19558	9303
+Primordial Jade Cutter	1	4-no no active	ATK%/ATK%/CD	0/11/9	5	4471	10659	4471	10659	14887	7239
+Primordial Jade Cutter	2	4-no no active	ATK%/ATK%/CD	0/11/9	5	4630	11038	4630	11038	15417	7497
+Primordial Jade Cutter	3	4-no no active	ATK%/ATK%/CD	0/11/9	5	4789	11418	4789	11418	15947	7754
+Primordial Jade Cutter	4	4-no no active	ATK%/ATK%/CD	0/11/9	5	4948	11797	4948	11797	16477	8012
+Primordial Jade Cutter	5	4-no no active	ATK%/ATK%/CD	0/11/9	5	5107	12177	5107	12177	17007	8270
+Primordial Jade Cutter	1	4-no with active	ATK%/ATK%/CD	0/11/9	5	4810	11469	4810	11469	16018	7789
+Primordial Jade Cutter	2	4-no with active	ATK%/ATK%/CD	0/11/9	5	4970	11849	4970	11849	16548	8047
+Primordial Jade Cutter	3	4-no with active	ATK%/ATK%/CD	0/11/9	5	5129	12228	5129	12228	17078	8305
+Primordial Jade Cutter	4	4-no with active	ATK%/ATK%/CD	0/11/9	5	5288	12608	5288	12608	17608	8562
+Primordial Jade Cutter	5	4-no with active	ATK%/ATK%/CD	0/11/9	5	5447	12987	5447	12987	18138	8820
 Iron Sting 0 stack	1	4-glad	ATK%/PHYS/ATK%	0/13/7	4	4742	9258	3311	5848	8168	3310
 Iron Sting 0 stack	2	4-glad	ATK%/PHYS/ATK%	0/13/7	4	4742	9258	3311	5848	8168	3310
 Iron Sting 0 stack	3	4-glad	ATK%/PHYS/ATK%	0/13/7	4	4742	9258	3311	5848	8168	3310

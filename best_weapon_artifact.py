@@ -146,22 +146,22 @@ def main():
         B, F, A, CR, CD = partial_stats[key]
 
         # Normal attack dmg.
-        aa_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
+        aa_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg.
-        ca_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
+        ca_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['PDB'] + a['PDB'] + a['CADB'] + s['PDB@90'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Normal attack dmg with cryo infusion.
-        aa_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
+        aa_infuse_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg with cryo infusion.
-        ca_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
+        ca_infuse_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Elemental skill dmg.
-        es_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * CD) * \
+        es_dmg = (B * (1 + A) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
         # Elemental burst dmg.
-        eb_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
+        eb_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
 
         aa_dmg *= kaeya.skills['aa1']['8']
@@ -170,6 +170,19 @@ def main():
         ca_infuse_dmg *= kaeya.skills['cat']['8']
         es_dmg *= kaeya.skills['es']['8']
         eb_dmg *= kaeya.skills['eb_perhit']['8']
+
+        if sword_name == 'Primordial Jade Cutter' and \
+            refinement == '1' and \
+            artifact_set_name == '2-bc-2-pf' and \
+            mainstat_name == 'ATK%/PHYS/CD' and \
+            substat_investment == '0/11/9':
+            print(aa_dmg)
+            print('B, F, A, CR, CD')
+            print(B, F, A, CR, CD)
+            print("m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1']")
+            print(m['PDB'], a['PDB'], a['NADB'] ,s['PDB@90'], s['NADB@R1'], s['ADB@R1'])
+            print(m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R'])
+            print((B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) )
 
         current_row = key.split('|') + [str(int(s['Star']))] + \
                       [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
