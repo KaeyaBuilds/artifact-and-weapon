@@ -103,7 +103,7 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
     return partial_stats
 
 
-def calculate_best_build_for_r1_weapon(all_dmg_results, dmg_col):
+def calculate_best_build_for_weapon(all_dmg_results, dmg_col):
     best_build = dict()
     forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
     allowed_stars = ['5', '4', '3']
@@ -178,12 +178,12 @@ def main():
     ########################################
     # Generate viable builds.
     ########################################
-    best_for_r1_weapon_aa = calculate_best_build_for_r1_weapon(all_dmg_results, 6)
-    best_for_r1_weapon_ca = calculate_best_build_for_r1_weapon(all_dmg_results, 7)
-    best_for_r1_weapon_aa_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 8)
-    best_for_r1_weapon_ca_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 9)
-    best_for_r1_weapon_e = calculate_best_build_for_r1_weapon(all_dmg_results, 10)
-    best_for_r1_weapon_q = calculate_best_build_for_r1_weapon(all_dmg_results, 11)
+    best_for_r1_weapon_aa = calculate_best_build_for_weapon(all_dmg_results, 6)
+    best_for_r1_weapon_ca = calculate_best_build_for_weapon(all_dmg_results, 7)
+    best_for_r1_weapon_aa_infuse = calculate_best_build_for_weapon(all_dmg_results, 8)
+    best_for_r1_weapon_ca_infuse = calculate_best_build_for_weapon(all_dmg_results, 9)
+    best_for_r1_weapon_e = calculate_best_build_for_weapon(all_dmg_results, 10)
+    best_for_r1_weapon_q = calculate_best_build_for_weapon(all_dmg_results, 11)
 
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
     write_result_file('../results/best_builds_for_AA.tsv', column_names, best_for_r1_weapon_aa)
