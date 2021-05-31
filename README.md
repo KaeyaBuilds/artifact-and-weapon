@@ -1,7 +1,7 @@
 # The ultimate Kaeya artifact and weapon ranking
 Join our Discord at: https://discord.gg/CewbQqQATp
 
-Here we provide a comprehensive ranking of the best weapons for Kaeya and the artifacts you want to build for each weapon.
+Here we provide a comprehensive ranking of the best weapons for physical and cryo Kaeya and the artifacts you want to build for each weapon.
 
 Physical Kaeya best weapon and artifacts:
 
