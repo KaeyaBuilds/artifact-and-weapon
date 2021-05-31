@@ -78,10 +78,10 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
                         # Non-artifact substat flat attack.
                         F = sword['ATK@R1'] + refinement * sword['ATK/R'] + mainstat['ATK']
                         # Non-artifact substat crit rate.
-                        OR = sword['CR@R1'] + refinement * sword['CR/R'] + mainstat['CR'] + artifact_set['CR'] + 0.05
+                        OR = sword['CR@90'] + sword['CR@R1'] + refinement * sword['CR/R'] + mainstat['CR'] + artifact_set['CR'] + 0.05
                         # Non-artifact substat crit dmg.
                         # Note: no swords give CD so far.
-                        OD = mainstat['CD'] + 0.5
+                        OD = sword['CD@90'] + mainstat['CD'] + 0.5
 
                         max_A_r, max_CR_r, max_CD_r = brute_force_substat_optimizer(B, O, F, OR, OD, N, sword_name)
                         substat_investment = '/'.join([str(max_A_r), str(max_CR_r), str(max_CD_r)])
@@ -93,6 +93,7 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
                                                   O + max_A_r * N_A,
                                                   OR + max_CR_r * N_CR,
                                                   OD + max_CD_r * N_CD]
+
                     all_results.append(current_row)
 
     column_names = ['Sword', 'Refinement', 'Artifact set', 'Mainstats',
@@ -108,14 +109,16 @@ def calculate_best_build_for_weapon(all_dmg_results, dmg_col):
     forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
     allowed_stars = ['5', '4', '3']
     for result in all_dmg_results:
+        key = result[0] + result[1]
         # If the sword is R1 or R5 4/3* and valid artifact set and either there is no record of the sword yet,
         # or a new build is better than the current best build.
         if result[5] in allowed_stars and (result[1] == '1' or (result[1] == '5' and result[5] != '5')) and \
            result[2] not in forbidden_artifacts and \
-           (result[0] not in best_build or float(best_build[result[0]][-1]) < float(result[dmg_col])):
-            best_build[result[0]] = result[1:5] + [result[dmg_col]]
+           (key not in best_build or float(best_build[key][-1]) < float(result[dmg_col])):
+            best_build[key] = result[1:5] + [result[dmg_col]]
 
-    best_build = [[key] + best_build[key] for key in best_build]
+    # [key][:-1] is to recover the sword name and get rid of the refinement.
+    best_build = [[key[:-1]] + best_build[key] for key in best_build]
     best_build.sort(reverse=True, key=lambda x: float(x[-1]))
 
     return best_build
