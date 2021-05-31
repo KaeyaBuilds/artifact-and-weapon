@@ -107,8 +107,8 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
 def calculate_best_build_for_weapon(all_dmg_results, dmg_col):
     best_build = dict()
     # If phys build.
-    if dmg_col == 6 or dmg_col == 7:
-        forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
+    if dmg_col == 6 or dmg_col == 8 or dmg_col == 9:
+        forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs cryo', '4-bs frozen', '4-no with active']
     # If cryo build.
     else:
         forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-no with active']
@@ -170,6 +170,17 @@ def main():
         eb_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
 
+        # E > Q > N2C x 2 > E > N2C x 2. 10 hits on Q.
+        basic_combo_phys = 4 * aa_dmg * (kaeya.skills['aa1']['8'] + kaeya.skills['aa2']['8']) + \
+                           4 * ca_dmg * (kaeya.skills['cat']['8']) + \
+                           2 * es_dmg * kaeya.skills['es']['8'] + \
+                           10 * eb_dmg * kaeya.skills['eb_perhit']['8']
+        basic_combo_cryo = 4 * aa_infuse_dmg * (kaeya.skills['aa1']['8'] + kaeya.skills['aa2']['8']) + \
+                           4 * ca_infuse_dmg * (kaeya.skills['cat']['8']) + \
+                           2 * es_dmg * kaeya.skills['es']['8'] + \
+                           10 * eb_dmg * kaeya.skills['eb_perhit']['8']
+
+        # Single abilities.
         aa_dmg *= kaeya.skills['aa1']['8']
         ca_dmg *= kaeya.skills['cat']['8']
         aa_infuse_dmg *= kaeya.skills['aa1']['8']
@@ -178,7 +189,8 @@ def main():
         eb_dmg *= kaeya.skills['eb_perhit']['8']
 
         current_row = key.split('|') + [str(int(s['Star']))] + \
-                      [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
+                      [str(int(basic_combo_phys)), str(int(basic_combo_cryo)),
+                       str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
                        str(int(ca_infuse_dmg)), str(int(es_dmg)), str(int(eb_dmg))]
         all_dmg_results.append(current_row)
 
@@ -187,20 +199,24 @@ def main():
     ########################################
     # Generate viable builds.
     ########################################
-    best_for_r1_weapon_aa = calculate_best_build_for_weapon(all_dmg_results, 6)
-    best_for_r1_weapon_ca = calculate_best_build_for_weapon(all_dmg_results, 7)
-    best_for_r1_weapon_aa_infuse = calculate_best_build_for_weapon(all_dmg_results, 8)
-    best_for_r1_weapon_ca_infuse = calculate_best_build_for_weapon(all_dmg_results, 9)
-    best_for_r1_weapon_e = calculate_best_build_for_weapon(all_dmg_results, 10)
-    best_for_r1_weapon_q = calculate_best_build_for_weapon(all_dmg_results, 11)
+    best_for_weapon_combop = calculate_best_build_for_weapon(all_dmg_results, 6)
+    best_for_weapon_comboc = calculate_best_build_for_weapon(all_dmg_results, 7)
+    best_for_weapon_aa = calculate_best_build_for_weapon(all_dmg_results, 8)
+    best_for_weapon_ca = calculate_best_build_for_weapon(all_dmg_results, 9)
+    best_for_weapon_aa_infuse = calculate_best_build_for_weapon(all_dmg_results, 10)
+    best_for_weapon_ca_infuse = calculate_best_build_for_weapon(all_dmg_results, 11)
+    best_for_weapon_e = calculate_best_build_for_weapon(all_dmg_results, 12)
+    best_for_weapon_q = calculate_best_build_for_weapon(all_dmg_results, 13)
 
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
-    write_result_file('../results/best_builds_for_AA.tsv', column_names, best_for_r1_weapon_aa)
-    write_result_file('../results/best_builds_for_CA.tsv', column_names, best_for_r1_weapon_ca)
-    write_result_file('../results/best_builds_for_AAinfuse.tsv', column_names, best_for_r1_weapon_aa_infuse)
-    write_result_file('../results/best_builds_for_CAinfuse.tsv', column_names, best_for_r1_weapon_ca_infuse)
-    write_result_file('../results/best_builds_for_E.tsv', column_names, best_for_r1_weapon_e)
-    write_result_file('../results/best_builds_for_Q.tsv', column_names, best_for_r1_weapon_q)
+    write_result_file('../results/best_builds_for_phys_rotation.tsv', column_names, best_for_weapon_combop)
+    write_result_file('../results/best_builds_for_cryo_rotation.tsv', column_names, best_for_weapon_comboc)
+    write_result_file('../results/best_builds_for_AA.tsv', column_names, best_for_weapon_aa)
+    write_result_file('../results/best_builds_for_CA.tsv', column_names, best_for_weapon_ca)
+    write_result_file('../results/best_builds_for_AAinfuse.tsv', column_names, best_for_weapon_aa_infuse)
+    write_result_file('../results/best_builds_for_CAinfuse.tsv', column_names, best_for_weapon_ca_infuse)
+    write_result_file('../results/best_builds_for_E.tsv', column_names, best_for_weapon_e)
+    write_result_file('../results/best_builds_for_Q.tsv', column_names, best_for_weapon_q)
 
 
 if __name__ == "__main__":
