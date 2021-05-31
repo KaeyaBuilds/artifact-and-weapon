@@ -49,12 +49,13 @@ physical damage bonus goblet and crit damage circlet.
 4. We make the assumptions that 20 rolls of your artifact substats go into ATK%, CR or CD.
 And a substat like "0/18/2" means given the sword, you should aim to get 0 rolls on ATK%,
 18 rolls on crit rate and 2 rolls on crit damage to maximize the damage output of that particular sword.
-These rolls are not easy to achieve, they are just a general guideline of where you want to rolls to go.
+These rolls are not easy to achieve, they are just a general guideline of where you want the rolls to go.
 5. The average damage in two tables above are calculated for the following Kaeya rotation:
 ```E > Q > N2C x 2 > E > N2C x 2``` with 10 Q hits. N2C here is normal attacks 1, 2 plus a charged attack.
 6. We assume all of the weapons are at level 90, Kaeya is level 80 ascended and Kaeya's talents are all at level 8.
+We assume on average the ATK% substat roll is 4.975%, CR is 3.3% and CD is 6.6%.
 
-You want a full list of all swords and their best artifacts?
+You want a full ranking of all of the swords and their best artifacts?
 * Sword ranking for [Phys Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv)
   (the full version of the first table above).
 * Sword ranking for [Cryo Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv)
@@ -67,7 +68,7 @@ You want a full list of all swords and their best artifacts?
 * Sword ranking for [Kaeya's elemental burst alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_Q.tsv).
 * [Master sheet](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/master_weapon_artifact_sheet.tsv): 
 The master sheet contains all of the sword-artifact combinations with refinements R1 to R5.
-You should be able to look up your specific build in the master sheet and compare it with the 
+You should be able to look up your specific build (sword, refinement, artifact set and mainstats) in the master sheet and compare it with the 
 top ranked build scenarios that are shown above.
   
 Footnotes: The calculations are a collaboration between wolich, elijam and ai.
