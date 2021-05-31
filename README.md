@@ -1,6 +1,8 @@
 # The ultimate Kaeya artifact and weapon ranking
 Join our Discord at: https://discord.gg/CewbQqQATp
 
+Here we provide a comprehensive ranking of the best weapons for Kaeya and the artifacts you want to build for each weapon.
+
 Physical Kaeya best weapon and artifacts:
 
 | Sword                              | Refinement | Artifact  | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
@@ -39,21 +41,24 @@ Cryo Kaeya best weapon and artifacts:
 | Skyward Blade no proc              | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/8/6              | 209288      | 70%        |
 
 How to interpret these tables?
-1. Artifact names "bc", "pf" and "bs" stand for "
+1. The ranking only concerns R1 5* swords, R1 and R5 4* and 3* swords.
+2. Artifact names "bc", "pf" and "bs" stand for "
 Bloodstained Chivalry", "Pale Flame" and "Blizzard Strayer".
-2. A mainstat like "ATK%/PHYS/CD" means given the sword, you want to use ATK% sand,
+3. A mainstat like "ATK%/PHYS/CD" means given the sword, you want to use ATK% sand,
 physical damage bonus goblet and crit damage circlet.
-3. We make the assumptions that 20 rolls of your artifact substats go into ATK%, CR or CD.
+4. We make the assumptions that 20 rolls of your artifact substats go into ATK%, CR or CD.
 And a substat like "0/18/2" means given the sword, you should aim to get 0 rolls on ATK%,
 18 rolls on crit rate and 2 rolls on crit damage to maximize the damage output of that particular sword.
 These rolls are not easy to achieve, they are just a general guideline of where you want to rolls to go.
-4. The average damage in two tables above are calculated for the following Kaeya rotation:
+5. The average damage in two tables above are calculated for the following Kaeya rotation:
 ```E > Q > N2C x 2 > E > N2C x 2``` with 10 Q hits. N2C here is normal attacks 1, 2 plus a charged attack.
-5. We assume all of the weapons are at level 90, Kaeya is level 80 ascended and Kaeya's talents are all at level 8.
+6. We assume all of the weapons are at level 90, Kaeya is level 80 ascended and Kaeya's talents are all at level 8.
 
 You want a full list of all swords and their best artifacts?
-* Sword ranking for [Phys Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv).
-* Sword ranking for [Cryo Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv).
+* Sword ranking for [Phys Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv)
+  (the full version of the first table above).
+* Sword ranking for [Cryo Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv)
+  (the full version of the second table above).
 * Sword ranking for [Phys Kaeya AA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA.tsv).
 * Sword ranking for [Phys Kaeya CA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_CA.tsv).
 * Sword ranking for [Cryo infused Kaeya AA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AAinfuse.tsv).
