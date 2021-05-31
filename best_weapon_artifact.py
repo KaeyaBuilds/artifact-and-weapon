@@ -186,12 +186,12 @@ def main():
     best_for_r1_weapon_q = calculate_best_build_for_r1_weapon(all_dmg_results, 11)
 
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
-    write_result_file('../results/best_builds_for_AA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa)
-    write_result_file('../results/best_builds_for_CA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_ca)
-    write_result_file('../results/best_builds_for_AAinfuse_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa_infuse)
-    write_result_file('../results/best_builds_for_CAinfuse_with_R1_weapons.tsv', column_names, best_for_r1_weapon_ca_infuse)
-    write_result_file('../results/best_builds_for_E_with_R1_weapons.tsv', column_names, best_for_r1_weapon_e)
-    write_result_file('../results/best_builds_for_Q_with_R1_weapons.tsv', column_names, best_for_r1_weapon_q)
+    write_result_file('../results/best_builds_for_AA.tsv', column_names, best_for_r1_weapon_aa)
+    write_result_file('../results/best_builds_for_CA.tsv', column_names, best_for_r1_weapon_ca)
+    write_result_file('../results/best_builds_for_AAinfuse.tsv', column_names, best_for_r1_weapon_aa_infuse)
+    write_result_file('../results/best_builds_for_CAinfuse.tsv', column_names, best_for_r1_weapon_ca_infuse)
+    write_result_file('../results/best_builds_for_E.tsv', column_names, best_for_r1_weapon_e)
+    write_result_file('../results/best_builds_for_Q.tsv', column_names, best_for_r1_weapon_q)
 
 
 if __name__ == "__main__":
