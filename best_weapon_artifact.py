@@ -106,7 +106,13 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
 
 def calculate_best_build_for_weapon(all_dmg_results, dmg_col):
     best_build = dict()
-    forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
+    # If phys build.
+    if dmg_col == 6 or dmg_col == 7:
+        forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
+    # If cryo build.
+    else:
+        forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-no with active']
+
     allowed_stars = ['5', '4', '3']
     for result in all_dmg_results:
         key = result[0] + result[1]
@@ -170,19 +176,6 @@ def main():
         ca_infuse_dmg *= kaeya.skills['cat']['8']
         es_dmg *= kaeya.skills['es']['8']
         eb_dmg *= kaeya.skills['eb_perhit']['8']
-
-        if sword_name == 'Primordial Jade Cutter' and \
-            refinement == '1' and \
-            artifact_set_name == '2-bc-2-pf' and \
-            mainstat_name == 'ATK%/PHYS/CD' and \
-            substat_investment == '0/11/9':
-            print(aa_dmg)
-            print('B, F, A, CR, CD')
-            print(B, F, A, CR, CD)
-            print("m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1']")
-            print(m['PDB'], a['PDB'], a['NADB'] ,s['PDB@90'], s['NADB@R1'], s['ADB@R1'])
-            print(m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R'])
-            print((B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) )
 
         current_row = key.split('|') + [str(int(s['Star']))] + \
                       [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
