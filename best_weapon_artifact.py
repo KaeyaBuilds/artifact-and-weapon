@@ -143,22 +143,22 @@ def main():
         B, F, A, CR, CD = partial_stats[key]
 
         # Normal attack dmg.
-        aa_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+        aa_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg.
-        ca_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+        ca_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['PDB'] + a['PDB'] + a['CADB'] + s['PDB@90'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Normal attack dmg with cryo infusion.
-        aa_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+        aa_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg with cryo infusion.
-        ca_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+        ca_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Elemental skill dmg.
-        es_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + (CR + s['ESCR@R1'] + r * s['ESCR/R']) * CD) * \
+        es_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
         # Elemental burst dmg.
-        eb_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+        eb_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + min(CR, 1.0) * CD) * \
                  (1 + m['CDB'] + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
 
         aa_dmg *= kaeya.skills['aa1']['8']
