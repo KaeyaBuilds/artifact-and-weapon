@@ -166,8 +166,8 @@ def main():
         es_dmg *= kaeya.skills['es']['8']
         eb_dmg *= kaeya.skills['eb_perhit']['8']
 
-        current_row = key.split('|') + [str(aa_dmg), str(ca_dmg), str(aa_infuse_dmg),
-                                        str(ca_infuse_dmg), str(es_dmg), str(eb_dmg)]
+        current_row = key.split('|') + [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
+                                        str(int(ca_infuse_dmg)), str(int(es_dmg)), str(int(eb_dmg))]
         all_dmg_results.append(current_row)
 
     write_result_file('../results/master_weapon_artifact_sheet.tsv', column_names, all_dmg_results)
