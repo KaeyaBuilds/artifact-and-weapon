@@ -52,7 +52,7 @@ And a substat like "0/18/2" means given the sword, you should aim to get 0 rolls
 These rolls are not easy to achieve, they are just a general guideline of where you want the rolls to go.
 5. The average damage in two tables above are calculated for the following Kaeya rotation:
 ```E > Q > N2C x 2 > E > N2C x 2``` with 10 Q hits. N2C here is normal attacks 1, 2 plus a charged attack.
-6. We assume all of the weapons are at level 90, Kaeya is level 80 ascended and Kaeya's talents are all at level 8.
+6. We assume all of the weapons are at level 90, Kaeya is level 80 ascended C0 and Kaeya's talents are all at level 8.
 We assume on average the ATK% substat roll is 4.975%, CR is 3.3% and CD is 6.6%.
 
 You want a full ranking of all of the swords and their best artifacts?
