@@ -1,37 +1,35 @@
-Sword	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
-Summit Shaper 5 stacks with shield	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	18465
-Aquila Favonia	2-bc-2-pf	ATK%/PHYS/CR	3/7/10	17637
-Summit Shaper 5 stacks	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	17119
-Summit Shaper 0 stack	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	16042
-Skyward Blade with active	2-bc-2-pf	ATK%/PHYS/CR	7/4/9	15604
-Primordial Jade Cutter	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	15348
-Prototype Rancour 4 stacks	2-bc-2-pf	ATK%/PHYS/CR	3/7/10	15103
-Lion's Roar with active	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	15010
-Blackcliff Longsword 3 stacks	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	14209
-Prototype Rancour 0 stack	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	14051
-Lion's Roar no active	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
-Royal Longsword	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
-The Flute	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
-The Alley Flash with active	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	13543
-Skyward Blade no active	2-bc-2-pf	ATK%/PHYS/CR	7/4/9	12943
-The Alley Flash no active	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	12806
-The Black Sword	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	12435
-Cool Steel with active	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	12373
-Sword of Descension	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	12284
-Blackcliff Longsword 0 stack	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	12055
-Iron Sting 2 stacks	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	12000
-Cool Steel no active	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	11699
-Fillet Blade	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	11699
-Iron Sting 0 stack	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	11346
-Festering Desire	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	11346
-Harbinger of Dawn with active	2-bc-2-pf	ATK%/PHYS/CD	3/14/3	10994
-Dark Iron Sword with active	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	10935
-Favonius Sword	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10636
-Sacrificial Sword	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10636
-Traveler's Handy Sword	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10560
-Dark Iron Sword no active	2-bc-2-pf	ATK%/PHYS/CR	4/6/10	9968
-Harbinger of Dawn no active	2-bc-2-pf	ATK%/PHYS/CR	4/6/10	9968
-Skyrider Sword with active	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	9918
-Skyrider Sword no active	2-bc-2-pf	ATK%/PHYS/CR	3/7/10	9382
-Silver Sword	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	5480
-Dull Blade	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	5359
+Sword	Refinement	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
+Summit Shaper 5 stacks with shield	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	18465
+Aquila Favonia	1	2-bc-2-pf	ATK%/PHYS/CR	3/7/10	17637
+Summit Shaper 5 stacks	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	17119
+Blackcliff Longsword 3 stacks	5	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	16505
+Prototype Rancour 4 stacks	5	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	16265
+Lion's Roar with active	5	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	16062
+Summit Shaper 0 stack	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	16042
+Skyward Blade with active	1	2-bc-2-pf	ATK%/PHYS/CR	7/4/9	15604
+Primordial Jade Cutter	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	15348
+The Alley Flash with active	5	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	14281
+Prototype Rancour 0 stack	1	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	14051
+Lion's Roar no active	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
+Royal Longsword	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
+The Flute	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13695
+The Black Sword	5	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	13525
+Cool Steel with active	5	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	13047
+Skyward Blade no active	1	2-bc-2-pf	ATK%/PHYS/CR	7/4/9	12943
+The Alley Flash no active	1	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	12806
+Iron Sting 2 stacks	5	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	12653
+Sword of Descension	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	12284
+Harbinger of Dawn with active	5	2-bc-2-pf	ATK%/PHYS/CD	3/12/5	12137
+Blackcliff Longsword 0 stack	1	2-bc-2-pf	ATK%/PHYS/ATK%	18/2/0	12055
+Dark Iron Sword with active	5	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	11940
+Cool Steel no active	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	11699
+Fillet Blade	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	11699
+Iron Sting 0 stack	1	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	11346
+Festering Desire	1	2-bc-2-pf	ATK%/PHYS/CR	7/5/8	11346
+Favonius Sword	1	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10636
+Sacrificial Sword	1	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10636
+Traveler's Handy Sword	1	2-bc-2-pf	ATK%/PHYS/CR	5/6/9	10560
+Skyrider Sword with active	5	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	10474
+Dark Iron Sword no active	1	2-bc-2-pf	ATK%/PHYS/CR	4/6/10	9968
+Harbinger of Dawn no active	1	2-bc-2-pf	ATK%/PHYS/CR	4/6/10	9968
+Skyrider Sword no active	1	2-bc-2-pf	ATK%/PHYS/CR	3/7/10	9382

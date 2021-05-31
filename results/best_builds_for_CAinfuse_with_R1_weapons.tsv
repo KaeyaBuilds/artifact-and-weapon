@@ -1,37 +1,35 @@
-Sword	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
-Summit Shaper 5 stacks with shield	4-bolide with shield	ATK%/CRYO/CR	0/8/12	16541
-Summit Shaper 5 stacks	4-bolide with shield	ATK%/CRYO/CR	0/8/12	15335
-Summit Shaper 0 stack	4-bolide with shield	ATK%/CRYO/CD	0/18/2	14371
-Skyward Blade with active	4-bs cryo	ATK%/CRYO/CD	6/11/3	14268
-Lion's Roar with active	4-bs cryo	ATK%/CRYO/CR	0/5/15	13750
-Primordial Jade Cutter	4-bolide with shield	ATK%/CRYO/CD	0/18/2	13749
-Aquila Favonia	4-bolide with shield	ATK%/CRYO/CR	3/7/10	13185
-Blackcliff Longsword 3 stacks	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12729
-Lion's Roar no active	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
-Royal Longsword	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
-The Flute	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
-The Alley Flash with active	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	12209
-Prototype Rancour 4 stacks	4-bolide with shield	ATK%/CRYO/CR	3/7/10	11607
-Skyward Blade no active	4-bolide with shield	ATK%/CRYO/CR	7/4/9	11594
-The Alley Flash no active	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	11472
-The Black Sword	4-bs cryo	ATK%/CRYO/CR	5/3/12	11368
-Cool Steel with active	4-bs cryo	ATK%/CRYO/CR	0/5/15	11229
-Sword of Descension	4-bolide with shield	ATK%/CRYO/CD	0/18/2	11004
-Iron Sting 2 stacks	4-bs cryo	ATK%/CRYO/CR	5/3/12	10867
-Blackcliff Longsword 0 stack	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	10799
-Prototype Rancour 0 stack	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	10799
-Cool Steel no active	4-bolide with shield	ATK%/CRYO/CD	0/18/2	10480
-Fillet Blade	4-bolide with shield	ATK%/CRYO/CD	0/18/2	10480
-Iron Sting 0 stack	4-bolide with shield	ATK%/CRYO/CR	7/5/8	10164
-Festering Desire	4-bolide with shield	ATK%/CRYO/CR	7/5/8	10164
-Harbinger of Dawn with active	4-bolide with shield	ATK%/CRYO/CD	3/14/3	9848
-Dark Iron Sword with active	4-bolide with shield	ATK%/CRYO/CD	0/18/2	9796
-Favonius Sword	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9528
-Sacrificial Sword	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9528
-Traveler's Handy Sword	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9460
-Dark Iron Sword no active	4-bolide with shield	ATK%/CRYO/CD	4/16/0	8930
-Harbinger of Dawn no active	4-bolide with shield	ATK%/CRYO/CD	4/16/0	8930
-Skyrider Sword with active	4-bolide with shield	ATK%/CRYO/CD	0/18/2	8885
-Skyrider Sword no active	4-bolide with shield	ATK%/CRYO/CR	3/7/10	8404
-Silver Sword	4-bolide with shield	ATK%/CRYO/CR	0/8/12	4909
-Dull Blade	4-bolide with shield	ATK%/CRYO/CR	0/8/12	4800
+Sword	Refinement	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
+Summit Shaper 5 stacks with shield	1	4-bolide with shield	ATK%/CRYO/CR	0/8/12	16541
+Summit Shaper 5 stacks	1	4-bolide with shield	ATK%/CRYO/CR	0/8/12	15335
+Lion's Roar with active	5	4-bs cryo	ATK%/CRYO/CR	0/5/15	14962
+Blackcliff Longsword 3 stacks	5	4-bolide with shield	ATK%/CRYO/CR	0/8/12	14785
+Summit Shaper 0 stack	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	14371
+Skyward Blade with active	1	4-bs cryo	ATK%/CRYO/CD	6/11/3	14268
+Primordial Jade Cutter	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	13749
+Aquila Favonia	1	4-bolide with shield	ATK%/CRYO/CR	3/7/10	13185
+The Alley Flash with active	5	4-bs cryo	ATK%/CRYO/CR	6/2/12	13043
+The Black Sword	5	4-bs cryo	ATK%/CRYO/CR	5/3/12	12620
+Prototype Rancour 4 stacks	5	4-bolide with shield	ATK%/CRYO/CR	0/8/12	12500
+Lion's Roar no active	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
+Royal Longsword	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
+The Flute	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	12268
+Cool Steel with active	5	4-bs cryo	ATK%/CRYO/CR	0/5/15	12005
+Iron Sting 2 stacks	5	4-bs cryo	ATK%/CRYO/CR	5/3/12	11618
+Skyward Blade no active	1	4-bolide with shield	ATK%/CRYO/CR	7/4/9	11594
+The Alley Flash no active	1	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	11472
+Sword of Descension	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	11004
+Harbinger of Dawn with active	5	4-bolide with shield	ATK%/CRYO/CD	3/12/5	10873
+Blackcliff Longsword 0 stack	1	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	10799
+Prototype Rancour 0 stack	1	4-bolide with shield	ATK%/CRYO/ATK%	18/2/0	10799
+Dark Iron Sword with active	5	4-bolide with shield	ATK%/CRYO/CD	0/18/2	10696
+Cool Steel no active	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	10480
+Fillet Blade	1	4-bolide with shield	ATK%/CRYO/CD	0/18/2	10480
+Iron Sting 0 stack	1	4-bolide with shield	ATK%/CRYO/CR	7/5/8	10164
+Festering Desire	1	4-bolide with shield	ATK%/CRYO/CR	7/5/8	10164
+Favonius Sword	1	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9528
+Sacrificial Sword	1	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9528
+Traveler's Handy Sword	1	4-bolide with shield	ATK%/CRYO/CR	5/6/9	9460
+Skyrider Sword with active	5	4-bolide with shield	ATK%/CRYO/CR	0/8/12	9383
+Dark Iron Sword no active	1	4-bolide with shield	ATK%/CRYO/CD	4/16/0	8930
+Harbinger of Dawn no active	1	4-bolide with shield	ATK%/CRYO/CD	4/16/0	8930
+Skyrider Sword no active	1	4-bolide with shield	ATK%/CRYO/CR	3/7/10	8404

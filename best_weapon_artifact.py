@@ -106,12 +106,14 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
 def calculate_best_build_for_r1_weapon(all_dmg_results, dmg_col):
     best_build = dict()
     forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
+    allowed_stars = ['5', '4', '3']
     for result in all_dmg_results:
-        # If the sword is R1 and valid artifact set and either there is no record of the sword yet,
+        # If the sword is R1 or R5 4/3* and valid artifact set and either there is no record of the sword yet,
         # or a new build is better than the current best build.
-        if result[1] == '1' and result[2] not in forbidden_artifacts and \
+        if result[5] in allowed_stars and (result[1] == '1' or (result[1] == '5' and result[5] != '5')) and \
+           result[2] not in forbidden_artifacts and \
            (result[0] not in best_build or float(best_build[result[0]][-1]) < float(result[dmg_col])):
-            best_build[result[0]] = result[2:5] + [result[dmg_col]]
+            best_build[result[0]] = result[1:5] + [result[dmg_col]]
 
     best_build = [[key] + best_build[key] for key in best_build]
     best_build.sort(reverse=True, key=lambda x: float(x[-1]))
@@ -126,7 +128,7 @@ def main():
     partial_stats = apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_set_bonus)
 
     all_dmg_results = []
-    column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD',
+    column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Star',
                     'AA1 DMG', 'CA DMG', 'AA1 infuse DMG', 'CA infuse DMG', 'E DMG', 'Q per hit DMG']
 
     ########################################
@@ -166,8 +168,9 @@ def main():
         es_dmg *= kaeya.skills['es']['8']
         eb_dmg *= kaeya.skills['eb_perhit']['8']
 
-        current_row = key.split('|') + [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
-                                        str(int(ca_infuse_dmg)), str(int(es_dmg)), str(int(eb_dmg))]
+        current_row = key.split('|') + [str(int(s['Star']))] + \
+                      [str(int(aa_dmg)), str(int(ca_dmg)), str(int(aa_infuse_dmg)),
+                       str(int(ca_infuse_dmg)), str(int(es_dmg)), str(int(eb_dmg))]
         all_dmg_results.append(current_row)
 
     write_result_file('../results/master_weapon_artifact_sheet.tsv', column_names, all_dmg_results)
@@ -175,14 +178,14 @@ def main():
     ########################################
     # Generate viable builds.
     ########################################
-    best_for_r1_weapon_aa = calculate_best_build_for_r1_weapon(all_dmg_results, 5)
-    best_for_r1_weapon_ca = calculate_best_build_for_r1_weapon(all_dmg_results, 6)
-    best_for_r1_weapon_aa_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 7)
-    best_for_r1_weapon_ca_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 8)
-    best_for_r1_weapon_e = calculate_best_build_for_r1_weapon(all_dmg_results, 9)
-    best_for_r1_weapon_q = calculate_best_build_for_r1_weapon(all_dmg_results, 10)
+    best_for_r1_weapon_aa = calculate_best_build_for_r1_weapon(all_dmg_results, 6)
+    best_for_r1_weapon_ca = calculate_best_build_for_r1_weapon(all_dmg_results, 7)
+    best_for_r1_weapon_aa_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 8)
+    best_for_r1_weapon_ca_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 9)
+    best_for_r1_weapon_e = calculate_best_build_for_r1_weapon(all_dmg_results, 10)
+    best_for_r1_weapon_q = calculate_best_build_for_r1_weapon(all_dmg_results, 11)
 
-    column_names = ['Sword', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
+    column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
     write_result_file('../results/best_builds_for_AA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa)
     write_result_file('../results/best_builds_for_CA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_ca)
     write_result_file('../results/best_builds_for_AAinfuse_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa_infuse)
