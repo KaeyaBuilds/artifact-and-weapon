@@ -2,14 +2,14 @@ Sword	Refinement	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
 Blackcliff Longsword 3 stacks	5	2-bc-2-pf	ATK%/PHYS/CR	0/11/9	7884
 Summit Shaper 5 stacks with shield	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	7745
 Primordial Jade Cutter	1	4-glad	ATK%/PHYS/CD	0/11/9	7703
-Aquila Favonia	1	4-glad	ATK%/PHYS/CD	0/18/2	7557
+Aquila Favonia no proc	1	4-glad	ATK%/PHYS/CD	0/18/2	7557
 Summit Shaper 5 stacks	1	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	7180
 The Black Sword	5	4-glad	ATK%/PHYS/CD	1/13/6	7033
 Prototype Rancour 4 stacks	5	4-glad	ATK%/PHYS/CR	0/8/12	6927
 Lion's Roar with active	5	4-glad	ATK%/PHYS/CR	0/8/12	6815
 Blackcliff Longsword 3 stacks	1	4-glad	ATK%/PHYS/CR	0/11/9	6807
 Summit Shaper 0 stack	1	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	6728
-Skyward Blade with active	1	4-glad	ATK%/PHYS/CR	3/6/11	6641
+Skyward Blade with proc	1	4-glad	ATK%/PHYS/CR	3/6/11	6641
 Prototype Rancour 4 stacks	1	4-glad	ATK%/PHYS/CR	0/8/12	6459
 The Black Sword	1	4-glad	ATK%/PHYS/CD	1/13/6	6430
 Lion's Roar with active	1	4-glad	ATK%/PHYS/CD	0/18/2	6340
@@ -28,7 +28,7 @@ The Flute	5	4-glad	ATK%/PHYS/CR	0/8/12	5745
 The Alley Flash with active	1	4-glad	ATK%/PHYS/CR	3/7/10	5720
 Cool Steel with active	5	4-glad	ATK%/PHYS/CR	0/8/12	5514
 Harbinger of Dawn with active	1	4-glad	ATK%/PHYS/CR	0/10/10	5491
-Skyward Blade no active	1	4-glad	ATK%/PHYS/CR	3/6/11	5471
+Skyward Blade no proc	1	4-glad	ATK%/PHYS/CR	3/6/11	5471
 Iron Sting 2 stacks	5	4-glad	ATK%/PHYS/CR	1/8/11	5391
 The Alley Flash no active	1	4-glad	ATK%/PHYS/CR	3/7/10	5385
 The Alley Flash no active	5	4-glad	ATK%/PHYS/CR	3/7/10	5385
@@ -36,7 +36,7 @@ Cool Steel with active	1	4-glad	ATK%/PHYS/CR	0/8/12	5210
 Sword of Descension	1	4-glad	ATK%/PHYS/CR	0/8/12	5155
 Sword of Descension	5	4-glad	ATK%/PHYS/CR	0/8/12	5155
 Iron Sting 2 stacks	1	4-glad	ATK%/PHYS/CR	1/8/11	5093
-Dark Iron Sword with active	5	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	5008
+Dark Iron Sword with proc	5	2-bc-2-pf	ATK%/PHYS/CR	0/8/12	5008
 Harbinger of Dawn no active	1	4-glad	ATK%/PHYS/CR	0/12/8	4977
 Harbinger of Dawn no active	5	4-glad	ATK%/PHYS/CR	0/12/8	4977
 Cool Steel no active	1	2-bc-2-pf	ATK%/PHYS/CD	0/18/2	4907
@@ -47,16 +47,16 @@ Iron Sting 0 stack	1	4-glad	ATK%/PHYS/CR	1/8/11	4795
 Iron Sting 0 stack	5	4-glad	ATK%/PHYS/CR	1/8/11	4795
 Festering Desire	1	4-glad	ATK%/PHYS/CR	1/8/11	4795
 Festering Desire	5	4-glad	ATK%/PHYS/CR	1/8/11	4795
-Dark Iron Sword with active	1	4-glad	ATK%/PHYS/CR	0/8/12	4608
+Dark Iron Sword with proc	1	4-glad	ATK%/PHYS/CR	0/8/12	4608
 Favonius Sword	1	4-glad	ATK%/PHYS/CR	1/8/11	4498
 Favonius Sword	5	4-glad	ATK%/PHYS/CR	1/8/11	4498
 Sacrificial Sword	1	4-glad	ATK%/PHYS/CR	1/8/11	4498
 Sacrificial Sword	5	4-glad	ATK%/PHYS/CR	1/8/11	4498
 Traveler's Handy Sword	1	4-glad	ATK%/PHYS/CR	1/8/11	4466
 Traveler's Handy Sword	5	4-glad	ATK%/PHYS/CR	1/8/11	4466
-Skyrider Sword with active	5	4-glad	ATK%/PHYS/CD	0/18/2	4402
-Dark Iron Sword no active	1	4-glad	ATK%/PHYS/CR	0/8/12	4217
-Dark Iron Sword no active	5	4-glad	ATK%/PHYS/CR	0/8/12	4217
-Skyrider Sword with active	1	4-glad	ATK%/PHYS/CR	0/8/12	4185
-Skyrider Sword no active	1	4-glad	ATK%/PHYS/CR	0/8/12	3968
-Skyrider Sword no active	5	4-glad	ATK%/PHYS/CR	0/8/12	3968
+Skyrider Sword with proc	5	4-glad	ATK%/PHYS/CD	0/18/2	4402
+Dark Iron Sword no proc	1	4-glad	ATK%/PHYS/CR	0/8/12	4217
+Dark Iron Sword no proc	5	4-glad	ATK%/PHYS/CR	0/8/12	4217
+Skyrider Sword with proc	1	4-glad	ATK%/PHYS/CR	0/8/12	4185
+Skyrider Sword no proc	1	4-glad	ATK%/PHYS/CR	0/8/12	3968
+Skyrider Sword no proc	5	4-glad	ATK%/PHYS/CR	0/8/12	3968

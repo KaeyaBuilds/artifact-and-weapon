@@ -7,7 +7,7 @@ Lion's Roar with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	9746
 Blackcliff Longsword 3 stacks	1	4-bs frozen	ATK%/CRYO/CR	0/5/15	9390
 Summit Shaper 0 stack	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	9336
 Lion's Roar with active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	8956
-Aquila Favonia	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	8565
+Aquila Favonia no proc	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	8565
 The Alley Flash with active	5	4-bs frozen	ATK%/CRYO/CD	6/9/5	8501
 Harbinger of Dawn with active	5	4-bs frozen	ATK%/CRYO/CD	6/8/6	8260
 Prototype Rancour 4 stacks	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	8121
@@ -25,8 +25,8 @@ The Alley Flash with active	1	4-bs frozen	ATK%/CRYO/CD	6/9/5	7951
 Cool Steel with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	7820
 Iron Sting 2 stacks	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	7573
 Prototype Rancour 4 stacks	1	4-bs frozen	ATK%/CRYO/CR	2/1/17	7540
-Skyward Blade no active	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	7523
-Skyward Blade with active	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	7523
+Skyward Blade no proc	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	7523
+Skyward Blade with proc	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	7523
 Harbinger of Dawn with active	1	4-bs frozen	ATK%/CRYO/CR	5/1/14	7517
 The Alley Flash no active	1	4-bs frozen	ATK%/CRYO/CD	6/9/5	7402
 The Alley Flash no active	5	4-bs frozen	ATK%/CRYO/CD	6/9/5	7402
@@ -36,7 +36,7 @@ Sword of Descension	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	7149
 Iron Sting 2 stacks	1	4-bs frozen	ATK%/CRYO/CR	5/0/15	7084
 Prototype Rancour 0 stack	1	4-bs frozen	ATK%/CRYO/CR	5/0/15	6997
 Prototype Rancour 0 stack	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	6997
-Dark Iron Sword with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	6949
+Dark Iron Sword with proc	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	6949
 Harbinger of Dawn no active	1	4-bs frozen	ATK%/CRYO/CR	4/4/12	6830
 Harbinger of Dawn no active	5	4-bs frozen	ATK%/CRYO/CR	4/4/12	6830
 Cool Steel no active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	6808
@@ -47,16 +47,16 @@ Iron Sting 0 stack	1	4-bs frozen	ATK%/CRYO/CR	5/0/15	6594
 Iron Sting 0 stack	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	6594
 Festering Desire	1	4-bs frozen	ATK%/CRYO/CR	5/0/15	6594
 Festering Desire	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	6594
-Dark Iron Sword with active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	6364
+Dark Iron Sword with proc	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	6364
 Favonius Sword	1	4-bs frozen	ATK%/CRYO/CR	4/0/16	6185
 Favonius Sword	5	4-bs frozen	ATK%/CRYO/CR	4/0/16	6185
 Sacrificial Sword	1	4-bs frozen	ATK%/CRYO/CR	4/0/16	6185
 Sacrificial Sword	5	4-bs frozen	ATK%/CRYO/CR	4/0/16	6185
 Traveler's Handy Sword	1	4-bs frozen	ATK%/CRYO/CR	4/0/16	6141
 Traveler's Handy Sword	5	4-bs frozen	ATK%/CRYO/CR	4/0/16	6141
-Skyrider Sword with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	6096
-Dark Iron Sword no active	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	5799
-Dark Iron Sword no active	5	4-bs frozen	ATK%/CRYO/CR	3/1/16	5799
-Skyrider Sword with active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	5772
-Skyrider Sword no active	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	5459
-Skyrider Sword no active	5	4-bs frozen	ATK%/CRYO/CR	3/1/16	5459
+Skyrider Sword with proc	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	6096
+Dark Iron Sword no proc	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	5799
+Dark Iron Sword no proc	5	4-bs frozen	ATK%/CRYO/CR	3/1/16	5799
+Skyrider Sword with proc	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	5772
+Skyrider Sword no proc	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	5459
+Skyrider Sword no proc	5	4-bs frozen	ATK%/CRYO/CR	3/1/16	5459
