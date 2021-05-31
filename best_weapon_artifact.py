@@ -2,6 +2,7 @@ import os
 from data.kaeyastats import Kaeya
 from data.swords import initialize_swords
 from data.artifacts import initialize_artifacts
+from utils.io import write_result_file
 
 # Average ATK% per ATK% substat roll.
 N_A = 0.04975
@@ -32,7 +33,7 @@ def brute_force_substat_optimizer(B, O, F, OR, OD, N, sword_name):
             CD = k * N_CD
             D = (B * (1.0 + A + O) + F) * (1.0 + (CR + OR) * (CD + OD))
 
-            if D > max_D:
+            if D > max_D and CR + OR <= 1.0:
                 max_D = D
                 max_A_roll = i
                 max_CR_roll = j
@@ -97,16 +98,25 @@ def apply_optimal_artifact_substat(kaeya, swords, artifact_main_stats, artifact_
     column_names = ['Sword', 'Refinement', 'Artifact set', 'Mainstats',
                     'Substat ATK%/CR/CD (N=18)', 'Substat ATK%/CR/CD (N=20)', 'Substat ATK%/CR/CD (N=25)']
 
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-    result_file = os.path.join(dir_path, 'results/optimal_artifact_substat.tsv')
-    with open(result_file, 'w') as file:
-        file.write('\t'.join(column_names))
-        file.write('\n')
-        for result in all_results:
-            file.write('\t'.join(result))
-            file.write('\n')
+    write_result_file('../results/optimal_artifact_substat.tsv', column_names, all_results)
 
     return partial_stats
+
+
+def calculate_best_build_for_r1_weapon(all_dmg_results, dmg_col):
+    best_build = dict()
+    forbidden_artifacts = ['4-pf 1 stack', '4-pf 2 stacks', '4-bc with active', '4-bs frozen', '4-no with active']
+    for result in all_dmg_results:
+        # If the sword is R1 and valid artifact set and either there is no record of the sword yet,
+        # or a new build is better than the current best build.
+        if result[1] == '1' and result[2] not in forbidden_artifacts and \
+           (result[0] not in best_build or float(best_build[result[0]][-1]) < float(result[dmg_col])):
+            best_build[result[0]] = result[2:5] + [result[dmg_col]]
+
+    best_build = [[key] + best_build[key] for key in best_build]
+    best_build.sort(reverse=True, key=lambda x: float(x[-1]))
+
+    return best_build
 
 
 def main():
@@ -119,32 +129,35 @@ def main():
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD',
                     'AA1 DMG', 'CA DMG', 'AA1 infuse DMG', 'CA infuse DMG', 'E DMG', 'Q per hit DMG']
 
+    ########################################
     # Generate the master spread sheet.
+    ########################################
     for key in partial_stats:
         sword_name, refinement, artifact_set_name, mainstat_name, substat_investment = key.split('|')
         s = swords[sword_name]
         a = artifact_set_bonus[artifact_set_name]
+        m = artifact_main_stats[mainstat_name]
         r = int(refinement) - 1
         B, F, A, CR, CD = partial_stats[key]
 
         # Normal attack dmg.
-        aa_dmg = (B * (1 + A) + F) * (1 + CR * CD) * \
-                 (1 + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+        aa_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+                 (1 + m['PDB'] + a['PDB'] + a['NADB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg.
-        ca_dmg = (B * (1 + A) + F) * (1 + CR * CD) * \
-                 (1 + a['PDB'] + a['CADB'] + s['PDB@90'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+        ca_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+                 (1 + m['PDB'] + a['PDB'] + a['CADB'] + s['PDB@90'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Normal attack dmg with cryo infusion.
-        aa_infuse_dmg = (B * (1 + A) + F) * (1 + CR * CD) * \
-                 (1 + a['CDB'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+        aa_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+                 (1 + m['CDB'] + a['CDB'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg with cryo infusion.
-        ca_infuse_dmg = (B * (1 + A) + F) * (1 + CR * CD) * \
-                 (1 + a['CDB'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+        ca_infuse_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+                 (1 + m['CDB'] + a['CDB'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Elemental skill dmg.
-        es_dmg = (B * (1 + A) + F) * (1 + (CR + s['ESCR@R1'] + r * s['ESCR/R']) * CD) * \
-                 (1 + a['CDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
+        es_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + (CR + s['ESCR@R1'] + r * s['ESCR/R']) * CD) * \
+                 (1 + m['CDB'] + a['CDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
         # Elemental burst dmg.
-        eb_dmg = (B * (1 + A) + F) * (1 + CR * CD) * \
-                 (1 + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
+        eb_dmg = (B * (1 + A) + F + s['ATK@R1'] + r * s['ATK/R']) * (1 + CR * CD) * \
+                 (1 + m['CDB'] + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
 
         aa_dmg *= kaeya.skills['aa1']['8']
         ca_dmg *= kaeya.skills['cat']['8']
@@ -157,14 +170,25 @@ def main():
                                         str(ca_infuse_dmg), str(es_dmg), str(eb_dmg)]
         all_dmg_results.append(current_row)
 
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-    result_file = os.path.join(dir_path, 'results/master_weapon_artifact.tsv')
-    with open(result_file, 'w') as file:
-        file.write('\t'.join(column_names))
-        file.write('\n')
-        for result in all_dmg_results:
-            file.write('\t'.join(result))
-            file.write('\n')
+    write_result_file('../results/master_weapon_artifact_sheet.tsv', column_names, all_dmg_results)
+
+    ########################################
+    # Generate viable builds.
+    ########################################
+    best_for_r1_weapon_aa = calculate_best_build_for_r1_weapon(all_dmg_results, 5)
+    best_for_r1_weapon_ca = calculate_best_build_for_r1_weapon(all_dmg_results, 6)
+    best_for_r1_weapon_aa_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 7)
+    best_for_r1_weapon_ca_infuse = calculate_best_build_for_r1_weapon(all_dmg_results, 8)
+    best_for_r1_weapon_e = calculate_best_build_for_r1_weapon(all_dmg_results, 9)
+    best_for_r1_weapon_q = calculate_best_build_for_r1_weapon(all_dmg_results, 10)
+
+    column_names = ['Sword', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
+    write_result_file('../results/best_builds_for_AA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa)
+    write_result_file('../results/best_builds_for_CA_with_R1_weapons.tsv', column_names, best_for_r1_weapon_ca)
+    write_result_file('../results/best_builds_for_AAinfuse_with_R1_weapons.tsv', column_names, best_for_r1_weapon_aa_infuse)
+    write_result_file('../results/best_builds_for_CAinfuse_with_R1_weapons.tsv', column_names, best_for_r1_weapon_ca_infuse)
+    write_result_file('../results/best_builds_for_E_with_R1_weapons.tsv', column_names, best_for_r1_weapon_e)
+    write_result_file('../results/best_builds_for_Q_with_R1_weapons.tsv', column_names, best_for_r1_weapon_q)
 
 
 if __name__ == "__main__":

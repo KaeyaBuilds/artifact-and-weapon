@@ -20,3 +20,14 @@ def read_data_table(filename):
                 else:
                     table[line[0]][attribute] = float(value)
         return table
+
+
+def write_result_file(filename, column_names, all_results):
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    result_file = os.path.join(dir_path, filename)
+    with open(result_file, 'w') as file:
+        file.write('\t'.join(column_names))
+        file.write('\n')
+        for result in all_results:
+            file.write('\t'.join(result))
+            file.write('\n')
