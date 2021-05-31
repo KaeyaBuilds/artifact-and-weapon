@@ -12,7 +12,7 @@ def initialize_artifacts():
         'ATK%/PHYS/CR': {'ATK': 311, 'ATK%': 0.466, 'HP': 4780, 'PDB': 0.583, 'CDB': 0, 'CR': 0.311, 'CD': 0},
         'ATK%/PHYS/CD': {'ATK': 311, 'ATK%': 0.466, 'HP': 4780, 'PDB': 0.583, 'CDB': 0, 'CR': 0, 'CD': 0.622},
         'ATK%/CRYO/ATK%': {'ATK': 311, 'ATK%': 0.932, 'HP': 4780, 'PDB': 0, 'CDB': 0.466, 'CR': 0, 'CD': 0},
-        'ATK%/CRYO/+CR': {'ATK': 311, 'ATK%': 0.466, 'HP': 4780, 'PDB': 0, 'CDB': 0.466, 'CR': 0.311, 'CD': 0},
+        'ATK%/CRYO/CR': {'ATK': 311, 'ATK%': 0.466, 'HP': 4780, 'PDB': 0, 'CDB': 0.466, 'CR': 0.311, 'CD': 0},
         'ATK%/CRYO/CD': {'ATK': 311, 'ATK%': 0.466, 'HP': 4780, 'PDB': 0, 'CDB': 0.466, 'CR': 0, 'CD': 0.622},
         'ATK%/ATK%/ATK%': {'ATK': 311, 'ATK%': 1.398, 'HP': 4780, 'PDB': 0, 'CDB': 0, 'CR': 0, 'CD': 0},
         'ATK%/ATK%/CR': {'ATK': 311, 'ATK%': 0.932, 'HP': 4780, 'PDB': 0, 'CDB': 0, 'CR': 0.311, 'CD': 0},
