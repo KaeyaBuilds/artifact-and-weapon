@@ -1,4 +1,5 @@
-import os
+# (c)2021 wolich at Kaeya Mains
+
 from data.kaeyastats import Kaeya
 from data.swords import initialize_swords
 from data.artifacts import initialize_artifacts

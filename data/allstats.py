@@ -1,3 +1,5 @@
+# (c)2021 wolich at Kaeya Mains
+
 def initialize_allstats():
     flat_and_percent = ['ATK', 'DEF', 'HP', 'ATK%', 'DEF%', 'HP%']
     percent = ['CR',  # Crit rate.

@@ -1,3 +1,5 @@
+# (c)2021 wolich at Kaeya Mains
+
 from utils.io import read_data_table
 
 

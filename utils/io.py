@@ -1,3 +1,5 @@
+# (c)2021 wolich at Kaeya Mains
+
 import os
 
 
