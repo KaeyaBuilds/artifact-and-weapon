@@ -62,9 +62,9 @@ Check out the full ranking of all of the swords and their best artifacts:
   (the full version of the first table above).
 * Sword ranking for [Cryo Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv)
   (the full version of the second table above).
-* Sword ranking for [Phys Kaeya AA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA.tsv).
+* Sword ranking for [Phys Kaeya AA1 alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA1.tsv).
 * Sword ranking for [Phys Kaeya CA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_CA.tsv).
-* Sword ranking for [Cryo infused Kaeya AA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AAinfuse.tsv).
+* Sword ranking for [Cryo infused Kaeya AA1 alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA1infuse.tsv).
 * Sword ranking for [Cryo infused Kaeya CA alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_CAinfuse.tsv).
 * Sword ranking for [Kaeya's elemental skill alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_E.tsv).
 * Sword ranking for [Kaeya's elemental burst alone](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_Q.tsv).
