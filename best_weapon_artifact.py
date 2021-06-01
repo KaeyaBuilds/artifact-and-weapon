@@ -212,9 +212,9 @@ def main():
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Average DMG']
     write_result_file('../results/best_builds_for_phys_rotation.tsv', column_names, best_for_weapon_combop)
     write_result_file('../results/best_builds_for_cryo_rotation.tsv', column_names, best_for_weapon_comboc)
-    write_result_file('../results/best_builds_for_AA.tsv', column_names, best_for_weapon_aa)
+    write_result_file('../results/best_builds_for_AA1.tsv', column_names, best_for_weapon_aa)
     write_result_file('../results/best_builds_for_CA.tsv', column_names, best_for_weapon_ca)
-    write_result_file('../results/best_builds_for_AAinfuse.tsv', column_names, best_for_weapon_aa_infuse)
+    write_result_file('../results/best_builds_for_AA1infuse.tsv', column_names, best_for_weapon_aa_infuse)
     write_result_file('../results/best_builds_for_CAinfuse.tsv', column_names, best_for_weapon_ca_infuse)
     write_result_file('../results/best_builds_for_E.tsv', column_names, best_for_weapon_e)
     write_result_file('../results/best_builds_for_Q.tsv', column_names, best_for_weapon_q)

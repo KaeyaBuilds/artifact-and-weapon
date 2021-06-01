@@ -2,6 +2,7 @@
 Join our Discord at: https://discord.gg/CewbQqQATp
 
 Here we provide a comprehensive ranking of the best weapons for physical and cryo Kaeya and the artifacts you want to build for each weapon.
+Check out the descriptions below the tables for how to interpret them.
 
 Physical Kaeya best weapon and artifacts:
 
@@ -52,10 +53,11 @@ And a substat like "0/18/2" means given the sword, you should aim to get 0 rolls
 These rolls are not easy to achieve, they are just a general guideline of where you want the rolls to go.
 5. The average damage in two tables above are calculated for the following Kaeya rotation:
 ```E > Q > N2C x 2 > E > N2C x 2``` with 10 Q hits. N2C here is normal attacks 1, 2 plus a charged attack.
-6. We assume all of the weapons are at level 90, Kaeya is level 80 ascended C0 and Kaeya's talents are all at level 8.
-We assume on average the ATK% substat roll is 4.975%, CR is 3.3% and CD is 6.6%.
+6. We assume all of the weapons are at level 90, C0 Kaeya at level 80 ascended and Kaeya's talents are all at level 8.
+We don't consider the team comps. And we assume on average the ATK% substat roll is 4.975%, CR is 3.3% and CD is 6.6%.
 
-You want a full ranking of all of the swords and their best artifacts?
+Didn't find your build in the tables above?
+Check out the full ranking of all of the swords and their best artifacts:
 * Sword ranking for [Phys Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv)
   (the full version of the first table above).
 * Sword ranking for [Cryo Kaeya with rotation](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv)
