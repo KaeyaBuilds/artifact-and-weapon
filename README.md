@@ -4,7 +4,7 @@ Join our Discord at: https://discord.gg/CewbQqQATp
 Here we provide a comprehensive ranking of the best weapons for physical and cryo Kaeya and the artifacts you want to build for each weapon.
 Check out the descriptions below the tables for how to interpret them.
 
-Physical Kaeya best weapon and artifacts:
+Physical Kaeya best weapon and artifacts (Optimized for Kaeya's full DPS, which includes both auto attacks and skills. See the links below for the auto attack-alone optimization):
 
 | Sword                              | Refinement | Artifact  | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
 | ---------------------------------- | ---------- | --------- | ---------------------- | ------------------ | ----------- | ---------- |
@@ -21,7 +21,7 @@ Physical Kaeya best weapon and artifacts:
 | Blackcliff Longsword 0 stack       | Any        | 2-bc-2-pf | ATK%/ATK%/CR           | 0/11/9             | 157780      | 75%        |
 | Prototype Rancour 0 stack          | Any        | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 156521      | 75%        |
 
-Cryo Kaeya best weapon and artifacts:
+Cryo Kaeya best weapon and artifacts (Assume cryo infusion on auto attacks from Chongyun):
 
 | Sword                              | Refinement | Artifact    | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
 | ---------------------------------- | ---------- | ----------- | ---------------------- | ------------------ | ----------- | ---------- |
@@ -74,4 +74,4 @@ You should be able to look up your specific build (sword, refinement, artifact s
 top ranked build scenarios that are shown above.
   
 Footnotes: The calculations are a collaboration between wolich, elijam and ai.
-For more questions, join the [Kaeya Mains](https://discord.gg/CewbQqQATp) Discord.
+For more questions, join us at the [Kaeya Mains](https://discord.gg/CewbQqQATp) Discord.
