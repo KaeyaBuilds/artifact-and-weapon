@@ -139,7 +139,7 @@ def main():
 
     all_dmg_results = []
     column_names = ['Sword', 'Refinement', 'Artifact', 'Mainstat sand/gob/circ', 'Substat ATK%/CR/CD', 'Star',
-                    'AA1 DMG', 'CA DMG', 'AA1 infuse DMG', 'CA infuse DMG', 'E DMG', 'Q per hit DMG']
+                    'Phys Kaeya rotation DMG', 'Cryo Kaeya rotation DMG', 'AA1 DMG', 'CA DMG', 'AA1 infuse DMG', 'CA infuse DMG', 'E DMG', 'Q per hit DMG']
 
     ########################################
     # Generate the master spread sheet.
