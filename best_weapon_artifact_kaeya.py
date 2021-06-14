@@ -1,6 +1,6 @@
 # (c)2021 wolich at Kaeya Mains
 
-from data.kaeyastats import Kaeya
+from data.character_stats import Kaeya
 from data.swords import initialize_swords
 from data.artifacts import initialize_artifacts
 from utils.io import write_result_file

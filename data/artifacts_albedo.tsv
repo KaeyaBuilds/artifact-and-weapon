@@ -1,0 +1,10 @@
+Name	ATK%	DEF%	ESDB	EBDB	GDB	PDB	CR
+2-glad-2-petra	0.18	0	0	0	0.15	0	0
+2-glad-2-no	0.18	0	0	0.2	0	0	0
+2-petra-2-no	0	0	0	0.2	0.15	0	0
+2-def-2-glad	0.18	0.3	0	0	0	0	0
+2-def-2-no	0	0.3	0	0.2	0	0	0
+2-def-2-petra	0	0.3	0	0	0.15	0	0
+2-gamb-2-glad	0.18	0	0.2	0	0	0	0
+2-gamb-2-no	0	0	0.2	0.2	0	0	0
+2-gamb-2-petra	0	0	0.2	0	0.15	0	0
