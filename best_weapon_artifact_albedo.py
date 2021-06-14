@@ -35,13 +35,13 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
     # The probability of at least 5 rolls going into ATK% or CD or CR is: 0.75^25+...+0.75^5 = 94.69%
 
     # Character base attack.
-    B = albedo.atk['80'] + sword['ATK@90']
+    B = albedo.atk['90'] + sword['ATK@90']
     # Non-artifact substat ATK%.
     O = sword['ATK%@90'] + sword['ATK%@R1'] + refinement * sword['ATK%/R'] + mainstat['ATK%'] + artifact_set['ATK%']
     # Non-artifact substat flat attack.
     F = sword['ATK@R1'] + refinement * sword['ATK/R'] + mainstat['ATK']
     # Character base defense. Note: No swords give flat DEF so far.
-    BDEF = albedo.defense['80']
+    BDEF = albedo.defense['90']
     # Non-artifact substat DEF%.
     ODEF = sword['DEF%@90'] + sword['DEF%@R1'] + refinement * sword['DEF%/R'] + mainstat['DEF%'] + artifact_set['DEF%']
     # Non-artifact substat crit rate.
@@ -89,16 +89,16 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
                 s = sword
                 a = artifact_set
                 m = mainstat
-                r = int(refinement) - 1
+                r = refinement
 
                 dmg_aa1 = (B * (1 + A + O) + F) * (1 + min(1, (CR + OR)) * (CD + OD)) * \
                           (1 + a['PDB'] + s['PDB@90'] + s['NADB@R1'] + r * s['NADB/R'] + s[
                               'ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R']) * \
                           albedo.skills['aa1']['10']
-                dmg_e_init = (B * (1 + A + O) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * (CD + OD)) * \
+                dmg_e_init = (B * (1 + A + O) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
                              (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_init']['10']
-                dmg_e_perhit = BDEF * (1 + DEF + ODEF) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * (CD + OD)) * \
+                dmg_e_perhit = BDEF * (1 + DEF + ODEF) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
                              (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_perhit']['10']
                 dmg_q_init = (B * (1 + A + O) + F) * (1 + min(1, (CR + OR)) * (CD + OD)) * \

@@ -2,12 +2,12 @@ Sword	Refinement	Artifact	Mainstat sand/gob/circ	Substat ATK%/CR/CD	Average DMG
 Blackcliff Longsword 3 stacks	5	4-bs frozen	ATK%/CRYO/CR	0/5/15	26916
 Summit Shaper 5 stacks with shield	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	26520
 Primordial Jade Cutter	1	4-bs frozen	ATK%/CRYO/CD	3/3/14	25968
-Festering Desire	5	4-bs frozen	ATK%/CRYO/CD	5/9/6	25095
 Summit Shaper 5 stacks	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	24586
 Lion's Roar with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	24050
 Blackcliff Longsword 3 stacks	1	4-bs frozen	ATK%/CRYO/CR	0/5/15	23172
 Summit Shaper 0 stack	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	23040
 Lion's Roar with active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	22103
+Festering Desire	5	4-bs frozen	ATK%/CRYO/CD	5/9/6	21160
 Aquila Favonia no proc	1	4-bs frozen	ATK%/CRYO/CR	3/1/16	21136
 The Alley Flash with active	5	4-bs frozen	ATK%/CRYO/CD	6/9/5	20979
 Harbinger of Dawn with active	5	4-bs frozen	ATK%/CRYO/CD	6/8/6	20384
@@ -25,6 +25,7 @@ Blackcliff Longsword 0 stack	5	4-bs frozen	ATK%/CRYO/CR	6/2/12	19653
 The Alley Flash with active	1	4-bs frozen	ATK%/CRYO/CD	6/9/5	19623
 Cool Steel with active	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	19297
 Iron Sting 2 stacks	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	18690
+Festering Desire	1	4-bs frozen	ATK%/CRYO/CD	5/9/6	18648
 Prototype Rancour 4 stacks	1	4-bs frozen	ATK%/CRYO/CR	2/1/17	18608
 Skyward Blade no proc	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	18567
 Skyward Blade with proc	1	4-bs frozen	ATK%/CRYO/CD	6/8/6	18567
@@ -35,7 +36,6 @@ Cool Steel with active	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	18050
 Sword of Descension	1	4-bs frozen	ATK%/CRYO/CR	0/2/18	17642
 Sword of Descension	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	17642
 Iron Sting 2 stacks	1	4-bs frozen	ATK%/CRYO/CD	5/9/6	17482
-Festering Desire	1	4-bs frozen	ATK%/CRYO/CD	5/9/6	17388
 Prototype Rancour 0 stack	1	4-bs frozen	ATK%/CRYO/CR	5/0/15	17268
 Prototype Rancour 0 stack	5	4-bs frozen	ATK%/CRYO/CR	5/0/15	17268
 Dark Iron Sword with proc	5	4-bs frozen	ATK%/CRYO/CR	0/2/18	17148
