@@ -55,6 +55,7 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
     adjust = False
     if artifact_set_name.find('2-gamb') >= 0 or artifact_set_name.find('2-def') >= 0:
         B -= (311 - 232)
+        N -= 2
         adjust = True
 
     max_D_forRotation = -1
@@ -96,20 +97,20 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
                               'ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R']) * \
                           albedo.skills['aa1']['10']
                 dmg_e_init = (B * (1 + A + O) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
-                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
+                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_init']['10']
                 dmg_e_perhit = BDEF * (1 + DEF + ODEF) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
-                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
+                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_perhit']['10']
                 dmg_q_init = (B * (1 + A + O) + F) * (1 + min(1, (CR + OR)) * (CD + OD)) * \
-                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R']) * \
+                             (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['eb_init_c0']['10']
                 dmg_q_perhit = (B * (1 + A + O) + F) * (1 + min(1, (CR + OR)) * (CD + OD)) * \
-                               (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R']) * \
+                               (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R']) * \
                                albedo.skills['eb_perhit_c0']['10']
 
                 # 40 second rotation, resets E twice, 15 proc (not 20, room for error), one Q and 4 Q blossom hits.
-                dmg_rotation = dmg_aa1 * 2 + dmg_e_init * 2 + dmg_e_perhit * 15 + dmg_q_init + dmg_q_perhit * 4
+                dmg_rotation = dmg_aa1 * 15 + dmg_e_init * 2 + dmg_e_perhit * 15 + dmg_q_init + dmg_q_perhit * 4
 
                 if dmg_e_perhit > max_D_forE and CR + OR <= 1.0:
                     max_D_forE = dmg_e_perhit

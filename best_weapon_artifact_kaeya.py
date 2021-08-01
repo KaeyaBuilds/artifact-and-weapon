@@ -160,16 +160,16 @@ def main():
                  (1 + m['PDB'] + a['PDB'] + a['CADB'] + s['PDB@90'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Normal attack dmg with cryo infusion.
         aa_infuse_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
-                 (1 + m['CDB'] + a['CDB'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+                 (1 + m['CDB'] + a['CDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['NADB'] + s['NADB@R1'] + r * s['NADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Charged attack dmg with cryo infusion.
         ca_infuse_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
-                 (1 + m['CDB'] + a['CDB'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
+                 (1 + m['CDB'] + a['CDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['CADB'] + s['CADB@R1'] + r * s['CADB/R'] + s['ADB@R1'] + r * s['ADB/R']) * (1 + s['AS@R1'] + r * s['AS/R'])
         # Elemental skill dmg.
         es_dmg = (B * (1 + A) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R']), 1.0) * CD) * \
-                 (1 + m['CDB'] + a['CDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
+                 (1 + m['CDB'] + a['CDB'] + s['EDB@R1'] + r * s['EDB/R'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R'])
         # Elemental burst dmg.
         eb_dmg = (B * (1 + A) + F) * (1 + min(CR, 1.0) * CD) * \
-                 (1 + m['CDB'] + a['CDB'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
+                 (1 + m['CDB'] + a['CDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['EBDB'] + s['ADB@R1'] + r * s['ADB/R'])
 
         # E > Q > N2C x 2 > E > N2C x 2. 10 hits on Q.
         basic_combo_phys = 4 * aa_dmg * (kaeya.skills['aa1']['8'] + kaeya.skills['aa2']['8']) + \

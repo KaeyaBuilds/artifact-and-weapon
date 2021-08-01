@@ -2,46 +2,70 @@
 We provide comprehensive lists of the best builds for physical and cryo Kaeya.
 Since some of the presented results may look counterintuitive, please check out the sections below for [how to use our tables](#how-to-interpret-and-use-the-tables) and [common questions](#common-questions).
 
-## Top physical Kaeya builds ([full list](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv))
-
-This is optimized for Kaeya's full DPS, which includes his normal/charged attacks and elemental skill/burst. If you want to optimize for his normal/charged attacks only, check out the [AA1](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA1.tsv) and [CA](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_CA.tsv) links in the [full lists](#full-lists) section.
-
-| Sword                              | Refinement | Artifact  | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
-| ---------------------------------- | ---------- | --------- | ---------------------- | ------------------ | ----------- | ---------- |
-| Summit Shaper 5 stacks with shield | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 209544      | 100%       |
-| Primordial Jade Cutter             | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/11/9             | 207337      | 99%        |
-| Aquila Favonia no proc             | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 194391      | 93%        |
-| Summit Shaper 5 stacks             | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 194266      | 93%        |
-| The Black Sword                    | 5          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/4/16             | 182280      | 87%        |
-| Summit Shaper 0 stack              | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 182044      | 87%        |
-| Prototype Rancour 4 stacks         | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 177978      | 85%        |
-| The Black Sword                    | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/4/16             | 170365      | 81%        |
-| Prototype Rancour 4 stacks         | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 167249      | 80%        |
-| Harbinger of Dawn with active      | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/17/3             | 163914      | 78%        |
-| Blackcliff Longsword 0 stack       | Any        | 2-bc-2-pf | ATK%/ATK%/CR           | 0/11/9             | 157780      | 75%        |
-| Prototype Rancour 0 stack          | Any        | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 156521      | 75%        |
-
 ## Top cryo Kaeya builds ([full list](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_cryo_rotation.tsv))
 
 Similar to the table above, this is optimized for Kaeya's full DPS, the only difference is that we also assume 100% cryo infusion uptime on Kaeya's normal/charged attacks from Chongyun.
 
 | Sword                              | Refinement | Artifact    | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
 | ---------------------------------- | ---------- | ----------- | ---------------------- | ------------------ | ----------- | ---------- |
-| Summit Shaper 5 stacks with shield | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 298936      | 100%       |
-| Primordial Jade Cutter             | 1          | 4-bs frozen | ATK%/CRYO/CD           | 3/3/14             | 292718      | 98%        |
-| Summit Shaper 5 stacks             | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 277140      | 93%        |
-| Summit Shaper 0 stack              | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 259704      | 87%        |
-| The Black Sword                    | 5          | 4-bs frozen | ATK%/CRYO/CD           | 5/5/10             | 247941      | 83%        |
-| Aquila Favonia no proc             | 1          | 4-bs frozen | ATK%/CRYO/CD           | 3/10/7             | 238252      | 80%        |
-| The Black Sword                    | 1          | 4-bs frozen | ATK%/CRYO/CD           | 5/5/10             | 235192      | 79%        |
-| Harbinger of Dawn with active      | 5          | 4-bs frozen | ATK%/CRYO/CD           | 6/8/6              | 229768      | 77%        |
-| Prototype Rancour 4 stacks         | 5          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 225909      | 76%        |
-| Lion's Roar no active              | Any        | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 74%        |
-| Royal Longsword                    | Any        | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 74%        |
-| The Flute                          | Any        | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 74%        |
-| Blackcliff Longsword 0 stack       | Any        | 4-bs frozen | ATK%/CRYO/CR           | 6/2/12             | 221527      | 74%        |
-| Prototype Rancour 4 stacks         | 1          | 4-bs frozen | ATK%/CRYO/CR           | 2/1/17             | 209752      | 70%        |
-| Skyward Blade no proc              | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/8/6              | 209288      | 70%        |
+| Mistsplitter Reforged 3 stacks     | 1          | 4-bs frozen | ATK%/CRYO/CR           | 7/2/11             | 316104      | 100%       |
+| Summit Shaper 5 stacks with shield | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 298936      | 95%        |
+| Mistsplitter Reforged 2 stacks     | 1          | 4-bs frozen | ATK%/CRYO/CR           | 7/2/11             | 297288      | 94%        |
+| Primordial Jade Cutter             | 1          | 4-bs frozen | ATK%/CRYO/CD           | 3/3/14             | 292718      | 93%        |
+| Mistsplitter Reforged 1 stack      | 1          | 4-bs frozen | ATK%/CRYO/CR           | 7/2/11             | 281609      | 89%        |
+| Summit Shaper 5 stacks             | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 277140      | 88%        |
+| Mistsplitter Reforged              | 1          | 4-bs frozen | ATK%/CRYO/CR           | 11/7/2             | 272201      | 86%        |
+| Summit Shaper 0 stack              | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 259704      | 82%        |
+| The Black Sword                    | 5          | 4-bs frozen | ATK%/CRYO/CD           | 10/5/5             | 247941      | 78%        |
+| Aquila Favonia no proc             | 1          | 4-bs frozen | ATK%/CRYO/CD           | 3/10/7             | 238252      | 75%        |
+| The Alley Flash with active        | 5          | 4-bs frozen | ATK%/CRYO/CD           | 6/9/5              | 236479      | 75%        |
+| The Black Sword                    | 1          | 4-bs frozen | ATK%/CRYO/CD           | 5/5/10             | 235192      | 74%        |
+| Skyward Blade with proc            | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/8/6              | 232173      | 73%        |
+| Harbinger of Dawn with active      | 5          | 4-bs frozen | ATK%/CRYO/CD           | 6/6/8              | 229768      | 73%        |
+| Prototype Rancour 4 stacks         | 5          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 225909      | 71%        |
+| Lion's Roar no active              | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 70%        |
+| Royal Longsword                    | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 70%        |
+| The Flute                          | 1          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 221708      | 70%        |
+| Blackcliff Longsword 0 stack       | 1          | 4-bs frozen | ATK%/CRYO/CR           | 6/2/12             | 221527      | 70%        |
+| The Alley Flash with active        | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/9/5              | 221189      | 70%        |
+| Cool Steel with active             | 5          | 4-bs frozen | ATK%/CRYO/CR           | 0/2/18             | 217522      | 69%        |
+| Iron Sting 2 stacks                | 5          | 4-bs frozen | ATK%/CRYO/CD           | 5/9/6              | 210677      | 67%        |
+| Prototype Rancour 4 stacks         | 1          | 4-bs frozen | ATK%/CRYO/CR           | 17/2/1             | 209752      | 66%        |
+| Skyward Blade no proc              | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/8/6              | 209288      | 66%        |
+| The Alley Flash no active          | 1          | 4-bs frozen | ATK%/CRYO/CD           | 6/9/5              | 205900      | 65%        |
+
+## Top physical Kaeya builds ([full list](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_phys_rotation.tsv))
+
+This is optimized for Kaeya's full DPS, which includes his normal/charged attacks and elemental skill/burst. If you want to optimize for his normal/charged attacks only, check out the [AA1](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_AA1.tsv) and [CA](https://github.com/KaeyaBuilds/artifact-and-weapon/blob/main/results/best_builds_for_CA.tsv) links in the [full lists](#full-lists) section.
+
+| Sword                              | Refinement | Artifact  | Mainstat sand/gob/circ | Substat ATK%/CR/CD | Average DMG | Comparison |
+| ---------------------------------- | ---------- | --------- | ---------------------- | ------------------ | ----------- | ---------- |
+| Mistsplitter Reforged 3 stacks     | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/12/8             | 212304      | 100%       |
+| Summit Shaper 5 stacks with shield | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 209544      | 99%        |
+| Primordial Jade Cutter             | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/11/9             | 207337      | 98%        |
+| Mistsplitter Reforged 2 stacks     | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/12/8             | 202846      | 96%        |
+| Mistsplitter Reforged 1 stack      | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/12/8             | 194964      | 92%        |
+| Aquila Favonia no proc             | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 194391      | 92%        |
+| Summit Shaper 5 stacks             | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 194266      | 92%        |
+| Mistsplitter Reforged              | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/12/8             | 190235      | 90%        |
+| The Black Sword                    | 5          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/4/16             | 182280      | 86%        |
+| Summit Shaper 0 stack              | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 182044      | 86%        |
+| Prototype Rancour 4 stacks         | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 177978      | 84%        |
+| The Alley Flash with active        | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 175297      | 83%        |
+| The Black Sword                    | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/4/16             | 170365      | 80%        |
+| Skyward Blade with proc            | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/17/3             | 169815      | 80%        |
+| Prototype Rancour 4 stacks         | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 167249      | 79%        |
+| Harbinger of Dawn with active      | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/17/3             | 163914      | 77%        |
+| The Alley Flash with active        | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 161002      | 76%        |
+| Blackcliff Longsword 0 stack       | 1          | 2-bc-2-pf | ATK%/ATK%/CR           | 0/11/9             | 157780      | 74%        |
+| Prototype Rancour 0 stack          | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 156521      | 74%        |
+| Cool Steel with active             | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 156146      | 74%        |
+| Iron Sting 2 stacks                | 5          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 155799      | 73%        |
+| Lion's Roar no active              | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 155410      | 73%        |
+| Royal Longsword                    | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 155410      | 73%        |
+| The Flute                          | 1          | 2-bc-2-pf | ATK%/PHYS/CD           | 0/18/2             | 155410      | 73%        |
+| Skyward Blade no proc              | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/17/3             | 149076      | 70%        |
+| The Alley Flash no active          | 1          | 2-bc-2-pf | ATK%/ATK%/CD           | 0/18/2             | 146707      | 69%        |
 
 ## How to interpret and use the tables
 1. A mainstat like "ATK%/PHYS/CD" means given the sword, you want to use ATK% sand,
