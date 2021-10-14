@@ -1,16 +1,16 @@
-# Albedo
+# Albedo BiS
 
 If the v2.3 leaks are true:
-* Albedo gets a **~40% dmg increase** from new weapon and artifact set combined.
-* The artifact and the weapon each brings ~20% of dmg increase.
-* R5 Cinnabar Spindle (new 4* weapon) beats any existing R5 5* weapons.
+* Albedo gets a **~40% dmg increase** from the new weapon and artifact set combined.
+  * The artifact and the weapon each brings ~20% of dmg increase.
+* R5 Cinnabar Spindle (new 4* weapon) beats any existing R5 5* weapon.
   * The top contender being R5 Mistsplitter Reforged with 2 stacks. But R5 Cinnabar Spindle beats it by +12% dmg.
 * 4 piece hod (Husk of Opulent Dreams) artifact set is BiS.
   * 2-hod-2-petra is the second best artifact set. It is worse than 4 stack 4-hod by ~16% but it is ~4% better than 1 stack 4-hod.
 
 More details:
 
-| Sword                          | Refinement | Artifact set   | Mainstats    | E optimized damage | Rotation optimized damage | Dmg compare |
+| Sword                          | Refinement | Artifact set   | Mainstats    | E optimized outgoing damage | Rotation optimized outgoing damage | Dmg compare |
 | ------------------------------ | ---------- | -------------- | ------------ | ------------------ | ------------------------- | ----------- |
 | Cinnabar Spindle               | 5          | 4-hod 4 stacks | DEF%/GEO/CR  | 27378.2087         | 490985.3209               | 143.46%     |
 | Mistsplitter Reforged 2 stacks | 5          | 4-hod 4 stacks | DEF%/DEF%/CR | 25088.47908        | 494527.7233               | 131.46%     |
