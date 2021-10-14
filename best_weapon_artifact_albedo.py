@@ -200,10 +200,10 @@ def filter_master_sheet():
 
 
 def main():
-    #albedo = Albedo()
-    #swords = initialize_swords()
-    #artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
-    #generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
+    albedo = Albedo()
+    swords = initialize_swords()
+    artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
+    generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
     filter_master_sheet()
 
 
