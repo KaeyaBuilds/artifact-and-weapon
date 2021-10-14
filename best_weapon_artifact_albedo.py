@@ -179,19 +179,19 @@ def filter_master_sheet():
     df = df[(df['Refinement'] == 1) | (df['Refinement'] == 5)]
     df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
     # Filter 2.
-    df = df.groupby(['Sword', 'Refinement', 'Artifact set']).head(2).reset_index(drop=True)
+    df = df.groupby(['Sword', 'Refinement', 'Artifact set']).head(1).reset_index(drop=True)
     df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
     # Filter 3.
-    df = df.groupby(['Sword', 'Refinement']).head(4).reset_index(drop=True)
+    df = df.groupby(['Sword', 'Refinement']).head(2).reset_index(drop=True)
     df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
     df.to_csv(get_file_path('../results/albedo/filtered_combinations.tsv'), sep='\t', index=False)
 
 
 def main():
-    #albedo = Albedo()
-    #swords = initialize_swords()
-    #artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
-    #generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
+    albedo = Albedo()
+    swords = initialize_swords()
+    artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
+    generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
     filter_master_sheet()
 
 
