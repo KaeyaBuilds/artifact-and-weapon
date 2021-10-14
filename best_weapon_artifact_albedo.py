@@ -1,9 +1,10 @@
-# (c)2021 wolich at Kaeya Mains
+# (c)2021 wolich
 
 from data.character_stats import Albedo
 from data.swords import initialize_swords
 from data.artifacts import initialize_artifacts
-from utils.io import write_result_file
+from utils.io import write_result_file, get_file_path
+import pandas as pd
 
 # For 5 star artifacts.
 # Average ATK% per ATK% substat roll.
@@ -43,6 +44,8 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
     # Character base defense. Note: No swords give flat DEF so far.
     BDEF = albedo.defense['90']
     # Non-artifact substat DEF%.
+    # The sword base stats are considered here but the sword stats that benefits elemental skill only are accounted for
+    # in the section below instead.
     ODEF = sword['DEF%@90'] + sword['DEF%@R1'] + refinement * sword['DEF%/R'] + mainstat['DEF%'] + artifact_set['DEF%']
     # Non-artifact substat crit rate.
     OR = sword['CR@90'] + sword['CR@R1'] + refinement * sword['CR/R'] + mainstat['CR'] + artifact_set['CR'] + 0.05
@@ -99,7 +102,7 @@ def brute_force_substat_optimizer_on_drugs(albedo, sword, refinement, mainstat, 
                 dmg_e_init = (B * (1 + A + O) + F) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
                              (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_init']['10']
-                dmg_e_perhit = BDEF * (1 + DEF + ODEF) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
+                dmg_e_perhit = BDEF * (1 + DEF + ODEF + s['ESDEF%@R1'] + r * s['ESDEF%/R']) * (1 + min((CR + s['ESCR@R1'] + r * s['ESCR/R'] + OR), 1.0) * (CD + OD)) * \
                              (1 + albedo.gdb['80'] + m['GDB'] + a['GDB'] + s['EDB@R1'] + r * s['EDB/R'] + a['ESDB'] + s['ESDB@R1'] + r * s['ESDB/R'] + s['ADB@R1'] + r * s['ADB/R']) * \
                              albedo.skills['es_perhit']['10']
                 dmg_q_init = (B * (1 + A + O) + F) * (1 + min(1, (CR + OR)) * (CD + OD)) * \
@@ -168,11 +171,28 @@ def generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonu
     write_result_file('../results/albedo/all_combinations.tsv', column_names, all_results)
 
 
+def filter_master_sheet():
+    df = pd.read_csv(get_file_path('../results/albedo/all_combinations.tsv'), sep='\t')
+    print(df.describe())
+
+    # Filter 1.
+    df = df[(df['Refinement'] == 1) | (df['Refinement'] == 5)]
+    df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
+    # Filter 2.
+    df = df.groupby(['Sword', 'Refinement', 'Artifact set']).head(2).reset_index(drop=True)
+    df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
+    # Filter 3.
+    df = df.groupby(['Sword', 'Refinement']).head(4).reset_index(drop=True)
+    df = df.sort_values(by=['E optimized damage', 'Rotation optimized damage'], ascending=[False, False])
+    df.to_csv(get_file_path('../results/albedo/filtered_combinations.tsv'), sep='\t', index=False)
+
+
 def main():
-    albedo = Albedo()
-    swords = initialize_swords()
-    artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
-    generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
+    #albedo = Albedo()
+    #swords = initialize_swords()
+    #artifact_set_bonus, artifact_main_stats = initialize_artifacts(unit='albedo')
+    #generate_master_sheet(albedo, swords, artifact_main_stats, artifact_set_bonus)
+    filter_master_sheet()
 
 
 if __name__ == "__main__":

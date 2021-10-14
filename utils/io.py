@@ -1,4 +1,4 @@
-# (c)2021 wolich at Kaeya Mains
+# (c)2021 wolich
 
 import os
 
@@ -33,3 +33,8 @@ def write_result_file(filename, column_names, all_results):
         for result in all_results:
             file.write('\t'.join(result))
             file.write('\n')
+
+
+def get_file_path(filename):
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    return os.path.join(dir_path, filename)

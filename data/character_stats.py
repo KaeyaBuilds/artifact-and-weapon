@@ -1,4 +1,4 @@
-# (c)2021 wolich at Kaeya Mains
+# (c)2021 wolich
 
 from utils.io import read_data_table
 

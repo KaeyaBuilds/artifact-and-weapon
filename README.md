@@ -107,7 +107,3 @@ If you want to optimize for physical Kaeya's [normal](https://github.com/KaeyaBu
 The master table contains all of the sword-artifact combinations with refinements R1 to R5.
 You should be able to look up your specific build (sword, refinement, artifact set and mainstats) in the master table and compare it with the 
 top ranked build scenarios that are shown above.
-  
-## Footnote
-The calculations are a collaboration between wolich, elijam and ai.
-For more questions, join us at the [Kaeya Mains](https://discord.gg/CewbQqQATp) Discord.

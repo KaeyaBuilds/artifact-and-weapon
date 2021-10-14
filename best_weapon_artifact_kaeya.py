@@ -1,4 +1,4 @@
-# (c)2021 wolich at Kaeya Mains
+# (c)2021 wolich
 
 from data.character_stats import Kaeya
 from data.swords import initialize_swords
